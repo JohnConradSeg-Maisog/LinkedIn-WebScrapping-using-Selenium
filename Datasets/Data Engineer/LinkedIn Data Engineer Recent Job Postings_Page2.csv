@@ -1,0 +1,1213 @@
+Title,CompanyDetails,JobDetails,JobDescription,JobSkills
+Data Engineer-Data Warehouse,"IBM · Cebu, Central Visayas, Philippines Reposted 1 week ago · 13 applicants",On-site Full-time,"About the job
+662694BR
+
+Introduction
+
+In this role, you'll work in one of our IBM Consulting Client Innovation Centers (Delivery Centers), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world. Our delivery centers offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology.
+
+A career in IBM Consulting is rooted by long-term relationships and close collaboration with clients across the globe.
+
+You'll work with visionaries across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. Your ability to accelerate impact and make meaningful change for your clients is enabled by our strategic partner ecosystem and our robust technology platforms across the IBM portfolio; including Software and Red Hat.
+
+Curiosity and a constant quest for knowledge serve as the foundation to success in IBM Consulting. In your role, you'll be encouraged to challenge the norm, investigate ideas outside of your role, and come up with creative solutions resulting in ground breaking impact for a wide network of clients. Our culture of evolution and empathy centers on long-term career growth and development opportunities in an environment that embraces your unique skills and experience.
+
+Your Role and Responsibilities
+
+Provides technical expertise in the design and development using Data Appliances like Teradata, Sailfish business and analytics solutions. Designs, develops and/or re-engineers highly complex application components, and integrate software packages, programs and reusable objects residing on multiple platforms
+
+Required Technical and Professional Expertise
+
+Must Have Skills
+
+
+Experience in ETL, Snowflake and or DBT.
+Experience on databases like DB2, Netezza.
+Experience in Scheduling tools like Control-M.
+
+
+Preferred Technical And Professional Expertise
+
+Nice to have skills:
+
+
+SQL, Unix scripting, Shell scripting.
+
+
+About Business Unit
+
+IBM Services is a team of business, strategy and technology consultants that design, build, and run foundational systems and services that is the backbone of the world's economy. IBM Services partners with the world's leading companies in over 170 countries to build smarter businesses by reimagining and reinventing through technology, with its outcome-focused methodologies, industry-leading portfolio and world class research and operations expertise leading to results-driven innovation and enduring excellence.
+
+Your Life @ IBM
+
+In a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+Are you ready to be an IBMer?
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, caste, genetics, pregnancy, disability, neurodivergence, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.","Data Engineering
+Add,Data Science
+Add,Databases
+Add,Extract, Transform, Load (ETL)
+Add,Microsoft Power BI
+Add,Netezza
+Add,SQL
+Add,Scheduling Tools
+Add,Snowflake
+Add,Snowflake Cloud
+Add,"
+Data Engineer,"Manulife · Makati, National Capital Region, Philippines Reposted 5 hours ago · 43 applicants",Full-time Entry level,"About the job
+We are a leading financial services provider committed to making decisions easier and lives better for our customers and colleagues around the world. From our environmental initiatives to our community investments, we lead with values throughout our business. To help us stand out, we help you step up, because when colleagues are healthy, respected and meaningfully challenged, we all thrive. Discover how you can grow your career, make impact and drive real change with our Winning Team today.
+
+Working Arrangement
+
+Hybrid
+
+Job Description
+
+The Opportunity
+
+Manulife’s Digital Operations is seeking for an experienced Data Engineer to join our team to provide data-driven solutions and support Manulife/John Hancock business units. We are looking for the right individual who would be interested to propose and develop data solutions, has strong willingness to learn through team collaboration, desire to drive and execute on our data strategy, willing to help mature our agile practices, and is looking for an opportunity to embrace technical challenges and be part of a self-organizing team.
+
+On The Job You Will
+
+Design and develop data pipelines and ETL jobs using Big Data Technologies based on functional/non-functional business requirements
+Design & implement Data Integration/Ingestion/Extraction solutions based on high level architecture design
+Identify, design and implement process improvements & delivery optimizations
+Collaborate with Stakeholders, Business Analysts and Data Architects to assist and translate business requirements to technical solutions
+Develop big data and analytic solutions leveraging new or existing technology to advance Manulife’s all lines of business
+Exploratory data analysis; Query and process on-premise or cloud-based data, provide reports, summarize and visualize the data
+Design, upgrade and implement new data workflows, automation, tools and API integrations.
+Perform POC on new integration patterns and solutions.
+Write and maintain technical documentation
+Perform unit tests and system integration tests
+Executes updates, patches, and other activities required to maintain and enhance the operations of on-premise or cloud-based environments
+Supports the Agile delivery squads when required
+
+We Are Looking For Someone With
+
+At least 2 years experience as Data Engineer with focus on big data processing and/or relational databases
+At least 2 years experience working with Microsoft Azure Data Platform, specifically Azure Data Lake, Azure Data Factory, Azure Databricks
+Experienced in any of the following programming/scripting languages (SQL, Python, Shell, Scala)
+Experienced in creating data pipelines & developing complex and optimized queries
+Experienced with working on Structured, Semi-Structured, Unstructured datasets
+Knowledgeable with any of the Big Data tools and technologies: Hadoop, Spark, Hive, Sqoop, Kafka, Nifi
+Knowledgeable with relational SQL and NoSQL databases: MSSQL, Postgres, HBase (MongoDB is a plus)
+Experienced with Workflow Management Tools: Airflow, Crontab, CA Workload Automation
+Knowledgeable with CI/CD tools
+Knowledgeable or at least have the basic concept of Data Visualization in any of the following tools: Tableau, PowerBI, QlikView/QlikSense
+Knowledgeable in using collaboration tools (eg. MS Teams/Skype, Confluence, JIRA)
+Experience with any SLDC Methodologies and familiarity with different Agile methodologies
+Demonstrates a commitment to delivering excellent service, balanced with appropriate risk management.
+Monitor, validate, and drive continuous improvement to methods, and propose enhancements to data sources that improve usability and results
+Good Communication and presentation skills
+Analytical, structured, organized, and proactive
+Stakeholder and project management is a plus
+
+What can we offer you?
+
+A competitive salary and benefits packages.
+A growth trajectory that extends upward and outward, encouraging you to follow your passions and learn new skills.
+A focus on growing your career path with us.
+Flexible work policies and strong work-life balance.
+Professional development and leadership opportunities.
+
+Our commitment to you
+
+Values-first culture We lead with our Values every day and bring them to life together.
+Boundless opportunity We create opportunities to learn and grow at every stage of your career.
+Continuous innovation We invite you to help redefine the future of financial services.
+Delivering the promise of Diversity, Equity and Inclusion We foster an inclusive workplace where everyone thrives.
+Championing Corporate Citizenship We build a business that benefits all stakeholders and has a positive social and environmental impact.
+
+About Manulife And John Hancock
+
+Manulife Financial Corporation is a leading international financial services group that helps people make their decisions easier and lives better. With our global headquarters in Toronto, Canada, we operate as Manulife across our offices in Asia, Canada, and Europe, and primarily as John Hancock in the United States. We provide financial advice, insurance, and wealth and asset management solutions for individuals, groups and institutions. At the end of 2022, we had more than 40,000 employees, over 116,000 agents, and thousands of distribution partners, serving over 34 million customers. At the end of 2022, we had $1.3 trillion (US$1.0 trillion) in assets under management and administration, including total invested assets of $0.4 trillion (US $0.3 trillion), and segregated funds net assets of $0.3 trillion (US$0.3 trillion). We trade as ‘MFC’ on the Toronto, New York, and the Philippine stock exchanges, and under ‘945’ in Hong Kong.
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com.","Analytics
+Add,Azure Data Factory
+Add,Big Data
+Add,Data Analytics
+Add,Data Science
+Add,Data Visualization
+Add,Databases
+Add,Extract, Transform, Load (ETL)
+Add,Qlik Sense
+Add,QlikView
+Add,"
+Senior Data Engineer,Ceridian · Philippines 2 weeks ago · 22 applicants,Remote Full-time Mid-Senior level,"About the job
+Location: The successful candidate will have the opportunity to work in a hybrid environment; working remote as well as at the closest office location.
+
+About The Opportunity
+
+The Enterprise Data Team is looking for a Data Solutions Developer Sr responsible for building complex enterprise data that the business requires to drive actionable insights; transforming, modelling, processing and extracting value from datasets; utilizing cutting-edge technology to provision the data to the business to enable business self service
+
+What You’ll Get To Do
+
+Integrate, transform, and consolidate data from various structured and unstructured data systems into structures that are suitable for building analytics solutions. 
+Ensure that data pipelines and data stores are high-performing, efficient, organized, and reliable, given a specific set of business requirements and constraints
+Bring data into the Data Lake
+Bring data from raw to cleansed to modelled
+Design and maintain serverless and dedicated SQL pools 
+Design and maintain dataflows
+Troubleshoot and resolve advanced issues with existing pipelines, models and dataflows
+Assemble large and complex data models using data warehouse best practices
+Document data processes and models
+Employ a variety of languages and tools to query databases, create scripts, and marry data across multiple systems together
+Assess the effectiveness and accuracy of new data sources and data gathering techniques
+Develop processes and tools to monitor and analyze model performance and data accuracy
+Create Proof of Concepts
+Collaborate with cross-functional teams to deliver analytics solutions
+Empower users to bring data to life through self-service models and Business Intelligence Analytics tools
+Participate in architecture review
+Participate in data governance practices
+Participate in MDM practices
+Provide mentorship to the Data Solutions Developer
+
+What’s In It For You
+
+Encouragement to be the best version of yourself at and away from work:
+YOUnity diversity and inclusion programs
+Amazing time away from work programs 
+Support for your total well-being through our Live Well, Work Well programs targeting all aspects of your life
+Recognition for your contributions through excellent pay, perks, and rewards
+Giving where you’re living: volunteer days, Ceridian sponsored events, and our very own charity, Ceridian Cares
+Opportunities to fuel your career growth through numerous internal and external programs and events
+Skills And Experience We Value
+
+A Bachelor’s Degree in Computer Science, Engineering, Applied Math or Business or equivalent degree and experience
+5-10 years of experience working with data
+Solid knowledge of data languages such as T-SQL, Python or Pyspark, Spark SQL and DAX
+Strong knowledge of Azure Data Factory, Synapse Pipelines, SSIS or other ETL/ELT tools
+Experience with data modelling, data warehousing, and business intelligence architecture
+Experience with cloud storage solutions and big data file formats
+Experience with Delta Lake infrastructure and manipulation techniques via Databricks or Synapse 
+Knowledge of Serverless Pool and Dedicated Pool concepts 
+Experience using DevOps GIT for source control and CI/CD
+Experience with business intelligence tools such as Power BI and Tableau
+Proven track record of quickly learning new technologies
+
+What Would Make You Really Stand Out
+
+Experience with many cloud data platforms such as AWS, Azure, Snowflake
+Experience with big data solutions","Big Data
+Add,Business Requirements
+Add,Computer Science
+Add,Data Analytics
+Add,Data Modeling
+Add,Data Models
+Add,Data Warehousing
+Add,Extract, Transform, Load (ETL)
+Add,Snowflake
+Add,Snowflake Cloud
+Add,"
+Data Engineer,"Arch Global Services (Philippines) Inc. · Quezon City, National Capital Region, Philippines 1 week ago · 30 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Strategic Analytics is a growing team at Arch. The team develops innovative predictive models and analytical tools to improve profitability and growth. This position will help support the data engineering needs across a growing portfolio of high-profile analytics projects by developing complex data structures and pipelines leveraging a diverse set of tools and languages. This includes the following cloud based technologies: DataBricks, Snowflake, Spark, Python and Azure Data Factory. As a key member of the Strategic Analytics team, you will advance our data engineering capabilities helping the team analyze data faster. 
+
+Job Responsibilities:
+Work closely with predictive modelers to assemble large, complex data sets that help solve business problems and increase profitability 
+Perform data manipulation and transformation using SQL and Python 
+Identify, design, and implement internal process improvements: automating manual processes and optimizing data pipelines
+Discover and explore new sources of data with curiosity and creativity
+Create and maintain optimal data pipeline architecture
+Author detailed and comprehensible documentation of data pipelines and technical solutions
+Ensure data quality and completeness
+
+Required Skills:
+SQL
+Relational SQL databases
+Data integrations services (SSIS, Azure Data Factory, etc.)
+Microsoft Excel
+
+Desired Skills/Experience:
+Advanced working SQL knowledge and experience working with relational databases, query authoring
+A successful history of manipulating, processing and extracting value from large, disconnected datasets
+Ideally, 3+ years of experience in a Data Engineer role or equivalent using SQL and/or Python
+Good organizational skills and attention to detail
+Excellent critical thinking skills to flag complex data challenges
+Experience with cloud technologies and Python is a plus
+Comfortable working in fast paced, highly collaborative environment
+Ability to effectively communicate to different target audiences
+
+Education
+BS in Computer Science, Information Technology degree, Data Analytics or equivalent","Azure Data Factory
+Add,Azure Databricks
+Add,Computer Science
+Add,Data Manipulation
+Add,Microsoft Azure
+Add,Microsoft Excel
+Add,Python (Programming Language)
+Add,SQL
+Add,SQL Server Integration Services (SSIS)
+Add,Snowflake Cloud
+Add,"
+Data Engineer (Databricks),DOXA Talent · Philippines 1 day ago · 16 applicants,Remote Full-time Associate,"About the job
+Our client, a data-centric recruitment marketing agency, is looking for a Data Analytics Engineer, internally known as Analytics Engineer who will be responsible for using data models to bring products to life in a robust and efficient way. This role will pioneer the analytics engineering team and work closely with both product and data engineering teams to bring visions to life.
+
+POSSIBLE SCHEDULES:
+
+8:00 AM – 5:00 PM Eastern Standard Time (8:00 PM – 5:00 AM Philippine Local Time), follows Philippine holidays
+
+8:00 AM – 5:00 PM Pacific Standard Time (12:00 AM – 9:00 AM Philippine Local Time), follows Philippine holidays
+
+POSITION TYPE: Full Time
+
+WORK ARRANGEMENT: Remote
+
+ESSENTIAL FUNCTIONS
+
+Handle the complete ownership of production data models
+Work with businesses to evaluate constantly changing needs for these data models and provide creative solutions to solve these problems in a scalable and generic way
+Work with data engineering teams to monitor and develop new data models
+Design and develop design build tool (dbt) code
+Have a complete and thorough understanding of the data pipeline
+Approve data model changes and be the code owner for the production database and data model schemas
+Provide data modeling expertise to other engineering teams through code reviews, pairing, and training to help deliver optimal, DRY, and scalable database designs and queries
+
+QUALIFICATIONS
+
+A Bachelor's or Master's degree in Computer Science, Engineering, Math, Finance, Statistics, Business, or a related discipline
+3+ years of experience working in a data analytics or data engineering role
+Understanding of GDPR/CCPA is a bonus
+High level of proficiency in SQL, including the ability to create optimized queries and/or debug slow queries
+Proficiency with Python or similar languages
+Experience with Databricks, NoSQL, or Search Databases is a plus
+Familiar with AWS Redshift/data build tool (dbt) or similar technologies
+Excellent verbal and written communication skills with a need to constantly translate between technical and non-technical audiences
+Strong attention to detail and care for quality of work
+Has a passion for developing highly performant yet robust data models using modern data science practices and is excited about having quality, clean production datasets
+Excited to constantly evolve and learn about new technology trends
+Ability to work in a fast-paced exciting environment
+
+What awaits you upon securing the position?
+
+Assured allowances
+Leave credits
+Overtime Pay
+Night differential benefits
+Comprehensive health and life insurance upon hiring, covering one free dependent
+Special anniversary incentives
+13th-month salary bonus
+We provide the necessary equipment!
+Other Details
+Work Schedule: Night Shift
+Full Time
+Permanent WFH set-up","Data Analysis,Azure Databricks
+Add,Data Analytics
+Add,Data Engineering
+Add,General Data Protection Regulation (GDPR)
+Add,Python (Programming Language)
+Add,SQL
+Add,"
+Data Engineer,"3Cloud · Manila, National Capital Region, Philippines 3 weeks ago · 70 applicants",Remote Full-time Associate,"About the job
+Are you looking for a role that motivates and challenges you? Are you ready for an opportunity for growth? Do you want to work on teams where people roll up their sleeves to take on tough problems together, and regularly blow the doors off our clients with their outstanding teamwork? If you answered yes to those questions, 3Cloud might just be for you!
+
+At 3Cloud, we hire people who aren’t afraid to experiment or fail. We hire people who are willing to give direct and candid feedback to their managers, leaders, and team members. We hire people who jump at those opportunities because they care about our collective growth and success. We hire people who challenge and hold each other accountable for living 3Cloud’s core values because they know that it will result in amazing experiences and solutions for our clients and each other.
+
+Full-time employment
+📌 Remote in Philippines
+ You will join a team of highly experienced cloud architects and technologists in an organization that is a Gold-certified Microsoft Azure technology services provider that will provide cloud strategy, design, implementation, and managed services for clients across multiple industries in North America.
+
+Responsibilities 
+Technical delivery in both Agile and Waterfall methodologies 
+Implement solutions using the Microsoft Power BI tool suite and related technologies. 
+Leverage advanced database systems including data warehouses, data marts, and models needed for business, financial and operational analysis and/or reporting. 
+Develop high performing, reliable and scalable solutions.
+Ability to clearly communicate technical details to business and management personnel.
+Perform data analysis that will support and enhance Information Management systems.
+Author, oversee and gain approval of design documents for projects assigned.
+Develop reports, dashboards & scorecards, data exploration and visual analytics using existing and emerging tools and technologies. 
+Work independently or as part of a team to design and develop solutions.
+Assist business development team with pre-sales activities and RFPs.
+Provide meaningful feedback and coaching of other team members to successfully overcome technological challenges.
+Leading and demonstrating emerging technologies and concepts to teams.
+Requirements 
+Bachelor’s Degree desired in Computer Science, Information Technology, or related field 
+2+ years of experience with data visualization 
+Expert knowledge of Data Management, Business Intelligence and Analytics concepts including: 
+Extract, Transform, Load (ETL) 
+Data Warehousing, Data Lakes, Data Marts, Data Stores, and Cubes 
+Data Quality and Profiling 
+Data Governance, Master Data Management, and Metadata Management 
+Data Visualization, Dashboard, Reporting, Self Service Business Intelligence (BI), Key Performance Indicators (KPI), and Scorecards 
+Predictive, Prescription, and Descriptive Analytics 
+Expert knowledge of Microsoft Business Intelligence stack including Power BI, Excel and SQL Server (SSAS, SSRS, SSIS) 
+Minimum of 3-5 years of experience (of which 2-3 years in consulting) 
+Experience with Azure Data Estate (Azure SQL DB, Cosmos DB, Azure SQL DW, Azure Data Lake) is a plus 
+Azure ML Studio/Services experience a plus 
+Certifications are a plus 
+Advanced knowledge of SQL, including ability to write stored procedures, triggers, analytic functions, and tuning is a plus 
+Knowledge of relational and dimensional database structures, theories, principles, and practice is a plus 
+Experience with Data Science tools, technologies and techniques (R, Python, algorithms) is a plus 
+Passionate about learning new technologies 
+Ability to learn new concepts and software quickly 
+Analytical approach to problem-solving; ability to use technology to solve business problems 
+Familiarity with database-centric applications 
+Ability to communicate effectively in both a technical and non-technical manner 
+Ability to work in a fast-paced environment","Azure Data Factory
+Add,Azure Data Lake
+Add,Azure Databricks
+Add,Azure SQL
+Add,Business Intelligence (BI)
+Add,Data Warehousing
+Add,Extract, Transform, Load (ETL)
+Add,Microsoft Business Intelligence (MSBI)
+Add,Microsoft Power BI
+Add,SQL Server Analysis Services (SSAS)
+Add,SQL Server Integration Services (SSIS)
+Add,SQL Server Reporting Services (SSRS)
+Add,"
+Senior Data Developer,"Datamatics · National Capital Region, Philippines 2 days ago · 1 applicant",Hybrid Full-time Mid-Senior level,"About the job
+Title: Senior Data Developer.
+Location: Manila, Philippines.
+Mode of Work: Hybrid(3 days a week).
+ Mandatory Skills;
+ Ø Azure devops
+Ø SQL/Python/Power BI
+Ø deployment of CI/CD pipeline
+Ø Azure data ecosystem
+ Scope of work:
+ the Developer will:
+ • Support the design of an adequate solution architecture.
+• Extract data from relevant (online) sources using various ingestion methods.
+• Ensuring compliance with client Data Platform Architecture (AIDE) and client Software Engineering standards.
+• Building a stable and performing DataMart solution conform functional and technical requirements.
+• Build data pipelines that feed data into the DOCK DataMart the data model.
+• Set-up CI/CD pipelines to deploy solution components.
+• Leverage technical component such as Azure Data Factory, Azure Data Lake, Data bricks, Azure Blob storage, Azure SQL Databases and PowerBI
+• Participate in IADA project cycle and complete project artefacts where applicable.
+• Work with the IADA team to ensure the timely delivery of project objectives.
+ Qualifications
+ • Bachelor’s degree in Computer Science/Information Systems or Information Technology/Accounting
+• 5 years of experience as a developer and/or data engineer preferably for the banking sector and financial services sector.
+• Experience in data technologies and systems such as SQL, PowerBI, Python etc.
+• Experience in Azure DevOps.
+• Experience with Azure Data Ecosystem with tool such as Azure Data Factory, Azure Data Lake, Data bricks, Azure Blob storage, Azure SQL Databases and PowerBI
+• Experience setting up DataMarts
+• Able to liaise with relevant IT teams to develop effective solutions.
+• Strong communication skills in both spoken and written English.
+• Experience working with ITIL and/or Scrum/Agile frameworks.","Agile Methodologies
+Add,Azure Data Studio
+Add,Azure DevOps Services
+Add,Continuous Integration and Continuous Delivery (CI/CD)
+Add,Data Marts
+Add,Microsoft Power BI
+Add,Python (Programming Language)
+Add,Scrum
+Add,"
+Data Engineer - Azure/Databricks,Maltem Australia · Philippines 2 weeks ago · 98 applicants,Remote Contract Associate,"About the job
+About Maltem:
+Maltem is a dynamic and innovative data & analytics consultancy based in Sydney, Australia. As a leading player in the industry, Maltem is committed to driving excellence in data-driven solutions. We pride ourselves on fostering a collaborative and growth-oriented environment, pushing the boundaries of what's possible in the data realm.
+
+Responsibilities:
+Develop, maintain, and optimize data pipelines and workflows using Databricks and Azure Data Factory, ensuring seamless data ingestion and transformation
+Collaborate with onshore teams, understanding and implementing technical requirements into scalable data solutions
+Assist in troubleshooting and resolving data-related issues, ensuring data quality and integrity
+Explore opportunities for improving existing data processes and frameworks
+
+Requirements:
+Hands-on experience in Databricks for data pipeline development and Azure Data Factory
+Proficiency in Azure services and the ability to work effectively in an offshore setting
+Familiarity with Striim for data ingestion is a plus
+Bachelor's degree in Computer Science, Engineering, or a related field
+
+Why Maltem:
+Joining Maltem means being part of an exciting greenfield project that pushes the boundaries of data engineering. As a Data Engineer, you'll have the opportunity to contribute to the growth of a cutting-edge consultancy and make a significant impact in the data space. Be a key player in a team that values innovation, collaboration, and continuous learning.
+
+Apply now to be part of this exciting journey with Maltem!","Azure Data Factory
+Add,Azure Databricks
+Add,Computer Science
+Add,Data Pipelines
+Add,Data Quality
+Add,Microsoft Azure
+Add,Troubleshooting
+Add,"
+Data Engineer,"Arcadis · Manila, National Capital Region, Philippines 1 week ago · 6 applicants",On-site Full-time Mid-Senior level,"About the job
+Arcadis is the world's leading company delivering sustainable design, engineering, and consultancy solutions for natural and built assets.
+
+We are more than 36,000 people, in over 70 countries, dedicated to improving quality of life. Everyone has an important role to play. With the power of many curious minds, together we can solve the world’s most complex challenges and deliver more impact together.
+
+Role description:
+
+Provide data management and data integration services that deliver trusted data to the right applications and people in a secure, governed and efficient manner
+
+Role accountabilities:
+
+Communicating between the technical & non technical - Show an awareness of the need to translate technical concepts into non technical language, understand what communication is required with internal & external stakeholders.
+
+Data Analysis and synthesis - Can undertake data profiling and source system analysis, you can present clear insights to colleagues to support the end use of data
+
+Data Development process - Can design, build and test data products based on feeds from multiple systems, using a range of different storage technologies, access methods or both, you can create repeatable and reusable products.
+
+Data integration design - Deliver data solutions in accordance with agreed organizational standards that ensure services are resilient, scalable and future proof
+
+Able to write modular, maintainable code with guidance
+
+Accountable to scrum team to deliver on commitments
+
+Ensures proactive learning to keep in pace with new Azure data services
+
+Qualifications & Experience:
+
+2 to 6 years of data management and data integration experience.
+
+Bachelors in Engineering Discipline (or demonstrated equivalent education)
+
+Strong technological foundation with positive attitude, and a strong desire to learn & grow.
+
+Why Arcadis?
+
+We can only achieve our goals when everyone is empowered to be their best. We believe everyone's contribution matters. It’s why we are pioneering a skills-based approach, where you can harness your unique experience and expertise to carve your career path and maximize the impact we can make together.
+
+You’ll do meaningful work, and no matter what role, you’ll be helping to deliver sustainable solutions for a more prosperous planet. Make your mark, on your career, your colleagues, your clients, your life and the world around you.
+
+Together, we can create a lasting legacy.
+
+Our Commitment to Equality, Diversity, Inclusion & Belonging
+
+We want you to be able to bring your best self to work every day which is why equality and inclusion is at the forefront of all our activities. Our ambition is to be an employer of choice and provide a great place to work for all our people. We are an equal opportunity employer; women, minorities, and people with disabilities are strongly encouraged to apply. We are dedicated to a policy of non-discrimination in employment on any basis including race, caste, creed, colour, religion, sex, age, disability, marital status, sexual orientation, and gender identity.
+
+Join Arcadis. Create a Legacy.
+
+#JoinArcadis
+
+#CreateALegacy
+
+#Hybrid","Communication
+Add,Data Analytics
+Add,Data Architecture
+Add,Data Engineering
+Add,Data Integration
+Add,Data Profiling
+Add,Data Science
+Add,Data Visualization
+Add,Extract, Transform, Load (ETL)
+Add,Source System Analysis
+Add,"
+Data Engineer,"SiteMinder · Manila, National Capital Region, Philippines 2 weeks ago · 20 applicants",Hybrid Full-time Entry level,"About the job
+At SiteMinder we believe the individual contributions of our employees are what drive our success. That’s why we hire and encourage diverse teams that include and respect a variety of voices, identities, backgrounds, experiences and perspectives. Our diverse and inclusive culture enables our employees to bring their unique selves to work and be proud of doing so. It’s in our differences that we will keep revolutionising the way for our customers. We are better together!
+
+What We Do…
+
+We’re people who love technology but know that hoteliers just want things to be simple. So since 2006 we’ve been constantly innovating our world-leading hotel commerce platform to help accommodation owners find and book more guests online - quickly and simply.
+
+We’ve helped everyone from boutique hotels to big chains, enabling travellers to book igloos, cabins, castles, holiday parks, campsites, pubs, resorts, Airbnbs, and everything in between.
+
+And today, we’re the world’s leading open hotel commerce platform, supporting 40,000 hotels in 150 countries - with over 100 million reservations processed by SiteMinder’s technology every year.
+
+About The Data Engineer Role...
+
+A key addition to our engineering team to assist us with our transformation program. This is for an all-rounder Data Engineer who can be dynamic and play a role in different aspects of working with data, from ingestion, setting pipelines to a ML engineer who can work with models such as selecting the right model, picking features and tuning parameters.
+
+You will be someone who knows what good looks like and has set up robust production data pipelines using Databricks and associated products.
+
+What You Have...
+
+3+ years of solid experience as a Data Engineer with Machine Learning exposure.
+Breadth of experience using different tools and techniques. 
+Extensive experience in a data-related role, e.g. working with Databricks in data warehousing and analytics contexts and creating automated ETL processes. 
+Streaming (Spark, Kafka or similar)
+Python and/or Scala, relevant Python ML, libraries and SQL proficiency
+Experience building robust production data pipelines using the best industry practices with experience of data preparation and resolution of data quality challenges.
+Testing and validation of Data Models and Data Pipelines.
+AWS experience across one or more of the following EC2, Kinesis, SQS, ElastiCache, Lambda and S3
+Experience with infrastructure as code including Terraform or CloudFormation
+Deep knowledge on how to structure, develop and maintain relational databases such as MySQL and showcase your experience using data modeling techniques.
+Ability to work independently and also contribute to overall architecture and design.
+""Data wrangler"" mindset: embraces complexity and ambiguity, overcomes challenges and obstacles in order to deliver a working solution.
+Decision-making: able to view a problem from multiple perspectives, select the best approach, and provide a concise rationale for the choice.
+Outcome-focused: able to balance the need for a robust, elegant technical solution with the need for a market-ready solution.
+Desirable: Experience building, administering and scaling ML processing pipelines preferable in Databricks. 
+
+What You'll Do...
+
+Refine, design, estimate and deliver product requirements particularly data based features.
+Work with a cross-functional team in an agile methodology
+Collaborate with others to design, develop and maintain highly scalable data pipelines that power data driven products & customer facing insights.
+Working with cloud-based data storage and processing services to build scalable and cost-effective data solutions.
+Create and optimize ETL processes to move and transform data from various sources into our data systems, ensuring data consistency and integrity.
+Develop, construct, install, test and maintain data architectures (databases, large-scale processing systems, and data pipelines) that support data extraction, transformation, and loading (ETL) processes.
+Adhering to the standards and data governance practices of the organisation, e.g. ensuring data quality, privacy, security, auditability and control throughout the data lifecycle.
+Develop and maintain data models, schemas, and database designs to support business needs and reporting requirements.
+
+Our Perks & Benefits…
+
+ Equity packages for you to be a part of the SiteMinder journey
+ Hybrid working model (in-office & from home)
+ Mental health and well-being initiatives
+ Generous parental (including secondary) leave policy
+ Paid birthday, study and volunteering leave every year
+ Sponsored social clubs, team events, and celebrations
+ Employee Resource Groups (ERG) to help you connect and get involved
+ Investment in your personal growth offering training for your advancement
+
+Does this job sound like you? If yes, we'd love for you to be part of our team! Please send a copy of your resume and our Talent Acquisition team will be in touch.
+
+When you apply, please tell us the pronouns you use and any adjustments you may need during the interview process. We encourage people from underrepresented groups to apply.","Business Requirements
+Add,Data Engineering
+Add,Data Modeling
+Add,Data Models
+Add,Data Preparation
+Add,Data Science
+Add,Data Warehousing
+Add,Databases
+Add,Extract, Transform, Load (ETL)
+Add,Reporting Requirements
+Add,"
+Data Engineer (Global Business Services),"JTI (Japan Tobacco International) · Taguig, National Capital Region, Philippines Reposted 23 hours ago · 2 applicants",On-site Full-time Associate,"About the job
+We’re JTI, Japan Tobacco International, and we believe in freedom.
+
+We think that the possibilities are limitless when you’re free to choose. We’ve spent the last 20 years innovating and creating new and better products for our consumers to choose from. It’s how we’ve grown to be present in 130 countries, and how we’ve grown from 40 to 4,000+ employees in the Philippines since 2009.
+
+But our business isn’t just business, our business is our people. Their talent. Their potential. We believe that when they’re free to be themselves, to grow, travel and develop, amazing things can happen for our business. That’s why our employees, from around the world, choose to be a part of JTI. It’s why 9 out of 10 would recommend us to a friend, and why we’ve been recognized as INVESTORS IN PEOPLE in the Philippines
+
+It’s the perfect moment for you to #JoinTheIdea. We’re opening our Global Business Service center in the heart of BGC Manila and looking for more than 300 bright minds to join a global multinational with an exciting start-up vibe.
+
+What Is This Position About - Purpose
+
+DATA ENGINEER position exists to perform development, solution rollouts and support for Markets & Regions Data services area, and works under the guidance of senior data engineers & Team Leads to maintain and develop pipelines.
+
+The scope includes using software engineering concepts to architect, design, develop, maintain, test, and evaluate software solutions, and lead continuous delivery process improvement with Azure Data Factory, Data Lake, Data Bricks, Azure SQL, SSIS, EDI and Synapse.
+
+The incumbent will analyze, organize and combine raw data from different sources and build the corresponding data systems and pipelines to ensure that business needs and objectives are met with the data delivered.
+
+He/she will work on the Agile ways of working currently implemented in JTI and will work on specific workstreams that contains web/mobile applications specific for a business area.
+
+What Will You Do - Responsibilities
+
+Develop and maintenance of data pipelines, which includes 
+
+Develop the data pipelines for the corresponding projects ensuring that are highly available, scalable, reliable, secure, and cost-effective
+Support technical design, development, unit testing, and production deployment. 
+Design and document the pipelines developments
+Writes unit/integration tests, contributes to engineering wiki, and documents work.
+Supports user testing during UAT phase and work on bug fixing 
+Support Roll outs and deployments. 
+Ensure Data pipelines maintenance and performance testing.
+
+Issue resolution and operational support
+
+Provide timely technical support for issue resolution including UAT and Post Go-Live support, including data maintenance and user access administration. Work with end users and other support teams and the vendor if required
+Closely collaborate with BTS, Enterprise Architecture, GDC or other IT groups 
+Timely update assigned tasks, provide response and solution within agreed team's timelines 
+Daily monitor for running pipelines ensuring correctness of the execution and no business disruption
+Raise and investigate Incidents in IT Service Portal
+
+Platform configuration and developments
+
+Ensure that standards are applied and adopt new ones coming as part of expected evolution
+Support technical design, development and unit testing, and production deployment. Ensure that the solution is aligned with the agreed business process design, functional design and with Microsoft Azure best practices and JTI architecture standards
+Promote DEV/QA/PRD changes, support user testing, fine tune the solution based on testing feedback
+Ensure consistency & standardization of the data pipelines 
+Ensure that required system documentation is completed and delivered prior to Go-Live. Contribute to Knowledge Base creation
+
+Project Management & Business Partnership 
+
+Communicate timely on the project progress related to developments in assigned area; manage the processes of requests, approval, specifications, development, documentation and unit testing; coordinate between on-site and off-site team related to processes in assigned area; coordinates IT-related issue with global IT and other teams
+Development of relationships with customers to understand their needs and priorities, by collecting input from customers and stakeholders; identify and propose process / service / role design improvements geared towards simplification and service level enhancement
+
+Who Are We Looking For - Requirements
+
+University degree in Computer Science or equivalent.
+1+ year of experience in Data and Analytics from modelling and reporting standpoint
+1+ year exposure to IT architecture and solutioning for data flows among system and applications.
+1+ year delivering solutions on the Microsoft Azure platform with a special emphasis on data solutions and services - Data Factory, Data Lake, Data Bricks, Azure SQL, SSIS, EDI and Synapse
+Fast learner and able to embrace new technologies
+Experience with ETL tools preferable Azure Data Factory and DataBricks (or similar)
+Azure Data Lakes experience is a big plus
+Strong analytical skills and troubleshooting skills
+Should have good knowledge in testing and validating data solutions 
+Database skills, scripting and data modeling 
+Very good written and spoken English.
+
+WHAT’S IN IT FOR YOU?
+
+Work in JTI GBS Philippines Taguig
+Be covered with medical insurance and HMO upon hiring, with HMO dependent coverage and medicine allowance
+Receive bonuses and cash allowances such as meal and transport allowance
+Have access to over 200 company training
+Well-being programs for employees
+Opportunities for your career growth
+Recreational facilities in the office - Videoke, billiard and table tennis
+Be part of a truly international and diverse company with over 40,000 employees in 130 countries
+Experience the culture of an Investors in People certified company
+Find out why 9 out of 10 employees recommend us to a friend
+Understand why 9 out of 10 employees say they feel free to be themselves","Computer Science
+Add,Data Analytics
+Add,Data Maintenance
+Add,Data Modeling
+Add,Databases
+Add,IT Documentation
+Add,Production Deployment
+Add,Technical Design
+Add,Troubleshooting
+Add,Usability Testing
+Add,"
+Data Engineer (DataBricks_AzureDataFactory_Striim),Maltem Asia-Pacific · Philippines 6 days ago · 22 applicants,Remote Contract Associate,"About the job
+Maltem Philippines is seeking a Data Engineer for a well established Client in the Entertainment industry.
+
+Responsibilities :
+Develop, maintain, and optimize data pipelines and workflows using Databricks and Azure Data Factory, ensuring seamless data ingestion and transformation.
+Collaborate with onshore teams, understanding and implementing technical requirements into scalable data solutions.
+Assist in troubleshooting and resolving data-related issues, ensuring data quality and integrity.
+Explore opportunities for improving existing data processes and frameworks.
+
+Requirements:
+Bachelor's degree in Computer Science, Engineering, or a related field.
+Hands-on experience in Databricks for data pipeline development and Azure Data Factory.
+Proficiency in Azure services and the ability to work effectively in an offshore setting.
+Familiarity with Striim Data integration and streaming platform for Data ingestion is a plus.
+Comfortable and open to take on a Contractual role.
+Comfortable to perform a Technical Test as part of the interview process.
+Comfortable to work in a Remote setting.
+Reliable internet connection is essential.
+Candidates who are immediate joiners or 30 days of notice is highly advantageous.","Azure Data Factory
+Add,Azure Databricks
+Add,Data Integration
+Add,Data Transformation
+Add,"
+Data Architect/Engineer (6 to 12 months Contract Role),"S&P Global · Pasig, National Capital Region, Philippines Reposted 1 week ago · 27 applicants",On-site Full-time,"About the job
+S&P Global Commodity Insights
+
+The Role: Data Architect/Engineer (6 to 12 months Contract Role)
+
+The Team: The Customer Experience (CX) & Insights Team is responsible for customer research and customer experience design & management.
+
+The objective of this team is to systematically identify, prioritize, and communicate key customer value drivers, emerging growth trends, and CX improvement opportunities. The team manages all customer data and voice of the customer (VOC) programs, conducts customer research, and produces business-critical, actionable insights. Team members are highly motivated experts with advanced analytical, communication, project management, and problem-solving skills.
+
+The Impact: We seek to appoint a Data Architect/Developer to work on integrating different Customer Data Sources into one database.
+
+What's in it for you: It is a global role with the potential to shape the internal infrastructure of our customer data architecture. This is a high-profile opportunity because two Commodity Insights Management Committee members sponsor the project it serves.
+
+Responsibilities
+
+Work with data analysts, internal functions, and external vendors to turn large-scale, diverse, and often unstructured customer data into business-critical insights
+Lead integration of diverse data systems and datasets to achieve specific project objectives
+Design and implement data management, quality monitoring, and cleaning processes to ensure data accuracy
+Design and develop ETL pipelines to ingest the data in variable formats, structured and unstructured 
+Develop automation routines and products to build self-serving capabilities for the teams to utilize databases/data platforms
+Manage data vendor relationships
+
+Who Are We Looking For
+
+Bachelor/MS degree in Computer Science, Engineering, or a related subject.
+Demonstrated experience designing and implementing large-scale, distributed systems
+Proficiency with cloud computing platforms, preferably Data bricks.
+Proficiency with one or more programming/scripting languages, preferably Python and SQL.
+Proficiency in Excel and Tableau. Strong data visualization skills
+Experience in creating custom APIs that allow third-party systems to utilize the product's functionality.
+Experience in integrating enterprise portals and applications
+Experience in application & data architecture, system, and software design.
+Strong analytical, interpersonal, presentation, and written communication skills.
+Ability to influence technical and business partners across all organizational ranks and geographies.
+Experience in integrating customer feedback from different sources is a plus.
+
+#
+
+Equal Opportunity Employer
+
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment.
+
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person. 
+
+US Candidates Only:  The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law.
+
+20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group)
+
+Job ID: 293162
+
+Posted On: 2023-12-21
+
+Location: Pasig City, Philippines","Analytics
+Add,Customer Research
+Add,Data Analytics
+Add,Data Architecture
+Add,Data Modeling
+Add,Data Science
+Add,Data Visualization
+Add,Enterprise Portals
+Add,Extract, Transform, Load (ETL)
+Add,Visualization
+Add,"
+Data Engineer-Data Warehouse,"Eclaro · Quezon City, National Capital Region, Philippines Reposted 2 weeks ago · 4 applicants",Full-time Entry level,"About the job
+Primary Skills
+
+ Solid experience in developing datawarehousing applications using Snowflake and DBT. 
+ Solid experience in ETL Technologies 
+ Has experience in working with scheduling tools using Control-M. 
+ Knowledgable in UNIX Scripting.","Big Data
+Add,Data Engineering
+Add,Data Science
+Add,Data Warehousing
+Add,Databases
+Add,Dialectical Behavior Therapy (DBT)
+Add,Extract, Transform, Load (ETL)
+Add,Scripting
+Add,Snowflake
+Add,Snowflake Cloud
+Add,"
+Data Engineer,"Steadfast Group Limited · Taguig, National Capital Region, Philippines 1 week ago · 39 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Key Selling Points
+Great benefits, and culture.
+Competitive Salary
+Join a fast paced and supportive team
+
+Steadfast was founded on the belief that a network of brokers would be stronger together, and this idea has been the backbone of our culture ever since. We believe that none of us is as good as all of us.
+
+At Steadfast we are proud of our diverse mix of people and skills, coming together across multiple business and business units to not only support our broker network, but to create the next generation thinking, systems and technologies that will drive the insurance sector forward.
+
+We are leaders of the general insurance broking and underwriting industry, and we lead from the front.
+
+A bit about our opportunity
+Steadfast is a progressive organisation that offers diverse roles and learning opportunities. Don’t be fooled by our size – Steadfast is an exciting business that operates in an agile and collaborative way. Our continued success reflects our ability to work towards the big picture to evolve our industry as well as our ability to deliver in the today’s highly competitive environment.
+
+The Data Engineer will sit within the Steadfast Technologies One Data team and will design, implement and support data pipelines that underpin reporting, analytics and machine learning.
+
+
+This role is required to consolidate operational and other data via standard patters of ingest and data processing, enabling the organisation to achieve timely access to insights and data services
+
+In this role, you will:
+Work closely with Steadfast business stakeholders in interpreting and understanding requirements, through to testing and deployment.
+Work closely with transactional system stakeholders to understand source architecture.
+Design and build efficient and scalable means to extract and load data.
+Consolidate and prepare baseline data for downstream use, align to warehouse architecture/models.
+Continuous improvement in data quality, reliability and efficiency via automation.
+
+The above list of key responsibilities is not an exhaustive list and may change from time-to-time based on business needs.
+
+A bit about you
+To be successful in this role, you will possess:
+5+ years’ experience in data engineering within the data and analytics space.
+Software engineering graduate or its equivalent
+Ability to define and develop data integration patterns and pipelines, leveraging cloud microservices and SaaS.
+Ability to assess data complexity and model into structured and consumable data marts.
+Experience coding and implementing cloud based data pipelines.
+Experience processing large volumes of semi-structured data, ETL/ELT, data warehousing and visualisation.
+Hands on working with different data sources, RDBMS namely SQL Server, Azure SQL, blob storage.
+Hands on experience with DevOps automation.
+Strong coding skills, particularly SQL and python.
+Financial Services experience, preferably within insurance.
+Knowledge and experience in agile project delivery methodology.
+Strong customer focus, able to effectively communicate to technical and non-technical audiences.
+Sound experience influencing and building internal stakeholder relationships.
+Proficient in the use of MS Project for project planning, tracking and reporting.
+
+Benefits
+We offer an extensive range of benefits to reflect the value we place on our team whilst supporting them in their professional and personal lives. As a Steadfast employee you will benefit from and have access to:
+Hybrid working to help you balance work and personal responsibilities
+Free company provided Life, Temporary Permanent Disablement, and Travel insurances, and HMO.
+An expansive Health and Wellbeing Program
+Working on a vibrant and collegiate culture where you as a person, and your contribution is valued
+
+A bit about us
+At Steadfast, we provide valuable opportunities to build meaningful career opportunities alongside some of the brightest and most influential people in the insurance industry.
+
+We are proud of our diverse mix of people and skills, coming together across multiple businesses and business units to foster next generation thinking, systems and technologies that will drive the insurance sector forward.
+
+Diversity and our Social Responsibility is at the heart of our business and we reflect this in our actions. We have strong commitments to equality; an active D&I committee and our Reconciliation Action Plan provides opportunities for First Nation peoples to work and grow. We are major sponsors of the Dive In festival, sponsor female entrepreneurs and are active members of the Champions of Change.
+
+In addition, our charity, The Steadfast Foundation, sponsors many charities and local community initiatives. Our environmental commitment includes the sponsorship of our Sustainability Ambassador to undertake climate research and our initiatives reflect our commitment to the achievement of green and carbon offset goals.
+
+Interested to apply or find out more
+If Steadfast and its people sounds like the type of company you are looking for and the opportunity is of interest to you, please click on the link to apply………..
+
+We are always on the lookout for great talent, if you are interested in a confidential conversation regarding career opportunities please email careers@steadfast.com.au","Azure SQL
+Add,Data Marts
+Add,Data Warehousing
+Add,DevOps
+Add,Project Planning
+Add,Python (Programming Language)
+Add,RDBMS
+Add,SQL
+Add,Software Development
+Add,Software as a Service (SaaS)
+Add,"
+Data Management Engineer,"Metrobank · Taguig, National Capital Region, Philippines 3 weeks ago · 61 applicants",On-site Full-time Mid-Senior level,"About the job
+Job Summary:
+
+  Design, development, implementation and maintenance of bank-level data pipelines, data flow and databases
+Design, develop and optimize data pipelines and data flow to improve efficiency and reliability of data processes
+. Design, create and implement data processes for new sources and forms of data 
+ 
+ Exposure:
+
+  Understand the end-to-end data life cycle of the various data sources of the bank in order to design the appropriate data flow and optimal data pipelines
+Apply best practices in data management to create efficient data ingestion, data transformation, data integration and data archiving process design
+Develop integration processes to create data marts and other forms of data bases
+Design, create and implement data processes for new sources and forms of data 
+Identify opportunities to improve existing data management processes 
+ 
+Qualifications:
+
+Bachelor’s Degree
+At least more than 5 years’ experience in end-to-end data infrastructure setup
+Strong understanding and experience in designing and building databases 
+Ability to do data programming / coding
+Project management
+Aptitude to learn new technology
+ 
+Other Details:
+Rank: Junior Officer
+Unit: Financial & Control Sector / Controllership Group / Enterprise Data Management and Governance Division / Data Management Department
+Location: Metrobank Center, BGC, Taguig City","Data Archiving
+Add,Data Flow
+Add,Data Management
+Add,Data Marts
+Add,Data Pipelines
+Add,Databases
+Add,Enterprise Data
+Add,Programming
+Add,Project Management
+Add,Skill Development
+Add,"
+Data Governance Engineer,"Royal Caribbean Group · Pasay, National Capital Region, Philippines 2 months ago · 13 applicants",Full-time Entry level,"About the job
+Position Summary
+
+The Data Governance Engineer position is a part of the Data Analytics & AI team and supports the RCG corporation project goals. This position collaborates with a team of governance, legal/privacy and business stakeholders, data analysts, architects, and information technology professionals to implement enterprise data quality solutions in direct support of Royal Caribbean Group's enterprise level objectives. The ideal candidate for this role has a Data Governance and Data Quality background with functional and technical expertise.
+
+This position’s main objective is to deliver developed data quality solutions using software tools and implement a standardized approach for query and algorithm automation for executing data quality improvements.
+
+Essential Duties And Responsibilities
+
+ Acquire data from data sources and maintain SQL queries. 
+ Analyze, query, and manipulate data according to defined business rules and procedures. 
+ Maintain and improve data completeness through deduplication operational processes. 
+ Write stored procedures, creating scripts for data loads and upgra+D7des for data migrations and data validations. 
+ Develop shell scripts to automate file manipulation and data loading procedures. 
+ Install and configure server setup on system development lifecycle environments. 
+ Ensure developed jobs migrate through the system development lifecycle environments successfully. 
+ Monitor key product metrics, understand root causes of changes in metrics 
+ Identify, analyze, and interpret trends or patterns in complex data sets and depict the story via dashboards or reports 
+ Perform data quality validations to ensure data adheres to business needs and expectations 
+ Extensively work on data extraction, transformation and loading data from various sources, such as, Oracle and SQL Server. 
+ Identify areas of improvement in accordance with data quality business rules on data quality dashboards. 
+ Design and execute data remediation measures. 
+ Create and ensure adherence to data quality standards. 
+ Deliver service in accordance with established SLAs. 
+ Ensure that data is within proper privacy/legal compliance. 
+
+Qualifications
+
+ BS Degree in Mathematics, Economics, Computer Science, Information Management or Statistics is a plus but not a must. 
+ 3+ years of experience in a CDP, data warehousing or related data platform environment. 
+ Qualified with Azure Cloud and Databricks technologies. 
+ Experienced with Apache Spark, Python, Scala, and R. 
+ Experienced with Databricks Delta Lakehouse technology to perform data ingestion and data processing for data quality initiatives. 
+ Proficient with ad-hoc analyses using SQL queries and python data analysis packages (Pandas) 
+ Use technologies such as Kafka, Snowflake, Apache Spark 
+ Strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy. 
+ Adept at report writing, presenting, and verbal communication skills. 
+ Ability to operate effectively as part of a project team or individually. 
+
+Knowledge And Skills
+
+ Knowledge regarding data models, database design development, data mining and segmentation techniques is preferred. 
+ Experience building segments and with ETL processes. 
+ Strong understanding of Marketing Technology tools (Email/Marketing automation system, Personalization tools, Analytics tools, tag management systems). 
+ Experience delivering data-driven products for Marketing, Sales, Advertising, and/or Analytics use cases. 
+ Experience with DMP or CDP, data strategy, real-time and offline data processing of multiple data sources. 
+ Read and write code in a programming language such as Python. 
+ Assist with data analysis and reporting tasks using SQL and data analysis techniques. 
+ Develop and maintain documentation of data quality rules, processes, and procedures. 
+ Contribute to data quality process improvement efforts. 
+ Collaborate with stakeholders to identify data quality requirements.","Communication
+Add,Dashboards
+Add,Data Analytics
+Add,Data Quality
+Add,Data Strategies
+Add,Data Warehousing
+Add,Extract, Transform, Load (ETL)
+Add,Pandas (Software)
+Add,Snowflake
+Add,Stored Procedures
+Add,"
+Data Engineer,TE Connectivity · Philippines 3 weeks ago · 110 applicants,Remote Full-time Mid-Senior level,"About the job
+At TE we strongly believe that data and analytics are strategic drivers for future success. We are investing significantly in building our advanced analytics team. The Analytics team at TE is part of the TE Information Solutions (TEIS) Organization and is responsible for driving organic growth by leveraging big data and advanced analytics. The team reports to the VP and Chief Data Officer at TEIS, works closely with the SVP of Corporate Strategy, and has regular interactions with the company’s C-Suite. This Data Scientist position will directly report to the Director of Data Science.
+
+We are on an exciting journey to build and scale our advanced analytics practice; in this position you will apply your skills to unlock opportunities and enable top strategic priorities for TE. You will be working on problems that require advanced analytics applications to create value for diverse business functions such as supply chain, pricing, Industrial IOT & digital factory implementation, digital marketing and sales growth, and will impact business units that span through multiple geographic areas.
+
+Job Responsibilities: 
+
+Analyze, organize, segment and disseminate raw or unprocessed data based on business needs.
+Be the key anchor for data extraction, preparation and hosting processes.
+Create master data files from disparate data sources by building data pipelines.
+Develop and test architecture for data extraction.
+Provide continuous connectivity to a master data source and access to refreshed data
+Ensure data quality and reliability
+Data expert for datasets used by data scientists
+
+Job Requirements: 
+
+Advanced SQL RDBMS design and query building skills (Oracle, SQL Server, Redshift, etc.)
+Sound knowledge of ETL practices.
+Experience profiling, manipulating, and merging massive data set using Big Data technologies, preferably from AWS, Google, Microsoft, or Cloudera.
+Exposure to SAP ERP system, Salesforce.com, etc.
+Coding experience with Talend, SAP data services, or other ETL methods 
+Unix or other shell scripting, and exposure to job scheduling software such as Control-M
+Visualization tool experience, especially with Tableau or Power BI
+Attention to detail and logical based thinking in building, testing, and reviewing data pipelines containing multi-disciplinary information 
+Commitment to build using established coding and naming standards
+Data Engineering & Cloud Certifications
+Experience in business domains - supply chain, pricing, sales & marketing
+Experience in working with data scientists
+Strong problem solver who can invent new techniques and approaches if necessary
+Ability to work in a fast-paced environment","Amazon Redshift
+Add,Amazon Web Services (AWS)
+Add,Big Data
+Add,Oracle Database
+Add,SAP Data Services
+Add,SAP ERP
+Add,SAP Products
+Add,SQL
+Add,Tableau
+Add,Talend
+Add,Unix
+Add,"
+Data Engineer,"Straive · Parañaque, National Capital Region, Philippines 2 weeks ago · 46 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Responsibilities
+Mining data across internal systems to support stakeholder requests
+Preparing data for upload/entry into systems in accordance with data policies
+Enforcing data standards and policies
+Identifying & escalating data hygiene issues in a timely manner
+
+Qualifications
+Experience with data mining and processing for at least 5 years
+High attention to detail
+Experience with SQL or advanced BI tools a plus","Attention to Detail
+Add,Business Intelligence (BI)
+Add,Data Mining
+Add,Data Science
+Add,Data Standards
+Add,Hygiene
+Add,Pattern Recognition
+Add,Policies & Procedures
+Add,Power Tools
+Add,SQL
+Add,"
+Artificial Intelligence Engineer,Staffing Ninja · Philippines 1 week ago · 33 applicants,Remote Full-time Associate,"About the job
+Job Responsibilities:
+Develop and implement generative AI models to address real-world challenges across various domains, including natural language processing, image generation, and music generation.
+Conduct research on emerging generative AI techniques and algorithms.
+Collaborate with cross-functional teams to design and deploy AI solutions that align with customer requirements.
+Evaluate and optimize generative AI models for performance, scalability, and efficiency.
+Design and assess prompt engineering and schema engineering approaches for relational, non-relational, and object store data.
+Write and present technical documentation and reports.
+Develop and maintain front-end code using React and other relevant technologies.
+Collaborate closely with designers to translate UI/UX designs into code.
+Write clean, maintainable, and efficient code.
+Work collaboratively with other developers to ensure seamless integration of front-end code with back-end systems.
+Stay abreast of the latest front-end development trends and technologies.
+
+Job Requirements:
+Bachelor's/Master’s degree in computer science, Data Science, or a related field.
+3+ years of experience in ML modeling techniques, generative AI, and NLP.
+3+ years of experience in developing front-end web applications using React.
+Strong understanding of HTML, CSS, and JavaScript.
+Experience with prompt engineering, prompt optimization, and multimodal generative AI.
+Experience working with large datasets and SQL.
+Strong programming skills in Python and Unix/PowerShell scripting.
+Experience with cloud computing platforms such as AWS or Azure.","Artificial Intelligence (AI)
+Add,Cascading Style Sheets (CSS)
+Add,HTML
+Add,JavaScript
+Add,Machine Learning
+Add,Microsoft Azure
+Add,Natural Language Processing (NLP)
+Add,Prompt Engineering
+Add,Python (Programming Language)
+Add,Unix
+Add,"
+Data Engineer,"Unilab, Inc. · Mandaluyong, National Capital Region, Philippines 1 week ago · 33 applicants",On-site Full-time Mid-Senior level,"About the job
+Role Overview:
+Translates the analytics requirements of the business unit's Digital Business Engineering Team into technical plans and execution
+Acquires and processes datasets required by the business
+Builds, tests and maintains optimal data pipeline architectures
+Identifies, designs and implements internal process improvements 
+Develops algorithms to transform data into useful and actionable information
+Monitors data update and resolves data issues 
+Ensures compliance with data governance and security policies
+
+Required Qualifications:
+Bachelor's Degree holder of Computer Science, Engineering, Statistics, Management Information Systems, or other Science and Technology related courses
+Has 3-5 years of related work experience
+Has experience with managing structured data in RDBMS with practitioner level experience with MS SQL (Database and SSIS)
+Has experience with Tableau development is a plus
+With excellent verbal and written communication skills
+Is an analytical thinker with creative problem-solving skills and attention to detail
+Certifications for database administration, agile development, and/or cloud services are a plus","Communication
+Add,Creative Problem Solving
+Add,Data Engineering
+Add,Data Science
+Add,Databases
+Add,Datasets
+Add,Extract, Transform, Load (ETL)
+Add,Problem Solving
+Add,SQL Server Integration Services (SSIS)
+Add,Written Communication
+Add,"
+Data Engineer,"Smart Communications, Inc. · Makati, National Capital Region, Philippines 2 weeks ago · 75 applicants",On-site Full-time Entry level,"About the job
+Education:
+Bachelor's Degree preferably in Computer Science, IT or related course
+
+Experience:
+At least 1-2 years’ experience in software development is preferred
+Working knowledge in Phyton, Perl, C/C++, PL/SQL, NoSQL and Java
+Linux and Unix is required
+Knowledge and experience in Big Data technologies like HDFS, Hadoop, Apache Spark is a plus
+End to End software development lifecycle
+
+Responsibilities: 
+Develop, test, monitor and optimize of end-to-end data processing jobs and workflows from data acquisition, transformation to data exposure / publishing.
+Develop and enhance applications / solutions / software consuming data from the data lake / data warehouse for the purpose of data visualization or advanced data analytics (i.e. reports and dashboards)
+Develop, test and maintain big data architecture, open source databases (e.g., HADOOP, HIVE, HBASE, PRESTO etc.), including duties to support development and deployment of innovative big data platforms
+Establish controls on the data being collected, processed and/or transformed and presented. Perform regular Audit on Data Quality (Accuracy, Completeness and Timeliness) and Ensure Completeness, Accuracy and Timeliness of Data; Ensure compliance to PLDT Group standards.
+Regularly communicate and engage with business users, data owners and stewards, IT hardware support and infrastructure teams, IT data source teams, database administrators and other stakeholders for the purpose of clarifying requirements, communicating status, issues or presenting solutions.
+Manage the day-to-day running of scheduled jobs or program, including enforcing policies, maintaining systems and responding to user requests and ensure that the system delivers consistently on the operational-level agreement (OLA). In case of issues, will also be responsible for the prompt resolution of issues in relation to the end to end data platform components.
+Ensure delivery commitment of 3rd party vendor partners within service-level agreement SLA on the required support from troubleshooting, applying patches, dealing with exceptions and escalating problems.
+Ensure compliance to PLDT Group standards
+Perform other related duties of similar nature or level that may be assigned from time to time
+Support the execution of upgrades or migrations in keeping the technology up to date
+Perform diagnosis of issues as required and synthesize the conclusions into recommendations that drive improvements to the overall delivery
+Create Solutions Design and Technical Architecture documentation
+Perform code review and provide optimization recommendations","Apache Spark
+Add,C++
+Add,Hadoop
+Add,Java
+Add,Linux
+Add,PL/SQL
+Add,Perl
+Add,SQL
+Add,Software Development Life Cycle (SDLC)
+Add,Unix
+Add,"
+Data Engineer-Data Integration,"IBM · Cebu, Central Visayas, Philippines 1 week ago · 3 applicants",On-site Full-time,"About the job
+676073BR
+
+Introduction
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+Your Role and Responsibilities
+
+Designs and builds solutions to move data from operational and external environments to the business intelligence environment using Ab Initio software and DataStage (formerly Ascential) - IBM's WebSphere Data Integration Suite. Skills include designing and developing extract, transform and load (ETL) processes. Experience includes full lifecycle implementation of the technical components of a business intelligence solution. Skills include: ETL, Informatica
+
+PHDIGDoubleUp
+
+PHDIGAMC
+
+PH_DIGhotjobs
+
+PH_EA&Java2022
+
+#APHotJobs
+
+phdig
+
+Required Technical and Professional Expertise
+
+
+Data Stage or
+Informatica or
+Snowflake
+
+
+Preferred Technical And Professional Expertise
+
+Nice to have:
+
+
+Hands-on experience on other ETL Tools
+
+
+About Business Unit
+
+IBM Services is a team of business, strategy and technology consultants that design, build, and run foundational systems and services that is the backbone of the world's economy. IBM Services partners with the world's leading companies in over 170 countries to build smarter businesses by reimagining and reinventing through technology, with its outcome-focused methodologies, industry-leading portfolio and world class research and operations expertise leading to results-driven innovation and enduring excellence.
+
+Your Life @ IBM
+
+In a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+Are you ready to be an IBMer?
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, caste, genetics, pregnancy, disability, neurodivergence, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.","Ab Initio
+Add,Data Analytics
+Add,Data Engineering
+Add,Data Integration
+Add,Data Science
+Add,Data Warehousing
+Add,DataStage
+Add,Databases
+Add,ETL Tools
+Add,Extract, Transform, Load (ETL)
+Add,"
+Data Engineer,"eTeam · National Capital Region, Philippines 1 week ago · 58 applicants",Remote Full-time Mid-Senior level,"About the job
+Designs and builds solutions to move data from operational and external environments to the business intelligence environment using Informatica, Ab Initio software and DataStage 
+(formerly Ascential) - IBM's WebSphere Data Integration Suite. Skills include designing and developing extract, transform and load (ETL) processes. Experience includes full lifecycle 
+implementation of the technical components of a business intelligence solution.","Data Analytics
+Add,Data Engineering
+Add,Data Science
+Add,Data Warehousing
+Add,Databases
+Add,Extract, Transform, Load (ETL)
+Add,"
+Big Data Engineer,"NCS Group · Makati, National Capital Region, Philippines 3 weeks ago · 25 applicants",On-site Full-time Mid-Senior level,"About the job
+The Data Engineering Center of Excellence has been established in the DPM team to help realize the vision of becoming a customer-centric organization, driven by a data and analytics capability that enhances customer interactions and revenue generation.
+
+The Big Data Engineer is responsible for development and automation of Data Lake ingestion, transformation and consumption services; adopting new technology; and ensuring modern operations in order to deliver consumer driven Data Lake solutions in both on-premises and Cloud platform implementations.
+
+The role:
+Implement request for ingestion, creation, and preparation of data sources
+Develop and execute jobs to import data periodically/ (near) real-time from an external source
+Setup a streaming data source to ingest data into the platform
+Delivers data sourcing approach and data sets for analysis, with activities including data staging, ETL, data quality, and archiving
+Design a solution architecture on both On-premises and Cloud platforms to meet business, technical and user requirements
+Profile source data and validate fit-for-purpose
+Works with Delivery lead and Solution Architect to agree pragmatic means of data provision to support use cases
+Understands and documents end user usage models and requirements
+
+Minimum Qualifications:
+Candidates must have at least 3 years of experience in the below technologies:
+Data warehouses and data lakes
+Big data Technologies
+Analytical and SQL skills
+DataBricks/Azure Cloud Tools (nice to have).
+A Python/Scala programming
+
+Candidates must also be willing to work full onsite in Makati City.","Analytics
+Add,Big Data
+Add,Data Mining
+Add,Microsoft Azure
+Add,Python (Programming Language)
+Add,Scala
+Add,"

@@ -1,0 +1,1393 @@
+Title,CompanyDetails,JobDetails,JobDescription,JobSkills
+"Data Engineer, Software Development-PHL","Ingram Micro · Taguig, National Capital Region, Philippines Reposted 1 week ago · 38 applicants",On-site Full-time Entry level,"About the job
+It's fun to work in a company where people truly BELIEVE in what they're doing!
+
+Job Description:
+
+Ingram Micro touches 80% of the technology you use every day with our focus on Technology Solutions, Cloud, and Commerce and Lifecycle Solutions. With $46 billion in revenue, we have become the world’s largest technology distributor with operations in 56 countries and more than 30,000 associates. We continue to strategically expand our global reach with 32 acquisitions since 2012.
+
+Position Summary
+
+Designs, develops, tests, debugs and implements operating systems components, software tools, and utilities. Determines systems software design requirements. Ensures that system improvements are successfully implemented and monitored to increase efficiency. Generates systems software engineering policies, standards and procedures.
+
+What You Bring To The Role
+
+Established and productive professional individual contributor. 
+Works independently with general supervision. 
+Problems faced are difficult and may be complex. 
+May influence others within the job area through explanation of facts, policies and practices. 
+Works on moderate to complex projects. 
+Uses company standard policies and procedures to resolve a variety of issues. 
+Exercises judgment within defined procedures and practices to determine appropriate action. 
+Receives moderate level of guidance. 
+Work is reviewed for soundness of judgment and overall accuracy. 
+General proficiency with various tools, systems, and procedures required to accomplish the job. 
+May need to consult with Senior/Specialist staff members on some technical issues. 
+A four year college degree (or additional experience in a related field) and 3 years functional experience including a minimum 1 year position specific experience. 
+Monitors all Data Management supported application jobs, such as but not limited to – Magellan, LDB, GDW, HR data, HPCM, and other downstream data marts. 
+Assists on issues on SAP Business Objects and CFS reports (QlikSense)
+Creates solution to address business/system incident and request tickets in IM-Serve within the required SLA. 
+Creates and manages CHG request tickets associated to build and development in IM-Serve. 
+Creates and manages job scheduling requests and coordinates with Midrange Scheduling team. 
+Creates and/or enhance applications code with consideration for efficiency and ease of maintenance. 
+Can identify the technical implication of any solution on the other modules/functionalities. 
+Resolves technical issues and analyzes or develops solutions for application programs outside primary application knowledge. 
+Escalates issues or gaps in the design
+Can coordinate with the other teams that are needed for the requirement/tickets. 
+Can investigate and determine the root cause of the issue. 
+
+Requirements
+
+Strong SQL skills, familiar with stored procedures. 
+Familiar with scheduling tool such as Control-M. 
+Familiar with ticketing tool such as ServiceNow. 
+Knowledgeable on Unix/Linux OS basic commands. 
+Strong analytical and programming skills, preferably Python. 
+Has at least 1 year data warehousing and ETL/ELT (Extract, Transform, Load) / (Extract, Load, Transform). 
+AWS Resources exposure and skill is a plus – S3, EC2, Redshift, Lambda. 
+GCP exposure and skill is a plus (e.g. BigQuery). 
+Knowledgeable on reporting tool – SAP Business Objects and PowerBI, preferably. 
+
+This is not a complete listing of the job duties. It’s a representation of the things you will be doing, and you may not perform all of these duties.","Data Warehousing
+Add,Extract, Transform, Load (ETL)
+Add,IM
+Add,Linux
+Add,Qlik Sense
+Add,Root Cause
+Add,SAP BusinessObjects
+Add,Service-Level Agreements (SLA)
+Add,Stored Procedures
+Add,Unix
+Add,"
+Machine Learning Engineer,Staffing Ninja · Philippines 1 week ago · 17 applicants,Remote Full-time Mid-Senior level,"About the job
+Job description:
+
+We are seeking an experienced and dedicated Machine Learning Engineer with 5+ years of expertise. The successful candidate will play a key role in designing and implementing cutting-edge AI/ML models and solutions using Google Cloud Platform technologies, including Vertex AI, TensorFlow, PyTorch, and Cloud TPUs.
+
+Key Responsibilities:
+Design and implement models for content creation, design automation, Cloud Vision AI, and Natural Language AI.
+Utilize Google Cloud Platform technologies such as Vertex AI, TensorFlow, PyTorch, and Cloud TPUs.
+Develop a deep understanding of generative AI models, including Text-to-Speech applications.
+Collaboration and Code Quality:
+Collaborate with cross-functional teams to define requirements and brainstorm solutions.
+Write and maintain high-quality Python code.
+Stay up-to-date on the latest advancements in AI/ML research.
+Contribute to internal tools and infrastructure for AI/ML development.
+Apply supervised/unsupervised learning, Video analytics, Image analytics, NLP, and advanced analytics techniques.
+Conduct exploratory data analysis and implement descriptive, prescriptive, and predictive analytics.
+Demonstrate understanding and implementation of MLOps.
+Utilize GCP Data Engineering tools (BigQuery, Dataflow, Cloud Data Fusion, etc.).
+
+Requirements:
+Bachelor’s or master’s degree in computer science, Data Science, or related field (Ph.D. advantageous).
+5+ years of experience in Large Language Models, Time Series Forecasting, NLP, Recommender Systems, Anomaly Detection, Data Mining, SQL, UI/UX Development, and Cloud Computing.
+Proficiency in Python and ML libraries (TensorFlow, PyTorch, Keras).
+Previous healthcare sector experience with knowledge of regulatory compliance.
+Strong data analysis and visualization skills.
+Excellent communication and teamwork skills.
+
+Good to have:
+GCP Data Engineering understanding (BigQuery, Dataflow, Cloud Data Fusion, etc.).","Data Analysis,Anomaly Detection
+Add,Data Science
+Add,Exploratory Data Analysis
+Add,Keras
+Add,Machine Learning
+Add,PyTorch
+Add,Python (Programming Language)
+Add,Recommender Systems
+Add,TensorFlow
+Add,"
+GDS Consulting_Senior Data Engineer 4,"EY · Taguig, National Capital Region, Philippines Reposted 1 week ago · 11 applicants",On-site Full-time Mid-Senior level,"About the job
+At EY, you’ll have the chance to build a career as unique as you are, with the global scale, support, inclusive culture and technology to become the best version of you. And we’re counting on your unique voice and perspective to help EY become even better, too. Join us and build an exceptional experience for yourself, and a better working world for all.
+
+ 5 to 10 years of Experience in developing data ingestion, data processing and analytical pipelines for big data, relational databases, NoSQL and data warehouse solutions
+ Extensive hands-on experience implementing data migration and data processing using Azure services: ADLS, Azure Data Factory, Azure Functions, Synapse/DW, Azure SQL DB, Databricks Azure Data Catalog, Cosmo Db etc.
+ Hands on experience in programming like python, scala
+ Must have hands on experience in SQL and procedural SQL languages
+ Experience working with NoSQL in at least one of the data stores - HBase, Cassandra, MongoDB
+ Strong analytical skills and enjoys solving complex technical problems
+ Proficiency in Software Development Best Practices
+ Strong analytical skills and enjoys solving complex technical problems
+ Excellent debugging and optimization skills
+ Experience in Enterprise grade solution implementations & in converting business problems/challenges to technical solutions considering security, performance, scalability etc
+ Designing and implementing data ingestion pipelines from multiple sources using Azure or AWS Databricks.
+ Developing scalable and re-usable frameworks for ingesting of data sets.
+ Integrating the end to end data pipeline - to take data from source systems to target data repositories ensuring the quality and consistency of data is maintained at all times.
+ Participating in development of cloud data warehouses, data as a service, business intelligence solutions.
+ Data wrangling of heterogeneous data.
+
+EY | Building a better working world
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.","Big Data
+Add,Cassandra
+Add,Data Ingestion
+Add,Data Warehousing
+Add,HBase
+Add,MongoDB
+Add,NoSQL
+Add,Relational Databases
+Add,SQL
+Add,Scala
+Add,"
+Data Engineer-Big Data,"IBM · Quezon City, National Capital Region, Philippines 5 days ago · 5 applicants",On-site Full-time,"About the job
+679379BR
+
+Introduction
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+Your Role and Responsibilities
+
+Develops applications on Big Data and Cognitive technologies including API development. Expected to have traditional Application Development background along with knowledge of Analytics libraries, open-source Natural Language Processing, statistical and big data computing libraries. Strong technical abilities to understand, design, write and debug complex code. Skills include Python, Spark, Kafka, IBM BigInsights, Hadoop, NoSQL, HBase, HIVE, PIG, C++, SQL, Linux, Java, EAI, SOA, CEP, HDFS, ETL
+
+PH_DIGhotjobs
+
+Required Technical and Professional Expertise
+
+
+Development experience in Big Data software development technologies such as Python, Hadoop, Hive or Spark.
+Proficient background in Unix or Linux programming language.
+Good understanding in SQL and RDBMS. Good at modeling data for relational, analytical and big data workload.
+Provide support for deployed data applications and other data consumers by identifying data problems and guiding issue resolution with partner Data Engineers and source data providers
+
+
+Preferred Technical And Professional Expertise
+
+
+Must Have skill in Big Data tools such as Python, Hadoop, Hive or Spark
+Proven background in SQL, Unix/Linux and ETL process
+
+
+About Business Unit
+
+IBM Services is a team of business, strategy and technology consultants that design, build, and run foundational systems and services that is the backbone of the world's economy. IBM Services partners with the world's leading companies in over 170 countries to build smarter businesses by reimagining and reinventing through technology, with its outcome-focused methodologies, industry-leading portfolio and world class research and operations expertise leading to results-driven innovation and enduring excellence.
+
+Your Life @ IBM
+
+In a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+Are you ready to be an IBMer?
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, caste, genetics, pregnancy, disability, neurodivergence, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.","API Development
+Add,Apache Kafka
+Add,Apache Spark
+Add,EAI
+Add,Extract, Transform, Load (ETL)
+Add,HBase
+Add,Hadoop
+Add,Hive
+Add,NoSQL
+Add,RDBMS
+Add,"
+Senior Data Engineer,"RingCentral · Manila, National Capital Region, Philippines Reposted 2 months ago · 5 applicants",On-site Full-time Mid-Senior level,"About the job
+Say hello to possibilities at Acquire Asia Pacific Philippines Inc. (Acquire BPO) under the RingCentral account (RingCentral).
+
+It’s not everyday that you consider starting a new career. We’re Acquire BPO, and we’re happy that someone as talented as you is considering this role. First, a little about our client, RingCentral is a $2 billion global leader in cloud-based communications and collaboration software. RingCentral is fundamentally changing the nature of human interaction—giving people the freedom to connect powerfully and personally from anywhere, at any time, on any device.
+
+To succeed in this role you must have experience in:
+
+Data Engineering and Reports Automation:
+
+
+Building, developing and maintaining internal data cubes/schema (relational and non-relational database), data architecture, reporting systems and data automation for Marketing. 
+Ensures effective ETL processes for large datasets and oversees the back-end design and delivery of analytical reports and insights. 
+Assist in data discovery, data mapping and data testing within Hadoop and different source systems. 
+Manage and optimize processes for data intake, validation, mining and engineering as well as modeling, visualization and communication deliverables. 
+Collaborates with the Senior Analytics Manager, Marketing Director and Business Services to optimize an efficient Marketing Databases. 
+
+
+UAT and Business Analysis:
+
+
+Collaborate with different departments to understand different source systems (e.g. Salesforce, BI, Marketo, Adobe Analytics) and optimize joint development efforts in data enriching Hadoop’s Database. 
+Iteratively test, refine and improve the marketing’s Hadoop data schema/table and Tableau reports. 
+Performs business analysis for specified tasks and data sets 
+Work closely with other data and analytics team members and IT and Business Service team to optimize the company’s data systems and pipeline architecture and achieve greater efficiency across all of our company data systems. 
+
+
+Desired Qualifications:
+
+
+Strong SQL skills (MySQL, Hive, Impala etc.), ability to perform effective querying involving multiple tables and subqueries within multiple data systems. 
+Experience in designing and creating relational and non-relational databases Data Warehouse Architecture and ETL scripts. 
+knowledge of data mining principles: collecting data from multiple data systems, data governance, data quality and mapping and predictive analytics 
+Demonstrated ability to build processes that support data transformation, data structures, metadata, dependency and workload management. 
+Able to understand various data structures and common methods in data transformation 
+A Date Engineer who has a good attitude and is willing to expand his/her knowledge to Data Science/Analytics 
+With at least 3 years of experience in a Data Engineering position 
+
+
+Proficient and experienced with the following tools/programs: 
+
+
+Strong programming skills with querying languages: SQL, Linux/Unix etc. 
+Experience with big data tools: Teradata, Hadoop, Alteryx etc. 
+
+
+What we offer:
+
+
+Comprehensive HMO package (medical and dental)
+Personal Time Off Leaves
+Quarterly Performance Bonus
+Employee Assistance and Wellness Programs
+
+
+RingCentral’s Global Ops team works collaboratively to provide cohesive support and strategy that build, nurture and lead all aspects of the business. RingCentral has become the leading global cloud-based communications provider because it is not just selling solutions; it is changing the nature of communications.
+
+RingCentral’s work culture is the backbone of our success. And don’t just take our word for it: we are recognized as a Best Place to Work by Glassdoor, the Top Work Culture by Comparably and hold local BPTW awards in every major location. Bottom line: RingCentral is committed to hiring and retaining great people because you power our success. RingCentral offers on-site, remote and hybrid work options optimized for the ways we work and live now.
+
+About RingCentral/Acquire BPO
+
+RingCentral, Inc. is a US-based company engaged as a global provider of cloud unified communications and collaboration solutions. It is being serviced in the Philippines by its offshore partner Acquire Asia Pacific Philippines, Inc.
+
+Acquire BPO is an award-winning, global business outsourcer with 8,500+ staff operating out of Class A offices in 16 locations across the Philippines, Australia, the Dominican Republic, and the US, as well as from comprehensive Work-from-Home environments, where client-permitted. We are one of the fastest-growing BPO companies and Australia’s largest outsourcer to the Philippines.
+
+We have 15 years of experience delivering intelligent contact center and back-office functions for global businesses across many industries including telecommunications, banking and financial services, insurance, media, education, and retail. We're recognized as being Safe, Flexible, and Innovative, giving our clients the capability to Outsource with confidence.
+
+As a dynamic organization with the ability to take your career to the next level, we're looking for strong candidates to join our team and partner with one of the biggest cloud communications companies in the world - RingCentral. We value our employees highly and, as such, offer excellent career development programs and competitive compensation and benefits packages.
+
+Acquire BPO is an equal opportunity employer that truly values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+By completing your application for this role, you:
+
+
+Agreed that the information collected through this site will only be processed with your prior consent and for the purpose of facilitating your employment opportunities
+Have read and agreed to our Data Privacy Policy
+
+
+RingCentral, Inc. is a US-based company engaged as a global provider of cloud unified communications and collaboration solutions. It is being serviced in the Philippines by its off-shore partner Acquire Asia Pacific Philippines, Inc. 
+
+# LI-MC1","Data Analytics
+Add,Data Cubes
+Add,Data Engineering
+Add,Data Science
+Add,Data Warehouse Architecture
+Add,Data Warehousing
+Add,Databases
+Add,Datasets
+Add,Extract, Transform, Load (ETL)
+Add,OLAP Cubes
+Add,"
+Cloud Engineer,"Globe Group · Taguig, National Capital Region, Philippines Reposted 2 weeks ago · 220 applicants",Hybrid Full-time Entry level,"About the job
+At Globe, our goal is to create a wonderful world for our people, business, and nation. By uniting people of passion who believe they can make a difference, we are confident that we can achieve this goal.
+
+Job Description
+
+To maintain and operate Cloud infrastructure including upgrades and security patches. Assist in the identification, development and maintenance of policies and procedures that are relevant to the proper operational functions of the Cloud infrastructure. Provide assistance in cloud related projects during all stages, including: assessment, planning, designing, initiation. Maintain operational readiness ensuring complete recovery in the event of a disaster. Attend DR tests regularly, as outlined in the company policies and procedures to ensure DR functionality. Update policies and procedures as required. Evaluation of new versions, patches, firmwares and security patches. Implementing upgrades and security patches regularly. Periodic monitoring of cloud platforms, performance tuning and capacity planning and trend analysis.
+
+Duties & Responsibilities
+
+Must respond promptly to issues reported by clients, conducting root cause analysis and going through various testing scenarios for thorough resolution within the agreed SLA.
+Performs public cloud support preferably AWS and GCP by resolving escalated incident from the customer
+Provide L2 and L3 support
+Compliance review – scheduled compliance tasks performed monthly, quarterly and yearly
+Escalation and Troubleshooting – resolution of moderate to complex issues, escalation to public cloud vendor
+Maintain, manage and provide troubleshooting procedures to various AWS/GCP issues and escalations
+Provide support on other infra-related SR activities.
+Provide technical expertise, knowledge, and guidance to other Cloud Engineer
+Coordinates with vendors and suppliers when it comes to server and cloud support, if needed
+Provide extended assistance to issues related to server and cloud, if needed.
+Knowledge transfer to L2/L3 ITS team
+Assist vendors in troubleshooting, if needed.
+Regular implementation standard review with ITS sysad/cloud team
+Regular peer review of infra design, if needed.
+Regular peer review with L2/L3 ITS, if needed.
+Technical and Process planning with O&M team
+Operational requirement standard review
+Attend Operational reporting review
+Attend team meetings, huddles, scrum meetings, trainings, and KT sessions
+Problems encountered are issues with production infra and service request implementations.
+
+Requirements
+
+ At least 1 year work experience in the related field is required for this position
+ At least 1 year experience working in system administration / cloud administration, preferably Amazon Web Services and Google Cloud Platform and other cloud providers
+ Solid understanding of test methodologies, test design and test best practices to manage service performance KPIs and root cause analysis
+ Strong analytical, problem solving and systems thinking abilities
+ Knowledgeable in ITSM capabilities: ServiceNow reports, developing dashboards and helping users understand data and patterns
+ Familiarity with different infra technology:
+Cloud Technology (AWS, GCP)
+Virtualization (VMware)
+Openstack
+DevOps, Automation, Open-source
+Assess and troubleshoot infrastructure issues
+Discuss technical recommendations and solutions with end-users and stakeholders
+ Significant test automation skills around designing, building and maintaining test frameworks
+ Good experience in defining test scenarios from requirements and acceptance criteria
+ Good in time management, communication and collaboration
+ Good in problem solving and handling pressure.
+ Familiarity and knowledge with agile delivery methodologies
+
+Nice To Have Certification (in Any Of The Following)
+
+AWS Practitioner
+AWS SysOps Administrator Associate
+AWS Solutions Architect Associate
+GCP Associate Cloud Engineer
+GCP Professional Cloud Architect
+VMWare Certified Professional - DCV
+Certified OpenStack Administrator
+
+Make Your Passion Part of Your Profession. Attracting the best and brightest Talents is pivotal to our success. If you are ready to share our purpose of Creating a Globe of Good, explore opportunities with us.","Communication
+Add,Problem Solving
+Add,Scenario Testing
+Add,Test Design
+Add,"
+Lead Azure Data Engineer [For Pooling],"CGI · Muntinlupa City, National Capital Region, Philippines Reposted 1 week ago · 5 applicants",Full-time Mid-Senior level,"About the job
+Position Description
+
+Want to expand your experience in one of the world's largest IT and business consulting services firms?
+
+JOIN CGI PHILIPPINES!
+
+As an Azure Data Engineer Team Leader, you will be responsible for leading a team of data engineers in designing, developing, and implementing data engineering solutions on Azure Databricks platform. You will work closely with clients to understand their business requirements, collaborate with cross-functional teams, and ensure the successful delivery of projects. The ideal candidate will have a strong background in Azure data services, excellent leadership skills, and a passion for driving innovation in data engineering.
+
+Your future duties and responsibilities
+
+Team Leadership:
+
+ Lead and mentor a team of Azure data engineers, providing technical guidance, support, and coaching.
+ Foster a collaborative and innovative team culture, encouraging continuous learning and skill development.
+ Collaborate with project managers and other team leaders to allocate resources and manage workloads effectively.
+
+Technical Expertise:
+
+ Design, develop, and implement data engineering solutions on Azure, utilizing services such as Azure Data Factory, Azure Databricks, Azure SQL Database, Azure Synapse.
+ Ensure the team follows best practices and coding standards to deliver high-quality, scalable, and efficient solutions.
+ Stay updated with the latest Azure data services and technologies, incorporating them into the team's projects when applicable.
+
+Client Collaboration:
+
+ Collaborate closely with clients to understand their business requirements and translate them into technical solutions.
+ Provide technical expertise and recommendations to clients, ensuring alignment between their goals and the proposed solutions.
+ Act as a liaison between clients and the team, managing expectations and ensuring client satisfaction.
+
+Project Management:
+
+ Collaborate with project managers to define project scopes, timelines, and deliverables.
+ Track project progress, identify potential risks, and proactively implement mitigation strategies to ensure successful project delivery.
+ Provide regular project updates to clients and stakeholders, addressing any concerns and ensuring transparency throughout the project lifecycle.
+
+Required Qualifications To Be Successful In This Role
+
+ Bachelor’s degree in Computer Science, Information Technology, or related field.
+ At least 5 years of proven experience as a Lead Azure Data Engineer.
+ Proven experience in leading and managing a team of data engineers in Azure cloud environments, especially on Azure Databricks.
+ Strong expertise in Azure data services, including Azure Data Factory for ETL/ELT, Pyspark - Azure Databricks with Unity Catalog, Azure SQL Database, and Azure Synapse Analytics.
+ Hands-on experience with data modeling, ETL processes, data integration, and data warehousing.
+ Excellent problem-solving skills and the ability to work effectively in a fast-paced, collaborative team environment.
+ Exceptional communication skills, with the ability to convey complex technical concepts to clients and team members effectively.
+ Azure & Databricks certifications (such as Microsoft Certified: Azure Data Engineer Associate and/or Databricks Certified Data Engineer Associate/Professional) are highly desirable.
+ Project management experience and familiarity with Agile methodologies is a plus.
+ Candidate must be amenable to report at least 3x a week onsite in Alabang.
+
+Only Candidates' Applications Meeting Minimum Qualifications Will Be Processed.
+
+Successful candidates will enjoy these benefits when they join CGI:
+
+ Career Development
+ Multicultural Interaction
+ Hybrid Work Setup
+ Laundry Allowance
+ Rice Subsidy Allowance
+ Uniform Allowance
+ Share Purchase Plan (SPP)
+ Profit Participation Plan (PPP)
+ Provident Fund
+ Leave Entitlements
+ HMO Coverage (upon hire)
+ Extended HMO Coverage
+ Group Life Insurance
+ Health and Wellness Program
+ Member Referral Program
+ Special Meal Allowance
+ Member Assistance Program (MAP)
+ Corporate Social Responsibility Program
+
+Insights you can act on
+
+While technology is at the heart of our clients’ digital transformation, we understand that people are at the heart of business success.
+
+When you join CGI, you become a trusted advisor, collaborating with colleagues and clients to bring forward actionable insights that deliver meaningful and sustainable outcomes. We call our employees “members” because they are CGI shareholders and owners, and, as owners, we enjoy working and growing together to build a company we are proud of. This has been our Dream since 1976, and it has brought us to where we are today—one of the world’s largest independent providers of IT and business consulting services.
+
+At CGI, we recognize the richness that diversity brings. We strive to create a work culture where everyone belongs, and we collaborate with clients in building more inclusive communities. As an equal opportunity employer, we empower all our members to succeed and grow. If you require an accommodation at any point during the recruitment process, please let us know. We will be happy to assist.
+
+Ready to become part of our success story? Join CGI—where your ideas and actions make a difference.","Azure Databricks
+Add,Business Requirements
+Add,Computer Science
+Add,Data Engineering
+Add,Data Integration
+Add,Data Modeling
+Add,Data Warehousing
+Add,Extract, Transform, Load (ETL)
+Add,Microsoft Azure
+Add,Mitigation Strategies
+Add,"
+Cloud Engineer,"Noventiq · Manila, National Capital Region, Philippines Reposted 1 week ago · 158 applicants",On-site Full-time Entry level,"About the job
+Description
+
+Noventiq is hiring!
+
+Noventiq’s story is one of change. We grew, expanded, and adapted, learning more at each step. Now effecting change is at the heart of everything we do. And that doesn't just apply to our customers, it’s how we feel about everyone who works with us.
+
+Noventiq (the brand name of Cyprus-registered Softline Holding plc) is a leading global solutions and services provider in digital transformation and cybersecurity, headquartered and listed in London. The company enables, facilitates and accelerates digital transformation for its customers’ businesses, connecting 75,000+ organizations from all sectors with hundreds of best-in-class IT vendors, alongside its own services and solutions.
+
+With a turnover of US$ 1.1 billion in the fiscal year of 2021, Noventiq is currently one of the fastest growing companies in the sector. In October 2021, company ""Softline Holding plc"" got its primary listing on the London Stock Exchange (LSE:SFTL). Noventiq’s growth is underpinned by its three-dimensional strategy to expand its geography, portfolio and sales channels. The strategy is supported by Noventiq's active approach to M&As, enabling the company to take advantage of the ongoing consolidation in the industry. Noventiq's 3900 employees work in almost 60 countries throughout Asia, Latin America, Eastern Europe and Africa—markets with significant growth potential.
+
+We’re looking for a Cloud Engineer to bring your talent to Noventiq Philippines. You’ll be a part of our Services Delivery team.
+
+Job Overview: Designs, develops, and deploys cloud-based solutions for the organization. You have a solid understanding of cloud platforms, tools, and best practices, and work with senior cloud engineers and developers to implement cloud solutions. You also monitor and maintain cloud systems and applications, ensuring their functionality and efficiency.
+
+What You’ll Do
+
+Assist in the planning, design, implementation, and maintenance of cloud-based systems for the organization, using public and private cloud platforms such as AWS, Azure, or GCP;
+Work with engineering and development teams to evaluate and identify optimal cloud solutions for the organization’s needs and goals;
+Follow cloud security policies and standards, ensuring compliance with regulatory requirements and industry best practices;
+Monitor and optimize the performance, availability, scalability, and reliability of cloud systems and applications;
+Troubleshoot and resolve technical issues related to cloud infrastructure and applications;
+Provide technical support to other cloud engineers and developers;
+Research and learn new cloud technologies and trends.
+
+About You
+
+Bachelor’s degree in Computer Science, Information Technology, Engineering, or related field
+Have 2+ years of proven work experience as a Cloud Engineer or similar role
+Knowledge of cloud platforms such as AWS, Azure, or GCP
+Proficiency in programming languages such as Python, Java, C#, or Ruby
+Experience with cloud automation and orchestration tools such as Terraform, Ansible, Puppet, or Chef
+Experience with cloud services such as EC2, S3, Lambda, Azure Functions, Google Cloud Functions, etc.
+Experience with DevOps tools and methodologies such as CI/CD, Git, Jenkins, Docker, Kubernetes, etc.
+Basic knowledge of cloud security principles and practices
+Good troubleshooting and problem-solving skills
+Good communication and collaboration skills
+
+What we offer
+
+Working time: Mond-Fri, flexible working time
+Attractive salary, Bonus, & Allowances for mobile, transportation
+Premium Healthcare Insurance package
+Opportunities to work with global colleagues from different cultures
+Annual Health check-up 
+External and Internal Training Opportunities & English class are sponsored by company
+Birthday paid day-off & Birthday gift 
+Recognition program, Referral program
+Working device provided or reimbursement on personal device
+Other activities: annual company trip, Christmas gathering, exciting engagement events, Coaching opportunities, etc.
+Annual Salary Review & Promotion 
+
+Don’t forget to include your CV and cover letter. We receive a lot of applications, but we try to notice each of our potential candidates.","Cloud Computing
+Add,Communication
+Add,Computer Science
+Add,Problem Solving
+Add,Puppet (Software)
+Add,Python (Programming Language)
+Add,Ruby
+Add,Terraform
+Add,"
+SENIOR ETL DEVELOPER,"Tata Consultancy Services · Manila, National Capital Region, Philippines 3 weeks ago · 23 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Objective and Purpose of the Assignment 
+The main objective of this engagement is to provide technical support to ADB’s Office of Risk Management (ORM) and Treasury Department (TD) for the Credit / Market Risk Metrics and Limit Compliance project which aims to redevelop in-house the Limits and Compliance reports developed by a third-party vendor into the Treasury Risk Management System (TRMS). 
+ Scope of Work 
+The consultant will be responsible to work with data owners, system owners, users, ITD infrastructure and solution delivery team, and other relevant parties in identifying data requirements for the Limits and Compliance reports in TRMS and lead the development of scripts required in these reports. 
+The senior developer should have a strong knowledge in ETL (extract- transform-load) design patterns for developing software components for transforming transactional data into reporting data that will be used be reporting tools such as PowerBI. 
+ The senior developer will implement quality logical and physical ETL designs that have been optimized to meet the operational performance requirements for ORM-RMTO’s reporting needs. This will include the implementation of architecture and design that adheres to the ADB Software Development Standards. He/she has the experience of designing the optimal performance strategy and manage the technical metadata across all ETL jobs. 
+ Detailed Tasks and/or Expected Outputs 
+Perform data management and extraction-transformation-loading (ETL) of data used for risk data analysis and risk management reports in ORM, including but not limited to: 
+Spearheads development of ETL code, metadata definitions and models, queries and reports, schedules, work processes and maintenance procedures. 
+Manages automation of file processing as well as all ETL processes within a job workflow. 
+Develop and deploy ETL job workflow with reliable error/exception handling and rollback framework. 
+Manage software upgrades, capacity planning and system optimization. 
+Perform the unit testing, system integration testing and assist with user acceptance testing 
+Adapt ETL modules to accommodate changes in source data and new business requirements. 
+Document the ETL module design and test results. 
+Prioritize development and enhancement requests. 
+Ensures data quality throughout entire ETL process. 
+Ensures compliance with regulatory requirements for data transmission, storage, and data access including documentation, testing, and remediation. 
+ Knowledge and Skill Requirements: 
+Bachelor’s Degree in computer science or equivalent experience required 
+Intermediate level skills in Python data processing and analytics modules such as NumPy and Pandas. 5 years experience in managing data lineage and performing impact analyses 
+Intermediate-level skils experience with ETL tool development using Oracle PLSQL. 
+At least 5 years experience with Oracle (10g, 11g and 12c) 
+Expert-level skills in SQL. 
+Excellent ETL design and documentation skills 
+Deep appreciation of Agile or rapid application development (RAD) method 
+Ability to handle multiple tasks and adapt to a constantly changing environment 
+Self-starter with the ability to work independently and take initiative. Ability to translate ideas and business requirements into fully functioning ETL modules. 
+Strong analytical and problem-solving skills, hardworking and attentive to details. 
+Excellent written and oral communication skills, with the ability to articulate and document processes and workflows for use by various individuals of varying technical abilities. 
+Excellent organizational skills.","Analytical Skills
+Add,ETL Tools
+Add,English
+Add,Extract, Transform, Load (ETL)
+Add,Oracle Database
+Add,Oral Communication
+Add,Problem Solving
+Add,Python (Programming Language)
+Add,SQL
+Add,Unit Testing
+Add,"
+Cloud Engineer,"Aeven · Makati, National Capital Region, Philippines 2 weeks ago · 48 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Job Description:
+Cloud engineer in Aeven is an IT professional responsible for any technological duties associated with cloud computing, including planning, management, maintenance and support.
+Operation/project tasks or service development/management
+Operation of customer environment following ITIL/DevOps/IaC
+Planning, driving and execution of project activities
+Service life cycle management
+
+Job Requirements:
+Bachelors Degree in Information Technology or equivalent
+2+ years Professional Experience
+Excellent communication and problem solving skills
+Tools and Technologies:
+Linux, Windows
+Cloud network,
+Cloud security
+Terraform
+DevOps
+Azure AD
+SQL
+AKS
+
+Nice to have:
+PostgressSQL
+Python
+Ansible
+
+COMPANY OVERVIEW
+ 
+Our business was born at 28 years old. We earned our experience as part of Denmark’s foremost IT infrastructure specialist. Now we’re ready to take the next step with you
+
+Aeven is a new company formed from part of NNIT. That means that even before we opened our doors, we’d clocked up three decades of experience serving critical industries such as life science & healthcare, the public sector, finance, energy & utilities, industrial goods & manufacturing, and retail & consumer goods.
+
+At Aeven, we’re on a quest to keep digital infrastructure critical to the lives of millions, safe, secure, and productive. And to do this, we employ sharp minds, capable hands, and most importantly, positive personalities that are eager to collaborate, contribute, develop their skills, and make a difference.
+
+We’re here to provide digital infrastructure that helps companies and institutions steer a straight course. “With Aeven, wherever you’re going, we’re here – with you all the way. Locally anchored in Denmark but with a global reach, we have three decades of experience helping businesses and institutions on which the health, wealth, and security of millions depends, navigate uncertainty, and thrive”. - Henrik Bodskov, CEO
+
+Read more about AEVEN: www.aevengroup.com
+ 
+At Aeven, we’re on a mission to keep digital infrastructure critical to the lives of millions, safe, secure, and productive. And to do this, we need sharp minds, capable hands, and most importantly, positive personalities that are eager to collaborate, contribute, develop their skills, and make a difference.
+
+When you join Aeven, you join a culture of expertise, inclusion, and growth where people matter. Your professional growth is valuable to us, and we will support you all the way – whether you ‘re interested in developing greater depth within your area of expertise, want to broaden your scope of skills, or wish to pursue new roles in our organization.
+
+If you are interested and have the necessary qualifications and experience to take on the challenge, write us a personal message (with your CV/resume) saying why you are the person for the position. Address this to one of our Recruitment, Rochelle at her email address: RCHE@AEVENGROUP.COM, who would entertain any of your inquiries or questions for the position.
+
+On top of the statutory benefits stipulated by the local law, AEVEN PH employees enjoy the following benefits upon joining:
+
+Competitive Compensation
+Clothing & Laundry Allowance
+Communication Allowance
+Fitness Allowance
+Healthcare/HMO
+Medical Allowance (Employees/Dependent)
+Life Insurance
+Leave (convertible to cash)
+Rice Subsidy
+Emergency Loan
+First Baby Gift
+Wedding Gift
+Year End Gift
+Performance Bonus
+Flexible Working Hours
+Work from Home Arrangement (even before the pandemic)
+Free Breakfast on Fridays
+Free fruits and wide selection of tea and coffee for free
+Annual flu vaccination for free","Ansible
+Add,Azure Active Directory
+Add,Azure Kubernetes Service (AKS)
+Add,Cloud Computing
+Add,DevOps
+Add,Linux
+Add,Microsoft Azure
+Add,Problem Solving
+Add,Python (Programming Language)
+Add,SQL
+Add,Terraform
+Add,"
+Senior Data Engineer,"DXC Technology · Taguig, National Capital Region, Philippines 2 months ago · 6 applicants",Full-time Mid-Senior level,"About the job
+Job Description:
+
+As a Data Engineer, you will be instrumental in helping our customers get insights and value from their data by designing, building, implementing and managing the technical solution and data platform that will enable the delivery and consumption of data. You will have a good understanding of the customer's requirements, needs and business objectives, and be able to translate them into technical data solutions. Not only will you be responsible in ingesting, transforming, cleansing, harmonizing, preparing and structuring data for consumption, you will also help advise on potential ways this can be done better and more efficiently, and leverage on best practices and collective experience to guide our customers to explore options they may not even raise as a requirement but we know will help them in their data and analytics journey.
+
+Job Description:
+
+Designs and develops Data and Analytics solutions
+Performs data analysis, data architecture, data engineering activities
+Designs and builds data ingestion pipelines; develops data transformation, cleansing and preparation processes
+Designs and builds data storage solutions including database objects and data structures
+Takes ownership of complex data-level or database incidents and problems and provides resolutions in a timely manner
+Provides advisory and consultation services to determine the right solution
+Utilizes best practices, work plans, checklists and defined processes
+Proactively supports application teams
+Performs optimization
+Participates in project technical reviews
+Leads or participates in work product reviews
+Engages SMEs or vendors to provide assistance to resolve more complex issues as required
+
+Technology And Functional Skills:
+
+Azure data platform and components: Azure Data Factory, Databricks, Blob Storage, Synapse, SQL DB/DW, Event Hubs, etc
+AWS data platform and components: S3, Redshift, Spectrum, Athena, Aurora, CLI, etc
+GCP data platform and components: BigQuery, Dataflow, Dataprep, Pub/Sub, etc
+Big Data: Hadoop, Hadoop ecosystem, Spark, Scala, etc
+Language and Toolset: SQL, Python, PySpark, ELK (Elasticsearch, Logstash, Kibana)
+Data Integration, Extract-Transform-Load (ETL), Data Ingestions, Data Cleansing, Data Preparation, Database
+Data Warehouse, Data Lake, and Business Intelligence (BI) concepts
+
+Recruitment fraud is a scheme in which fictitious job opportunities are offered to job seekers typically through online services, such as false websites, or through unsolicited emails claiming to be from the company. These emails may request recipients to provide personal information or to make payments as part of their illegitimate recruiting process. DXC does not make offers of employment via social media networks and DXC never asks for any money or payments from applicants at any point in the recruitment process, nor ask a job seeker to purchase IT or other equipment on our behalf. More information on employment scams is available here.","Data Analytics
+Add,Data Architecture
+Add,Data Engineering
+Add,Data Modeling
+Add,Data Science
+Add,Data Warehousing
+Add,Databases
+Add,Kibana
+Add,Object Storage
+Add,Technical Reviews
+Add,"
+BI Data Engineer II,Concentrix · Metro Manila Reposted 1 week ago · 31 applicants,On-site Full-time Entry level,"About the job
+Job Title:
+
+BI Data Engineer II
+
+Job Description
+
+Location:
+
+PHL Work-at-Home NCR QC
+
+Language Requirements:
+
+Time Type:
+
+Full time
+
+If you are a California resident, by submitting your information, you acknowledge that you have read and have access to the Job Applicant Privacy Notice for California Residents
+
+R1409641","Analytics
+Add,Data Modeling
+Add,Data Warehousing
+Add,Databases
+Add,Extract, Transform, Load (ETL)
+Add,SQL Server Analysis Services (SSAS)
+Add,"
+Site Reliability Engineer,"Genpact · Makati, National Capital Region, Philippines 2 weeks ago · 25 applicants",Hybrid Full-time Mid-Senior level,"About the job
+• Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent practical experience). 
+• Proven experience as a Site Reliability Engineer or in a similar role, with a focus on managing large scale, highly available systems. 
+• Proficiency in programming and scripting languages (e.g., Python, Bash, Go) to automate tasks and develop tools. 
+• Strong knowledge of cloud computing platforms (e.g., AWS, GCP, Azure) and containerization technologies (e.g., Docker, Kubernetes). 
+• Experience with configuration management tools (e.g., Ansible, Puppet, Chef) and version control systems (e.g., Git). 
+• Solid understanding of networking principles, including TCP/IP, DNS, load balancers, and firewalls. 
+• Familiarity with monitoring and logging tools (e.g., Prometheus, Grafana, ELK stack). 
+• Ability to work collaboratively in cross-functional teams and excellent communication skills. 
+• Willingness and readiness to be trained in Site Reliability Engineering (SRE).
+
+Preferred Qualifications: 
+• Master’s degree in Computer Science, Information Technology, or a related field. 
+• Certifications in cloud platforms (e.g., AWS Certified DevOps Engineer, Google Cloud Professional DevOps Engineer). 
+• Experience with microservices architecture and continuous integration/continuous delivery (CI/CD) pipelines. 
+• Understanding of cybersecurity principles and best practices.","Amazon Web Services (AWS)
+Add,Ansible
+Add,Bash
+Add,DevOps
+Add,Git
+Add,Google Cloud Platform (GCP)
+Add,Prometheus.io
+Add,Puppet (Software)
+Add,Site Reliability Engineering
+Add,Version Control
+Add,"
+CGI Developer (PL/SQL/Shell Scripting),"Eviden · Taguig, National Capital Region, Philippines 1 week ago · 12 applicants",Hybrid Full-time Associate,"About the job
+Set-Up
+Day Shift
+Hybrid - 2x a week onsite and 3x a week WFH.
+The office is located in Makati Solaris
+
+Job Description:
+At least 2 years of hands-on development experience with Web UI development using JavaScript/HTML.
+At least 3 years of hands-on development experience with Linux shell scripting (bash shell/awk) PL/SQL development experience - At least 3 years of experience.
+At least 5 years of working experience in the IT development space","Awk
+Add,Bash
+Add,HTML
+Add,JavaScript
+Add,Linux
+Add,PL/SQL
+Add,Programming Languages
+Add,SQL
+Add,Shell Scripting
+Add,Skill Development
+Add,"
+Senior Data Engineer,"Manulife · Makati, National Capital Region, Philippines Reposted 1 week ago · 20 applicants",Full-time Mid-Senior level,"About the job
+We are a leading financial services provider committed to making decisions easier and lives better for our customers and colleagues around the world. From our environmental initiatives to our community investments, we lead with values throughout our business. To help us stand out, we help you step up, because when colleagues are healthy, respected and meaningfully challenged, we all thrive. Discover how you can grow your career, make impact and drive real change with our Winning Team today.
+
+Working Arrangement
+
+Hybrid
+
+Job Description
+
+The Opportunity 
+
+The customer is the focus of everything we do, and millions of end users rely on our products daily. We believe in the value of empowering Scrum Masters with the resources to solve critical problems for the future of our business, which is why we need you.
+
+The Asia Data Office is looking for an experienced Senior Data Engineer to join our team to support our regional partners. If you have passion for data and a desire to drive quality data solutions within a data driven culture, then read on to learn more about this opportunity!
+
+We are looking for the right individual who would be interested and enjoy the opportunity to support data operations, strong willingness to learn and build data operations skills through team collaboration, desire to drive and execute on our data strategy, willing to help mature our agile practices, and is looking for an opportunity to embrace technical, operational, and informal leadership roles on the team.
+
+What motivates you? 
+
+ You obsess about customers, listen, engage and act for their benefit
+ You think big, with curiosity to discover ways to use your agile mindset and enable business outcomes
+ You thrive in teams, and enjoy getting things done together
+ You take ownership and build solutions, focusing on what matters
+ You do what is right, work with integrity and speak up
+ You share your humanity, helping us build a diverse and inclusive work environment for everyone
+
+We Are Looking For Someone With
+
+Proficient understanding of distributed computing principles 
+Good Knowledge of Hadoop cluster, Azure, with all included services 
+Ability to solve any ongoing issues with operating the cluster 
+Proficiency with Hadoop v2, MapReduce, HDFS
+Experience with Azure ADLSg2, Data Factory, DataBricks, Eventhub,
+Experience with data engineering projects i.e integration of data from multiple data sources to a target system
+Good knowledge of Big Data querying tools – Hive, HBase, SQL
+Knowledge in data streaming (e.g. Kafka, Spark)
+Knowledge in any server-side programming languages (e.g. Java, Python, Spark, R…etc)
+Knowledge in any Change Data Capture (CDC) solutions
+Experience in working on Agile projects is an advantage.
+Experience on Azure Cloud and/or other Cloud platforms
+Open Source RDBMS management including MongoDB & HBase
+
+Education And Experience
+
+Bachelor's degree preferably in Computer Science or Data/Engineering related courses
+Recognized qualification in Service Management helpful
+ITIL certification helpful
+10+ years in one or more of the following
+Data Engineer
+Platform Engineer
+DevOps Engineer
+Systems Engineer
+Systems Administrator
+
+On The Job You Will
+
+Duties
+
+Selecting and integrating any Big Data tools and frameworks required providing requested capabilities 
+Implement ETL/ELT flows via Big Data Solutions i.e Nifi, Spark, Python, Azure Data Factory, Azure Synapse, Azure DataBricks…etc
+To be able to monitor the performance and advice necessary infrastructure changes or performance tuning in codes.
+Support business users in use of the Enterprise Data Lake (EDL) as part of BAU
+Perform POC on new integration patterns and solutions.
+Maintain and monitor platform stability and performance of EDL
+Attends to Incidents and change requests
+Write and maintain technical documentation
+Perform unit tests and system integration tests
+Executes updates, patches, and other activities required to maintain and enhance the operations of the EDL
+Supports the Agile delivery squads when required
+
+ Our commitment to you 
+
+Our mission; to be a part of making Decisions Easier and Lives Better
+A leadership team dedicated to your growth and success 
+A bold ambition and set of goals to be a leader in driving transformation in our industry 
+Our best. Every day. 
+
+Learn more about opportunities with us at jobs.manulife.com
+
+About Manulife And John Hancock
+
+Manulife Financial Corporation is a leading international financial services group that helps people make their decisions easier and lives better. With our global headquarters in Toronto, Canada, we operate as Manulife across our offices in Asia, Canada, and Europe, and primarily as John Hancock in the United States. We provide financial advice, insurance, and wealth and asset management solutions for individuals, groups and institutions. At the end of 2022, we had more than 40,000 employees, over 116,000 agents, and thousands of distribution partners, serving over 34 million customers. At the end of 2022, we had $1.3 trillion (US$1.0 trillion) in assets under management and administration, including total invested assets of $0.4 trillion (US $0.3 trillion), and segregated funds net assets of $0.3 trillion (US$0.3 trillion). We trade as ‘MFC’ on the Toronto, New York, and the Philippine stock exchanges, and under ‘945’ in Hong Kong.
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com.","Analytics
+Add,Azure Data Factory
+Add,Big Data
+Add,Change Data Capture
+Add,Data Engineering
+Add,Data Integration
+Add,Databases
+Add,Hadoop
+Add,Hive
+Add,Technical Documentation
+Add,"
+L1 Site Reliability Engineer,"Maya · Mandaluyong, National Capital Region, Philippines 2 weeks ago · 52 applicants",Hybrid Full-time Entry level,"About the job
+Job Opportunity:
+
+24x7 (12x4) shifting schedule 
+Investigate & resolve incidents & escalations or fulfill requests 
+Communicate service interruption / degradation or system maintenances to internal & external customers 
+Assess production changes 
+Write custom service checks & detect events 
+Analyze the system & be able to arrest errors & address gaps to the processes 
+Build dashboards & reduce overhead to operations 
+Collaborate effectively with other business units 
+
+Job Responsibilities:
+
+The engineer should be able to identify gaps, investigate & resolve problems within SLA 
+The engineer should be able to manage the incidents & request fulfillments within SLA 
+The engineer should be able to come up with ideas & solution that will help improve operational processes (incident detection, resolution, prevention, etc) 
+The engineer should be able to help keep the system error & downtime to a minimum 
+The engineer should be able to build custom service checks & dashboards 
+The engineer should be able to assess production changes & anticipate potential issues 
+The engineer should be able to automate process handling 
+The engineer should be able to ensure all scheduled tasks or batch jobs were completed without issues 
+
+Job Qualifications:
+
+At least a Bachelor’s degree in Computer Science 
+At least 3 years of experience in IT Operations & Service Management 
+Experience in Splunk searching is an advantage 
+At least 1 year experience in managing AWS cloud resources 
+At least 2 year experienced in process automation 
+Knowledge in Linux, IT Security & PCIDSS","Amazon Web Services (AWS)
+Add,Bash
+Add,Computer Science
+Add,DevOps
+Add,ITIL
+Add,Linux
+Add,Perl
+Add,SQL
+Add,Splunk
+Add,Windows
+Add,"
+Junior Data Engineer Web Scraping,"Recruiter PH · Quezon City, National Capital Region, Philippines 6 days ago · 0 applicants",On-site Full-time Mid-Senior level,"About the job
+This job is sourced from a job board. Learn More
+Description
+
+Are you right for the role?
+
+We’re looking for people who have an obsessive passion for learning. We don’t care if you are young or old, or even if you have a degree. But we care that you are a passionate programmer with a gnawing hunger for learning new things. As a big data company, we live to hoard information and we expect our people to have the same drive when it comes to learning. For this particular role, if you can offer the stuff (below), you might want to apply.
+
+ Demonstrable experience in coding using HTML5, CSS3, Javascript and Python
+ Familiarity with database management systems such as MySQL or MongoDB
+ Basic understanding of Linux OS is a plus
+ Strong problem-solving skills
+ The ability to communicate directly with peers and managers while leading development to a completed and successful solution
+ Familiarity with data modeling and schema design principles.",
+"Infrastructure Cloud Engineer, Lead",3Cloud · Philippines 1 week ago · 30 applicants,Remote Full-time Mid-Senior level,"About the job
+This remote position is a crucial part of our global SRE team, responsible for developing and implementing robust, scalable, and efficient systems that align with our client’s business goals and SRE principles. The ideal candidate will have a strong background in DevOps methodologies and a demonstrated ability to work effectively with remote teams.
+
+Key Responsibilities:
+
+Develop and implement automated systems and infrastructure for continuous integration, continuous deployment, monitoring, and site reliability.
+Collaborate with US Based and other GDC team members to design, build, and implement SRE/DevOps solutions that meet business requirements and goals.
+Identify and troubleshoot issues related to system performance, reliability, and scalability.
+Work closely with architects and engineers to incorporate efficient and effective solutions into the overall architecture and design.
+Contribute to the development and improvement of SRE and DevOps standards, guidelines, and procedures.
+Document and maintain system configurations, procedures, and changes.
+Participate in the on-call rotation, providing off-hours support as needed.
+Participate in agile development processes and project management practices.
+
+Qualifications:
+
+Proven experience as a DevOps Developer, SRE Engineer, or a similar role in a technical environment.
+Deep understanding of SRE principles and practices, with extensive experience in DevOps methodologies.
+Proficiency in using Azure platforms, containerization technologies (like Docker, Kubernetes), monitoring tools (like Prometheus, Grafana), and CI/CD tools.
+Strong communication skills, with a demonstrated ability to work effectively with remote teams.
+Excellent problem-solving capabilities and a detail-oriented mindset.
+Experience working in an agile development environment and familiarity with related tools and practices.
+
+Preferred Candidate Qualifications:
+
+Technical Expertise in Terraform: Experience in writing and managing infrastructure as code using Terraform. Understanding of Terraform principles, modules, state management, and best practices.
+Proficiency in Microsoft Azure: Deep understanding of Microsoft Azure services and architectures, with experience in deploying and managing infrastructure on Azure using Terraform.
+Scripting Skills: Proficiency in at least one scripting language, such as Python, Bash, PowerShell, or similar, for automation tasks and custom scripting requirements.
+Experience in CI/CD Pipeline: Experience with Continuous Integration/Continuous Deployment pipelines and deploying Terraform through a pipeline. Familiarity with CI/CD tools like Jenkins, Azure DevOps, GitHub Actions, or similar.
+Understanding of SRE Principles: Knowledge of Site Reliability Engineering (SRE) principles and practices, including automation, proactive monitoring, and reliability-focused system design.
+Cloud Security Knowledge: Understanding of security concepts related to cloud computing and cloud-native applications. Familiarity with Azure security best practices and how to implement them in Terraform.
+Version Control Systems: Experience with version control systems such as Git for tracking changes in code during software development.
+DevOps Practices: Experience with DevOps practices and methodologies, emphasizing automation, infrastructure as code, and system reliability.
+Problem-Solving Skills: Excellent problem-solving capabilities, with the ability to troubleshoot and resolve infrastructure issues efficiently.
+Certifications: Microsoft Certified: Azure DevOps Engineer Expert, HashiCorp Certified: Terraform Associate, or similar certifications would be advantageous
+
+Don’t meet every single requirement? At 3Cloud we are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway.","Cloud Development
+Add,GitHub
+Add,Infrastructure as code (IaC)
+Add,Microsoft Azure
+Add,Systems Engineering
+Add,Terraform
+Add,"
+"Full Stack Engineer, Prequel (Remote) - $100,000/year USD","Crossover  · National Capital Region, Philippines Reposted 6 days ago · 27 applicants",Remote Full-time Mid-Senior level,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Prequel. Have you got what it takes?
+
+Are you passionate about leveraging technology to transform education? If you're someone who thrives on creating seamless digital experiences and wants to contribute to shaping the future of learning, we have a role for you.
+
+At Prequel, we're not just creating another web platform; we're revolutionizing education. Our focus on empowering middle and high school students with critical life skills through entrepreneurship and mentorship sets us apart. We're committed to fostering an environment where learning transcends traditional boundaries, and technology becomes a conduit for personal growth and development.
+
+In this role, you will be an integral part of a team dedicated to revolutionizing education through technology. Your contributions will directly impact the enhancement of our student web portal, enabling us to create a platform that not only facilitates learning but also nurtures essential life skills in our future leaders. You will dive into crafting a user-centric web portal, integrating AI feedback mechanisms, and managing database systems, all while embracing continuous improvement methodologies.
+
+If you're passionate about creating meaningful change in education and thrive in a collaborative, innovative environment, join us at Prequel. Become part of a team that's redefining how technology can shape the next generation's learning journey.
+
+What You Will Be Doing
+
+Web Portal Development: Focusing on a user-centric web portal with emphasis on seamless user experience, AI feedback integration, diverse input handling, curriculum management, and a robust system for webhook integration.
+Database Management and Integration: Managing connections to preferred systems (Airtable or Google Firebase) to efficiently process user submissions and AI feedback, while ensuring error handling, scalability, and performance optimization.
+Interface and Feedback Integration: Creating user-friendly interfaces using design tools, integrating AI feedback mechanisms through API, and continuously improving functionalities through Agile methodologies and CI/CD practices.
+
+What You Won’t Be Doing
+
+Solely Technical Development: This role extends beyond traditional technical development; it's about contributing to an educational platform dedicated to fostering life skills in students.
+Isolated Development: You won't work in isolation; collaboration with cross-functional teams and stakeholders is vital for success.
+
+Full Stack Engineer Key Responsibilities
+
+Enhancement of the user experience on the student web portal, leading to a higher user retention rate and subsequently greater user numbers
+
+Basic Requirements
+
+Proficiency in HTML, CSS, JavaScript/TypeScript, and React
+Proficiency in a server-side language, such as Node.js, Python, or Ruby, and an understanding of server architecture, microservices, and hosting technologies like AWS and EC2
+Familiarity with database managements tools, such as PostgreSQL, Airtable, and Google Firebase
+
+About Prequel
+
+Prequel is a group of education brands that help the world's most ambitious kids learn 21st-century life skills by building projects with real-world feedback and impact. Through entrepreneurship and world-class mentors, Prequel helps middle and high school students build critical life skills not taught in school.
+
+We believe that the best way to learn anything is through entrepreneurship.
+
+We take teens from potential to progress. We believe that society underestimates what ambitious teens can achieve.
+
+Starting now, teens can find what they're passionate about and accelerate their careers by getting hands-on experience - instead of waiting to ""grow up.”
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-5176-PH-NCRNatio-FullStackEngin","Amazon EC2
+Add,Cascading Style Sheets (CSS)
+Add,Full-Stack Development
+Add,HTML
+Add,JavaScript
+Add,Microservices
+Add,React.js
+Add,Server Architecture
+Add,Server Side
+Add,TypeScript
+Add,"
+SQL / ETL Developer,"Eclaro · Taguig, National Capital Region, Philippines 2 weeks ago · 37 applicants",Hybrid Full-time Mid-Senior level,"About the job
+SQL/ETL Developer 
+ We are seeking a talented SQL/ETL Developer to join our team. As an SQL/ETL Developer, you will play a critical role in managing and optimizing our data pipelines, transforming raw data into valuable insights for the organization. You will work closely with our data engineering and analytics teams to ensure the availability, accuracy, and timeliness of data for business decision-making.
+ Key Responsibilities:
+ -Design, develop, and maintain ETL processes to extract, transform, and load data from various sources into data warehouses or data lakes. 
+-Write and optimize SQL queries to access and manipulate data from relational databases, ensuring data quality and performance. 
+-Collaborate with data engineers and data scientists to understand data requirements and develop data models that support analytical and reporting needs.
+-Troubleshoot and resolve data-related issues and performance bottlenecks in ETL processes and SQL queries. 
+-Monitor and maintain data pipelines, ensuring data accuracy, integrity, and security.
+-Collaborate with cross-functional teams to gather data requirements and provide data support for business initiatives.
+-Stay up-to-date with industry best practices and emerging trends in SQL and ETL development.
+ Qualifications:
+-Bachelor's degree in Computer Science, Information Technology, or a related field. 
+-Proven experience as an SQL/ETL Developer or similar role, with a strong understanding of database design and data warehousing concepts.
+-Proficiency in SQL and experience with database management systems (e.g., Oracle, SQL Server, PostgreSQL).
+-Solid experience with ETL tools and processes, such as Apache NiFi, Talend, Informatica, or custom ETL scripting.
+-Strong analytical and problem-solving skills, with the ability to work with large datasets.
+-Excellent communication and teamwork skills to collaborate with cross-functional teams.
+-Knowledge of data integration best practices, data quality, and data governance.
+-Familiarity with data visualization tools (e.g., Tableau, Power BI) is a plus.
+ Optional Skills and Certifications:
+Experience with cloud-based data platforms (e.g., AWS, Azure, GCP).
+Certifications in SQL, ETL, or data warehousing technologies
+
+Other information: 
+-Night Shift - 9PM to 6AM
+-Hybrid Set up in BGC or QC | 3 days onsite and 2 days WFH
+-Competitive Salary - Negotiable depending on experience level
+-HMO - Maxicare
+-35 combined leave credits
+-More perks and benefits await!","Amazon Web Services (AWS)
+Add,Apache NiFi
+Add,Computer Science
+Add,Data Warehousing
+Add,Database Design
+Add,Databases
+Add,Extract, Transform, Load (ETL)
+Add,Google Cloud Platform (GCP)
+Add,PostgreSQL
+Add,SQL
+Add,Talend
+Add,"
+Platform Engineer,"Capgemini · Manila, National Capital Region, Philippines Reposted 1 month ago · 97 applicants",Hybrid Full-time Mid-Senior level,"About the job
+About Capgemini
+
+Capgemini is a global leader in partnering with companies to transform and manage their business by harnessing the power of technology. The Group is guided everyday by its purpose of unleashing human energy through technology for an inclusive and sustainable future. It is a responsible and diverse organization of over 360,000 team members in more than 50 countries. With its strong 55-year heritage and deep industry expertise, Capgemini is trusted by its clients to address the entire breadth of their business needs, from strategy and design to operations, fueled by the fast evolving and innovative world of cloud, data, AI, connectivity, software, digital engineering and platforms. The Group reported in 2022 global revenues of €22 billion.
+
+Capgemini Philippines is looking for Platform Engineer (Kubernetes/EKS,AWS) role. Please find the detailed JD below :-
+
+Overall Purpose :-
+
+The Platform Engineer is responsible for designing, implementing, and managing the cloud-native infrastructure and container orchestration platform, primarily based on Kubernetes and Amazon Elastic Kubernetes Service (EKS) within the AWS environment. Their primary objective is to create a secure, scalable, reliable, and highly available platform that enables the deployment and management of containerized applications. They play a crucial role in supporting development teams and ensuring the smooth operation of applications in a cloud-native ecosystem.
+
+Specific Responsibilities :-
+
+Build and support platform capabilities allowing for fast and reliable software development and release to our development teams.
+Define platform monitoring requirements and implement automated incident resolution solutions.
+Provide support and advice development teams to enable efficient operation and problem resolution.
+Recommend solutions and assist in overseeing implementation. Actively facilitate continuous improvement.
+Provide technical input to the creation of cloud services and foundations proposals in technical review meetings and for presentation to guarantee best practice.
+Drive adoption of key engineering best practices, supporting team members to improve quality, efficiency, and reliability of deliverables.
+Identify areas for process and efficiency improvement within the platform.
+Monitor various platform capacity and health indicators and trends; provide analytics & forecasts for added or reduced capacity as required.
+
+Technical Experience :-
+
+Extensive experience in managing Kubernetes clusters, preferably on Amazon & Google, including cluster setup, configuration, and maintenance.
+Strong familiarity with GCP and Amazon Web Services (AWS) and its various services, such as EC2, VPC, IAM, RDS, SQS, ECS and Route 53, to design and optimize cloud infrastructure.
+Proficiency in container technologies like Docker, container registries, and container networking to facilitate seamless deployments.
+Expertise in using Infrastructure as Code (IaC) tools like Terraform, Ansible or CloudFormation for automating cloud resource provisioning and management.
+Experience integrating Kubernetes deployments into CI/CD pipelines using tools like Jenkins, GitLab CI/CD, or AWS CodePipeline.
+Familiarity with monitoring and logging tools like CloudWatch, Dynatrace Prometheus, Grafana, ELK stack to monitor Kubernetes clusters and applications.
+Knowledge of networking concepts, including load balancers, ingress controllers, and network policies, to ensure secure and efficient communication within the platform.
+Understanding of container and cloud security best practices, along with hands-on experience in implementing security measures within Kubernetes and AWS.
+
+The Platform Engineer plays a critical role in designing and maintaining the cloud-native infrastructure and Kubernetes platform, ensuring its reliability, security, and performance for hosting containerized applications. They enable efficient development workflows, enhance application scalability, and contribute to the organization's overall success in the cloud-native ecosystem.
+
+Let's talk about what's in it for you!
+
+Passionate people are Capgemini's Ace of Spades - join us to discover a career that will challenge, support and inspire you. Working at Capgemini you'll find the rewards are more than just financial. You will work alongside some very smart and inspiring people on exciting projects and you will also enjoy incredible benefits. We offer flexible work practices and 40 hours of self-development every year with a huge selection of learning opportunities to choose from.
+
+As ""Architects of Positive Futures"", Capgemini actively supports the community in 3 ways:
+
+Diversity and Inclusion - we believe diversity of thought fuels excellence and innovation, which is why we positively encourage applications from suitably qualified candidates regardless of their gender identity, ethnicity, sexual orientation, religion, ability, intersex status or age. To support our commitment to diversity and inclusion, we celebrate special events and days of significance that are important to our employees such as Diwali, Bastille Day, Pride, IDAHOBIT, IWD and International day of people with Disabilities. Our Employee Resource Groups Women@Capgemini and OutFront support the grassroots passion of employees to drive our diversity agenda and effect change.
+
+Digital inclusion - at Capgemini we are using our skills to drive social impact initiatives focusing on helping society address the impact of the digital and automation revolution. We also provide employees with opportunities to give back to the community through charity projects and volunteer days.
+
+Environmental Sustainability - Capgemini joined the CDP's (Carbon Disclosure Project) prestigious ""A list"" for its commitment to the Net-Zero economy. We are focusing on helping our clients transform towards more sustainable business models and committing to reduce our own carbon emissions (GHG) by 20% per employee by 2020.
+
+Recognized by Ethisphere as one of the World's Most Ethical Companies for the last 8 years in a row, ethics and values are at the heart of Capgemini's corporate culture and business. Embedded in our DNA, our seven values - Honesty, Boldness, Trust, Team Spirit, Freedom, Fun and Modesty - have remained the same since company inception in 1967. To see how we bring these values to life, click here to listen to some of our employee’s stories.
+
+Come join us, bring your whole self to work, create new possibilities for you, your customers and your community and help us to be Architects of Positive Futures.","AWS CloudFormation
+Add,Amazon EC2
+Add,Amazon Relational Database Service (RDS)
+Add,Amazon SQS
+Add,Amazon Web Services (AWS)
+Add,Ansible
+Add,Continuous Delivery (CD)
+Add,Continuous Integration and Continuous Delivery (CI/CD)
+Add,Docker Products
+Add,Terraform
+Add,"
+Build Engineer (DevOps),"Ubisoft Philippines · Taguig, National Capital Region, Philippines Reposted 1 week ago · 26 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Company Description
+
+Welcome to Ubisoft Philippines.
+
+We push creativity and break boundaries, building breathtaking worlds from the ground up. We’ve developed award-winning AAA games, the likes of Assassin’s Creed (AC) Valhalla, Far Cry 6, For Honor, AC: Odyssey, AC: Origins and The Crew 2
+
+Ready to take entertainment to the next level?
+
+Embark on an epic journey and Create the Unknown with us.
+
+Job Description
+
+The Build Engineer will work on automated build, deploy and test systems. Additionally, will support the teams by managing software resources and give access to subsystems.
+
+Responsibilities
+
+
+Self - sufficiently drive initiatives to expand / optimize / re-factor the build, deploy and testing systems
+Develop and maintain the logic necessary to automate the build, deploy and testing
+Monitor, configure and administer the build, deploy and test system
+Support build, deploy and test system users
+Optimize and troubleshoot for the users of the build, deploy and test systems
+Support the team by being the point of contact for software installs and / or permission access
+Support the submission process (packaging, documentation)
+Carry out branching and integration tasks with the assistance of technical leads
+Co-responsible for archiving source files throughout the project along with Technical Directors to produce the closing kit
+Document and update the build and release processes
+Any other ad-hoc duties, if necessary
+
+
+Qualifications
+
+
+Experience in the IT and Programming Industry
+Knowledge of build tools (NAnt, MSBuild, SCons, CC.NET)
+Proficient in a scripting language (eg: Perl, Python)
+Proficient in the Windows environment
+Knowledge of C#
+Knowledge of a source control system (eg:Perforce) is advantageous
+Good problem solving skills, resourcefulness and takes initiatives
+Ability to work as a team, with good interpersonal and communications skills
+Working experience in a complete game production (knowledge of the production cycle) is a bonus
+
+
+All your information will be kept confidential according to EEO guidelines.
+
+Additional Information
+
+Ubisoft Philippines is a certified Great Place to Work ™ – our people always come first. We enable our teams to succeed in the world stage, where we are proud to take part in the most ambitious projects in gaming.
+
+As our teammate, you will receive the best training, including overseas trips, mentorships, and access to online courses and resources covered by us. The workplace will be your playground, where you can fuel your creativity with free fresh fruits and snacks in the pantry, freshly brewed coffee, soft-served ice cream, and popcorn!
+
+Work-life balance is important to us, which is why you’ll have a flexible work arrangement during the pandemic, on top of free physical & mental health benefits and more.
+
+Come as you are. We value diversity and representation. We empower you to launch your own initiatives with our Diversity & Inclusion council composed entirely of volunteer employees.
+
+Ubisoft’s 20,000 team members, working across more than 30 countries around the world, are bound by a common mission to enrich players’ lives with original and memorable gaming experiences.
+
+We are an equal opportunity employer that believes diverse backgrounds and perspectives are key to creating worlds where both players and teams can thrive and express themselves.
+
+If you are excited about solving game-changing challenges, cutting-edge technologies, and pushing the boundaries of entertainment, we invite you to join our journey and help us create the unknown.","C#
+Add,Communication
+Add,MSBuild
+Add,NAnt
+Add,Problem Solving
+Add,Scripting
+Add,Software Configuration Management
+Add,System Testing
+Add,Version Control
+Add,"
+Senior Data Engineer,Turing · Philippines 2 weeks ago · 0 applicants,Remote Full-time Mid-Senior level,"About the job
+A rapidly-growing company that is dabbling extensively in retail and institutional brokerage services is looking for a Senior Data Engineer. The engineer should have a thorough understanding of business and possess excellent analytical abilities, allowing them to provide the anticipated benefits to the company. The company’s intuitive trading platform is enabling clients across all walks of life to make major financial decisions by providing them with the highest quality investment opportunities. Candidates who are eager to cinch new heights and build an enviable career would be an ideal fit for this job.
+
+Job Responsibilities:
+
+Combine strong data modeling, integration, and data engineering abilities in Python and SQL
+Utilize the Azure stack and stay informed about the Data team's engineering efforts
+Possess an opinion on information architecture and how it should be developed to meet functional needs and company goals
+Participate actively in the data transformation effort by liaising with the teams responsible for reporting, data science, governance, and business partnerships
+Work with the newest technologies in a cloud-based environment in a multidisciplinary team comprising analysts, data scientists, data engineers, and SMEs to improve the caliber of data-based decision-making throughout the company
+Participate in the creation of the platform and support for data analytics, guaranteeing standardized and simple data exchange and access
+Become familiar with and utilize Databricks, Azure Events Hub, Azure Data Lake, and Synapse
+Assist with the development, construction, and upkeep of data pipelines for various data sources and communicate with system owners
+Be proficient at ingesting and transforming data in real-time to meet our use cases
+Make that all data interfaces are consistent with governance and provide high-quality data tools and capabilities
+Make certain that the transformation backlog is sent to the data products, derived tables, and source systems
+Analyze complicated data and present your findings
+Collaborate closely with other senior and lead engineers to support BAU efforts and develop new products
+Troubleshoot BAU-related problems, create a JIRA, and work on process improvements
+Encourage others to build on your work and share your knowledge with your teammates
+Engage in on-call duties to assist with any significant malfunctions.
+Engage in a rotating on-call schedule for production support
+Assist with sporadic data requests and operational problems
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 10+ years of relevant experience as a data engineer
+10+ years of experience in a data engineering capacity with exceptional hands-on abilities 
+Data Engineering certification as an Azure Data Engineer or Google Certified Professional
+Ability to oversee initiatives on an individual basis
+Extensive knowledge of Python, Pyspark, and SQL
+Working knowledge of and comprehension of Azure Databricks, Azure Events Hub, Azure Data Lake, and Azure Synapse
+Strong experience in data warehousing, big data processing, ETL workflow design, and data pipeline architecture
+Proven background in creating Python frameworks
+Extensive background in analytics solutions and data mapping for business processing.
+Substantial expertise in the concepts of corporate data modeling
+Strong debugging and troubleshooting abilities
+Excellent English communication skills, both spoken and written","Big Data
+Add,Computer Science
+Add,Data Engineering
+Add,Data Modeling
+Add,Data Pipelines
+Add,Data Science
+Add,Data Warehousing
+Add,Extract, Transform, Load (ETL)
+Add,PySpark
+Add,Workflow Design
+Add,"
+Platform Engineer / SRE - Remote (Philippines),Shape Construction · Philippines Reposted 2 weeks ago · 132 applicants,Remote Full-time Mid-Senior level,"About the job
+Ever wondered how it would be to revolutionise one of the least digitised industries in the market, alongside a growing and switched-on team? Read on! 
+
+_______________________________
+We are Shape.Construction! 
+
+We are digitising the largest and most fundamental industry in the world, the industry that literally builds the foundations of the civilisation we all depend on to spare us from a brutal hunter-gatherer life: CONSTRUCTION
+
+It is one of the least digitised industries in the world but also the largest – 1 in 9 people globally work in the construction industry and it constitutes 11% of global GDP.
+
+Improving construction strengthens the very foundation of human civilisation. (Watch our short film about it here: youtu.be/PxcBZupiI7Y).
+
+We got our start as a high-end construction project management consultancy. As a consultancy, we are focused on genuinely upgrading the way construction projects are delivered. We then take the deep understanding of the projects we work on to develop construction management software products that anyone can use to deliver their projects better.
+
+We are building a full suite of products one module at a time – kind of like office 365 but for construction management.
+(Check out www.shape.construction/, our construction management tech and watch this video about what we are doing. youtu.be/tgi4hW3G_NY)
+
+The core of all this is our true secret sauce; people. We only recruit the very best both in capability and personality. We are deeply focused on designing a new type of organisation that is optimised for the flourishing of the people in the team first and foremost. People that join us develop fast as a whole person in ways they never imagined. (Read more about our vision and mission here www.shape.construction/join-us/).
+
+This approach has allowed us to grow from just 2 people in 2017 to over 160 today (including consultancy) and we are still very much at the beginning! Joining us isn’t just some “job”, it is a transformative educational experience. We challenge you to be your best self in all aspects of life.
+
+_______________________________
+4 core values for a good life 
+
+We believe a life of human flourishing is all about meaningful relationships with others and challenging yourself to create a positive impact. So our values reflect the 4 levels of relationships that each of us has:
+
+Grow yourself – Your relationship with yourself
+Care about people – Your relationship with others around you
+Execute to greatness – Your relationship with your team
+Build civilisation – Your relationship with humanity and the world
+
+This goes much deeper but for the sake of brevity, we will keep the summary version!
+
+We enshrined our values in our vision: 
+
+We exist so that everyone in our team can thrive in a high-impact community that:
+
+Connects us with meaningful relationships
+Inspires us to develop ourselves to become better humans
+Empowers us to pursue our own learning adventures
+
+We believe that, by first doing this, we can achieve the highest levels of value for the world.
+
+And enable the achievement of our vision through our dual missions: 
+
+To fully digitise the construction of human civilisation
+To create a new type of organisation that enables human flourishing while delivering a huge positive impact on society
+
+_______________________________
+The Role 
+We are currently looking for Platform Engineer who crafts the tools to accelerate development and delights our engineers and is capable of architecting our scalable and resilient cloud infrastructure.
+
+Team
+Our team is made up of experienced software engineers, product designers and product strategists. Together we will build the digital backbone of a construction organisation.
+
+Your top 3 objectives 
+Be the foundation that supports our app's rapid growth.
+Design and construct a high-rise platform for our suite of products.
+To develop yourself and everyone around you.
+
+Your top 5 responsibilities 
+Own Platform: Support the development environment of our software engineers.
+Build and develop your team: Lead, grow and develop our amazing platform team, ensuring we stay focused are producing work of exceptional quality and having a lot of fun along the way.
+Keep us on the cutting edge: Stay up to date with the latest industry technologies and tools and techniques to ensure we are staying ahead of the rest of the industry.
+Infra as code: Terraform all the things!
+Develop everyone: Maximise the development of your team personally and professionally and educate.
+
+Your Capabilities 
+You are a proven Platform Engineer who setting up observability tools and providing the developers with the necessary means for them to have faster feedback.
+
+Must-Have (The fundamentals)
+Mastery: Deep level of knowledge on the frameworks and tools used.
+Communication: Good communication is much more than saying the right thing. It is about communicating messages clearly and concisely. Ability to choose the best method of communication based on context, audience and urgency.
+Leadership: Can help colleagues achieve goals. Knows how to share his/her knowledge and experience.
+Impact: Over-analysing or over-thinking can be as problematic as not analysing or not thinking. Ability to make decisions and take action.
+
+Nice to Have (If you don’t have it now you will after joining)
+Mastery: Ability to write code with high level of simplicity and low level of complexity.
+Communication: Presents concerns, doubts or ideas publicly (speaking or writing) and with associated research (internal or external meetups, conferences).
+Leadership: Give us and others constructively critical feedback in order to continuously improve.
+Impact: Ability to drive change, generate knowledge and empower the team.
+
+Shape isn’t the place for you if any of the following is true:
+You want an easy, chilled-out role without much challenge
+You like to be the smartest person in the room
+You don’t like continuously receiving honest candid feedback
+You prefer to do your own thing rather than work with a team
+______________________________________________
+Frequently Asked Questions
+
+Can you tell me more about what the role is like? 
+We are in scale up mode so it will be a pretty full on role with more things to do than time available. This is why it will be important to prioritise and also develop capacity in the team by hiring and holding the team to the highest standards. We don’t like to mess about so you will need to be a very high performer who only wants to work with others of your ilk.
+We are growing rapidly so that means you role will grow rapidly too, you will need to keep up and constantly be looking 1-2 years ahead.
+
+Where would I be working? 
+All of our roles are 100% remote and home-based. However, if you would like to work in a co-work space to get out of the house we can arrange that. If you are in one of our locations with offices you can come as often as you like.
+_____________________________________________
+Salary and Benefits
+
+Standard Stuff 
+Paid Annual Leave 25 days + statutory Bank Holidays
+Flexible hours
+Compensation for this role depends on your capability level and will likely fall in the PHP 836,550 to 2,585,700 annual range.
+
+The Life-Changing Stuff 
+4 Day Weeks: That’s right, 4 day weeks
+Grow your whole self: Our leaders are more like coaches and one of our main objectives is to give 5 years’ worth of learning and development for every 1 year with us. You have a coach, mentor, well-being therapist and a development-orientated environment: That’s literally what our vision is all about and the primary reason Shape exists
+Be surrounded by the best: We only hire and retain the very best people. You might be used to being the smartest in the room but that won’t be the case in Shape. You will be surrounded by people you can learn from. We are 100% meritocratic so fast progression is the norm. You will be supported to excel in whichever areas you are most interested in! With Shape, development is unbounded
+Long-term impact: We are focused on solving the biggest issues in construction project delivery in a way that can spread and outlast us
+A generous equity scheme: as a fast-growing consultancy as well as the fact we are building software this has a huge upside, particularly for people that stay with us through our growth
+
+____________________________________
+Applying properly!!! Important!!! 
+
+We get thousands of applications so please write us a letter as part of your application explaining:
+
+Why do you want to join us?
+What do you think you bring to the team?
+
+We aren't a giant faceless corporation; we really care about the people who want to join our team so all letters will be read thoroughly.
+
+After that, we will reach out to you to schedule a casual conversation to help you to know us a bit better and tell us a bit about yourself.
+
+After that, we will schedule a couple of technical and personal assessments to understand what your level of capability is based on our own development matrix. This is to ensure that when you join you are starting at the right level of responsibility based on your capability not just based on experience.","Amazon Web Services (AWS)
+Add,English
+Add,Full-Stack Development
+Add,Google Cloud Platform (GCP)
+Add,Microsoft Azure
+Add,React.js
+Add,Ruby on Rails
+Add,Software as a Service (SaaS)
+Add,Terraform
+Add,"
+System Engineer - Google,"Stagwell · Manila, National Capital Region, Philippines 1 day ago · 33 applicants",Hybrid Full-time Associate,"About the job
+Stagwell Inc are looking for a Collaboration Systems Engineer to join our worldwide team. As a Collaboration Systems Engineer with a focus on Google, you will bring your broad knowledge of end user facing applications and systems to provide a complete, user centered approach to project Implementations.
+
+You will also provide strategic guidance and innovation across our collaboration platforms You will be part of the Collaboration and Communications team, supporting over 80 companies and 14,000 staff worldwide. This team is devoted to providing best in class tools and methodologies that enable more frictionless work on behalf of our clients and partners.
+
+What you'll do
+• Act as a subject matter expert for the Google Workspace and Its suite of collaboration platforms with understanding of integrating with numerous secondary platforms.
+• Primary administrator and subject matter expert for the Google Workspace suite providing guidance and best practices for the proper setup and ongoing maintenance
+• Maintains, optimizes, and troubleshoots mailboxes, distribution lists, mail flow and mail security rules
+• Develop detailed work plans, schedules, project estimates, resource plans and status reports
+• Experience working with Azure AD for Office 365 Identity and Okta for global IDP management.
+• Experience with cloud-based application suites such as Microsoft Office 365, Slack, Box, Teams, etc in complex multi-tenant environments.
+• Experience working on IT and data projects involving end users and IT professionals.
+• Partner with Team Leads to implement appropriate technology solutions using knowledge of technology trends
+• Promote optimization of current state architecture with modern solutions and automations
+• Provide timely and accurate status updates, keep leadership informed of key issues that may impact project completion, scope, and /or budget and interface with all areas affected by the project including end users.
+• Must be able to work independently and as a member of a team, as well as work with confidential material and information
+• Highly motivated, focused, and proactive
+
+Qualifications
+• Bachelor's Degree or equivalent experience
+• Understanding of large enterprise systems and technology stacks
+• Creative thinking mindset. Ability to research and craft ideas.
+• Excellent written and verbal communication skills
+• Excellent interpersonal skills including negotiating, influencing, and active listening","Box Cloud
+Add,Communication
+Add,Google Cloud Platform (GCP)
+Add,Google Workspace
+Add,Interpersonal Skills
+Add,Microsoft Azure
+Add,Negotiation
+Add,Office 365
+Add,Okta Identity Cloud
+Add,"

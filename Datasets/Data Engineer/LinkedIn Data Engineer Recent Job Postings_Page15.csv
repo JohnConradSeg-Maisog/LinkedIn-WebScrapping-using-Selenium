@@ -1,0 +1,1284 @@
+Title,CompanyDetails,JobDetails,JobDescription,JobSkills
+Sr DevOps Engineer (Azure DevOps),"SimCorp · Taguig, National Capital Region, Philippines 6 days ago · 1 applicant",Hybrid Full-time Mid-Senior level,"About the job
+Who we are:
+For over 50 years, we have worked closely with investment and asset managers to become the world’s leading provider of integrated investment management solutions. We are 2,100+ colleagues with a broad range of nationalities, educations, professional experiences, ages, and backgrounds in general.
+
+SimCorp is an equal opportunity employer. We are committed to building a culture where diverse perspectives and expertise are integrated in our everyday work. We believe in the continual growth and development of our employees, so that we can provide best - in - class solutions to our clients.
+While striving to deliver client value, we believe it vital to consider our people in every business decision we make. Acting responsibly is not optional. It is essential.
+
+Why this role important to us:
+
+SimCorp develops, sells and delivers award-winning software solutions to the financial sector that mitigate risk, enable growth and cut costs. One of our core product lines is the SimCorp Coric Client Communications Platform which automates the business processes that generate personalized client reports, pitchbooks, client meeting packs and other client communications. Coric is used by private wealth and asset management firms to increase operational efficiency, enhance client service and enrich client experience. This automated content and reporting solution is made available to our clients as PaaS and runs on Azure IaaS technology.
+
+This is an exciting role working in our Client Services organization, reporting to the Coric Service Delivery Manager, and will provide an opportunity to work with Microsoft Azure cloud technologies in a team that adopts DevOps methodologies at an ambitious and growing company.
+
+What you will be responsible for:
+The successful candidate will work within Client Services, reporting to the Coric Service Delivery Manager and their primary responsibilities will be to:
+Provision, configure and manage Azure Cloud IaaS and PaaS resources via development source code as opposed to manual or UI-driven configuration management. i.e. Everything-as-Code.
+Manage configuration files in a code repository to establish parameters and settings for Coric applications and system environments. I.e. Configuration-as-Code.
+Provide incident handling to investigate and diagnose issues impacting the code pipeline. Implement and deploy code changes to resolve issues and recover from service outages.
+Collaborate closely with various stakeholders to develop, test and release code to;
+Fix issues found in the operation of our solutions
+Support our application upgrade and deployment automation
+Deliver new features and functionality for our services
+Collaborate closely with operations staff to build trust, rapport and an understanding of operational challenges faced day-to-day.
+Be proactive and seek out opportunities to increase and improve the level of automation in our service.
+Assist with project planning and provide input to project management decisions.
+Provide on-call support outside of regular working hours, including evenings, weekends, and holidays.
+
+What we value:
+Coric Reporting Tech Stack / Environment: Microsoft Windows Server, .NET, IIS, SQL Server, PowerShell. Microsoft Azure IaaS.
+
+Essential Experience
+in Infrastructure, Azure Service Development
+and Operations and able to write everything-as-Code
+in Azure Resource Management (ARM) templates.
+Familiar with code hosting, collaboration and experience of services such as GIT, Visual Studio Team Services, Azure DevOps or other source control management systems.
+Understand and appreciate the value of automated testing.
+Very strong PowerShell skills are required.
+Able to work with Azure PowerShell cmdlets to manage Azure resources and also with custom modules and functions used in a continuous delivery pipeline that deploys and maintains Coric applications. Including PowerShell DSC.
+Confident working with DevOps best practices such as Infrastructure-as-Code and Configuration-as-Code to manage different aspects of operating environments.
+Experience with configuration management systems such as Ansible or Terraform.
+Experience of working with Microsoft Azure Public Cloud and have experience with some or all
+of the following Azure services:
+o Log Analytics
+o BLOB Storage
+o AAD & Identity Management/Governance
+o ARM Templates (JSON)
+o Virtual Machines
+o Key Vaults
+o Load balancers
+o VNET, subnets, NICs and route tables
+o Public IP addressing
+o Azure backup an d Azure Site Recovery
+o Azure SQL Serverless
+
+Experience in configuring, troubleshooting and resolving issues related to Citrix SSO components, such as VDAs, Delivery Controllers, StoreFronts, Citrix Receiver, and Citrix Cloud infrastructure.
+Experience with automated certificates and key rotation.
+Confident with implementation and configuration of Azure Sentinel and Azure Defender for
+comprehensive cloud security monitoring and threat detection. establish comprehensive monitoring solutions for Azure hosted application, including configuring and managing monitoring
+tools, developing monitoring dashboards and alerts and integrating with ITSM system.
+
+Desirable
+Network experience including firewall and VPN management would be an advantage.
+Experience working in an Agile/SCRUM environment.
+ITIL (preferably v4) IT Service Management processes.
+Service Desk solutions such as Remedy Force, Sales Force, ServiceNow, JIRA or similar
+Cost and usage monitoring in Azure
+
+Next steps
+Please click the “Apply” button to learn more about the vacancy and what SimCorp has to offer regarding salary, benefits, and perks. Please note only applications sent through our system will be processed. Applications are continuously assessed, so please send your CV in English as soon as possible.
+
+If you are interested in being part of SimCorp but are not sure this role is the right fit, submit your CV anyway. SimCorp is on an exciting growth journey, and our Talent Acquisition Team is ready to help you discover the right role for you. The approximate time to consider your CV is three weeks.
+We are eager to continually improve our talent acquisition process and make everyone’s experience positive and valuable. Therefore, during the process we will ask you to provide your feedback, which is highly appreciated.",".NET Framework
+Add,Ansible
+Add,DevOps
+Add,ITIL
+Add,Internet Information Services (IIS)
+Add,Microsoft Azure
+Add,Powershell
+Add,SQL
+Add,Terraform
+Add,Windows Server
+Add,"
+Sitecore Developer,"Intro Recruitment Asia · Makati, National Capital Region, Philippines 1 week ago · 4 applicants",On-site Full-time Associate,"About the job
+Company: Engineering Industry
+Hybrid Work Set-up
+Location: Makati City/Quezon City/Cebu City
+Shifting Schedule
+
+Requirements:
+A Bachelor's degree in Computer Science or a closely related discipline is mandatory.
+Over five years of experience in the field of information technology, specifically in the creation of expandable digital solutions for consumers (such as websites, web applications, and mobile sites), using ASP.NET (including MVC/Web API/Razor Pages) and C#. Emphasized on achieving optimal performance, ensuring high levels of security, and facilitating scalability.
+Four or more years of practical experience in developing Sitecore solutions, specifically with Sitecore versions 8.x or above, is a prerequisite.
+Demonstrated expertise in migrating customer-oriented websites from Sitecore 7.x to Sitecore 8.x or 9.x, leveraging Sitecore JSS, unicorn, and TDS.
+Demonstrated expertise in configuring Sitecore xDB and implementing Personalization functionalities within the Sitecore platform is highly advantageous.
+Having the Sitecore Professional Developer Certification and possessing prior experience working with Sitecore Content Hub would be advantageous and beneficial for this role.
+Having a solid background in any of the search technologies is highly preferable - Coveo (On Prem, Cloud), SOLR, LuceneSitecore Search.
+Proficiency with Cloud ecosystems, particularly Azure DevOps, and possessing prior experience with Azure is advantageous.
+Possess expertise in crafting and enhancing relational databases and stored procedures to achieve maximum efficiency and ease of maintenance. Proficiency in SQL is advantageous, and familiarity with MongoDB is a bonus.
+Having a strong grasp of data privacy and data protection regulations such as GDPR and CCPA is highly preferred.
+Proficient in delivering compelling presentations and possessing excellent communication skills. Capable of effectively engaging with individuals from diverse functional backgrounds and levels of authority.
+
+Responsibilities
+
+Create websites that align with local objectives while embracing the overarching global platform vision, seamlessly integrating with the entirety of the marketing ecosystem.
+Engage in the process of collecting requirements to strengthen and clarify the necessary specifications, subsequently discovering the most suitable technological approach to fulfill the business objectives.
+Conceive, create, and execute novel templates, components, and adaptable web pages/sites using Sitecore, to facilitate the growth and enhancement of the fundamental Sitecore platform.
+assume the role of the principal strategist and developer responsible for shaping a digital experience platform centered around the utilization of both Sitecore and Salesforce Marketing Cloud solutions.
+Perform thorough evaluations of software products and platforms through conducting meticulous technical due diligence. Generate comprehensive technical assessments by taking into consideration various factors such as cost, security, suitability to vendor requirements, alignment to desired objectives, dependability, and scalability.",".NET Framework
+Add,MongoDB
+Add,Sitecore
+Add,"
+Software Solution Engineer (VB.Net and MS SQL),"Markem-Imaje · Makati, National Capital Region, Philippines 6 days ago · 12 applicants",Hybrid Full-time Associate,"About the job
+Markem-Imaje is a trusted world manufacturer of product identification and traceability solutions, offering a full line of reliable and innovative inkjet, thermal transfer, laser, print and apply label systems.
+
+Markem-Imaje delivers fully integrated solutions that enable product quality and safety, regulatory and retailer compliance, better product recalls and improved manufacturing processes.
+
+Our connected solutions help manufacturers to reduce waste, increase efficiency, achieve compliance, and protect their brand.
+
+
+We offer the most complete range of market-leading marking and coding systems along with software, services, and consumable solutions so you can streamline all your printing needs from one supplier.
+
+
+The role:
+Software Solution Engineer designs and configures solutions based on customer specific requirements and agreed specifications, performs testing of the configured solution, technical documentations, and installations until completion of the customer agreed solution.
+ 
+What you will do:
+Responsible in reviewing final Solution Proposal Document and converts it into a Software Application Design Specification that contains complete software functionalities, project deliverables and acceptance criteria.
+Execution of solution engineering process and its activities. Ensure that software application configuration is according to the agreed project plans, budget and meets customer expectations.
+Utilize the Pre-configured Solution Template as the base for software application configuration and configure it according to the approved Software Application Design Specification.
+Responsible for performing in-house testing of the configured software application; escalating any out-of-scope functionality requested by customer to immediate manager for approval.
+Responsible for configured software application, performs SAT, End User Trainings and supports Go Live.
+Support and resolve software related issues encountered during testing, installation and commissioning (SAT).
+Responsible for Project handover to Global Helpdesk team.
+
+
+What you need to have: 
+Bachelor’s degree in computer science, Information Technology, Computer Engineering, or equivalent
+At least 3 years of exposure in software development lifecycle and project delivery methodology possessing the technical competencies as follows:
+- Configuration of PC-based software solutions, able to test, install and validate performance against project deliverables
+- Various .NET programming languages, expertise on VB.NET.
+- Proven experience on Relational Databases (MS SQL), use of SQL Reporting service
+Prior documentation skill is a MUST.
+Excellent interpersonal, verbal, written communication skills and able to interact with diverse, cross-cultural stakeholders.
+Basic understanding of IT / networking and aptitude for quickly learning new software tools and hardware
+Ability to work in a multi-tasked environment.
+Knowledgeable in manufacturing and supply chain automation is a plus.
+
+
+The position involves approximately 10% - 25% of travel, on average, and includes domestic and international travel. This involves traveling to customer sites, possibly involving air travel.
+
+ You’ll only be the right candidate if you are aligned to our values and culture: 
+Collaborative entrepreneurial spirit
+Winning through customers
+High ethical standards, openness and trust
+Expectations for results
+Respect and value people
+
+
+If you believe you match our values and have the experience we’re looking for, then apply! We can’t wait to hear from you.",".NET Framework
+Add,Computer Science
+Add,Databases
+Add,English
+Add,Microsoft SQL Server
+Add,Relational Databases
+Add,SQL
+Add,Software Development Life Cycle (SDLC)
+Add,Software Documentation
+Add,Visual Basic .NET (VB.NET)
+Add,"
+Azure Integration Developer - Senior Consultant - Cloud & Engineering - PH Delivery Center,"Deloitte · Manila, National Capital Region, Philippines Reposted 2 weeks ago · 12 applicants",On-site Full-time Mid-Senior level,"About the job
+Date: 19 Dec 2023
+
+Service Line / Portfolios: Enterprise Technology & Performance
+
+Location:
+
+Manila, PH
+
+ Title: Cloud Engineering Senior Consultant based in Deloitte Consulting Philippines Delivery Center 
+
+ Are you ready to unleash your potential? 
+
+At Deloitte, our purpose is to make an impact that matters for our clients, our people, and the communities we serve.
+
+We believe we have a responsibility to be a force for good, and World Impact is our portfolio of initiatives focused on making a tangible impact on society’s biggest challenges and creating a better future. We strive to advise clients on how to deliver purpose-led growth and embed more equitable, inclusive as well and sustainable business practices.
+
+Hence, we seek talented individuals driven to excel and innovate, working together to achieve our shared goals.
+
+We are committed to creating positive work experiences that foster a culture of respect and inclusion, where diverse perspectives are celebrated, and everyone is recognized for their contributions.
+
+ Ready to unleash your potential with us? Join the winning team now! 
+
+ Work you'll do 
+
+As a crucial team member, you will be working on the challenges of moving clients’ applications and data centers to the Cloud, automating as much as possible, and simultaneously fulfilling our clients' expectations that applications are always available, flawlessly, and seamlessly working. You’re qualified and experienced in all things the Cloud offers and want to stay at the forefront of distributed computing. You will share your expertise with about 100+ other colleagues in the Cloud Engineering team that is part of Deloitte Consulting. Our team focuses on building our multi-capability engineering team.
+
+We Are Cloud Engineers Who Meet The Needs Of Our Clients Today And Design Their Needs For The Future. We Support Our Clients In Their (cloud) Strategy, And The Solution To Their Dreams And Build The Future Together With Them. This Requires People With Engineering Ingenuity In Very Different Ways. To Support Our Team, We Created Three Pillars
+
+ Strategy & Architecture 
+ Assets & Industry Solutions 
+ Engineering & Integration 
+
+Within the Cloud Engineering team, we believe collaboration and diversity are fundamental to success. We work together with our clients, not for them. We place great emphasis on learning, are very involved in your development, and support you in achieving your goals.
+
+ Your role as a leader 
+
+At Deloitte, We Believe In Empowering Our People To Be Leaders At All Levels. We Expect Our People To Embrace And Live Our Purpose And Shared Values, Challenging Themselves Every Day To Identify Issues That Are Most Important To Our Clients, Our People, And The Communities, And To Make An Impact That Matters. In Addition To Living Our Purpose, Senior Consultants Across Our Firm Are Expected To
+
+ Understand the expectations set and demonstrate personal accountability for keeping your own performance on track. 
+ Understand how our daily work contributes to the priorities of the team and the business. 
+ Demonstrate a strong commitment to personal learning and development. 
+ Actively focus on developing effective communication and relationship-building skills, with stakeholders, clients, and team. 
+ Work effectively in diverse teams within a highly inclusive team culture where everyone is supported, respected, and recognized for their contribution. 
+
+About
+
+ Enough about us, let’s talk about you 
+
+If you are someone with:
+
+ At least 7 years of software development experience, ideally gained in a consulting/agency environment with tier-one clients. 
+ Expertise in Azure Cloud and Azure Integration Services 
+ Experience with integration development and DevOps 
+ Skilled with .Net and API Development 
+ Demonstrated strong problem-solving and critical thinking 
+ Ability to manage and prioritize multiple tasks 
+ Exceptional communication and collaboration skills 
+ Experience presenting or talking to groups of varied sizes and skill levels 
+ Enthusiasm, commitment, and self-direction 
+ Outstanding interpersonal and communication skills 
+
+ To be successful in this role, you should have the following key experience and capabilities: 
+
+ Experience with Microsoft Azure and Integration Development – App Service, Azure Functions, Service Bus, API Management, Logic Apps, Azure SQL, Storage Account, Event Grid, Application Insights, Event Hubs, Azure Kubernetes Service, Cosmos DB, Application Gateway, Azure networking, Azure Monitor 
+ Prior experience with Azure DevOps, GitHub, or similar code repositories and automated build and release pipelines 
+ Prior experience with ARM Templates, PowerShell, Azure CLI, Bicep, Terraform 
+ Previous consulting or client-facing experience 
+ Microsoft certifications on relevant technologies 
+
+ What is in store for you? 
+
+ Hybrid work set-up arrangements 
+ Rewards platform: reimbursements for professional development, paid professional memberships, receive performance incentives – your hard work won't go unnoticed at Deloitte! 
+ Benefits effective on day 1 including paid time off and holidays, health, and life insurance! 
+ Career breaks for up to 12 months – for study, travel, volunteering, or personal interests 
+ Training and development - at Deloitte we believe in investing in our best assets, the people! You will have access to world class training and funding towards industry and other professional certifications. 
+ Receive support and mentoring to progress your career. You will have access to mentors and coaches who will help you pave a path for career progression 
+
+ Next Steps 
+
+Sound like the sort of role for you? Apply now.
+
+Due to the volume of applications, we regret that only shortlisted candidates will be notified.
+
+Candidates will only be contacted by authorized Deloitte Recruiters via the firm’s business contact number or business email address.
+
+ © 2023 DCPDC Inc. 
+
+Requisition ID: 101156
+
+In Philippines, the services are provided by Navarro Amper & Co and other related entities in Philippines (""Deloitte in Philippines""), which are affiliates of Deloitte Southeast Asia Ltd. Deloitte Southeast Asia Ltd is a member firm of Deloitte Touche Tohmatsu Limited. Deloitte in Philippines, which is within the Deloitte Network, is the entity that is providing this Website.","API Development
+Add,AWS Command Line Interface (CLI)
+Add,Angular CLI
+Add,Azure CLI
+Add,CLI
+Add,Enterprise Service Bus (ESB) Architecture
+Add,Integration Development
+Add,Microsoft Azure
+Add,Repositories
+Add,Software Development
+Add,"
+Platform Operations Engineer,"PCCW GLOBAL Limited · National Capital Region, Philippines 1 week ago · 8 applicants",Hybrid Full-time Mid-Senior level,"About the job
+PCCW Global is a leading telecommunications provider, offering the latest voice and data solutions to multi-national enterprises and communication service providers. Our truly global coverage combined with local, on the ground knowledge has helped us build best in class connections across the globe linking Asia-Pacific, Europe, the Americas, the Middle East and Africa.
+
+Console Support Engineer will play a leading role in providing the necessary customer support functions to PCCW Global’s SDN platform Console Connect and the associated products and services.
+
+The Console Support Engineer will work in close co-operation with internal second and third level technical support functions, data centre partners, data centre providers, Console Product Managers and development teams.
+
+Key responsibilities
+Include network alert monitoring.
+Managing and handling enquiries.
+Troubleshooting issues relating to Console Connect UI usage, Console product and service.
+Project co-ordination role and the duties includes ordering, managing and delivery of cross connect and/or local loop, monitoring its progress and coordinating meetings for larger projects.
+The desired candidate will have worked in a Service Provider NOC environment with experience in MPLS L2/L3 troubleshooting; have worked with cloud services, multi-cloud support such as Azure, Google, IBM etc..
+
+Responsibilities:
+Support users on the Console Connect platform and assisting them the use of the various features and functionality of the Console Connect SDN platform. From how to sign up, to ordering ports, virtual connect, cloud service (Azure, AWS, Google, Tencent, AliCloud ) benefits, how to use, pricing
+Evaluate issues proactively identified or reported. First level deep dive of the issue, action prioritisation and establishment of the corrective action/s required or temporary workaround.
+Trouble Shooting Layer 2, Layer 3 network faults, cloud service connectivity issues, x-connect with Data Centre Partners and Local Loop issues with our PTT providers. Root cause request and analysis.
+Handle and manage the inbound customer communication (Email, Chat, Slack notification), inbound call
+Ticket creation and tracking. Progress update, case documentation, escalation, co-ordination of resources to resolve. Compile detailed incident report upon customer request
+Escalate high priority incidents and major events not resolved within defined timeframe to team leaders and senior level management teams.
+Service and alert monitoring, taking the necessary corrective action to inform our customers and troubleshoot
+Ensure high customer satisfaction by ensuring issues are resolved in a timely manner and ensure business impact are kept to an absolute minimum
+Taking lead role in executing, monitoring and planning to ensure effective delivery and provision of services purchased (x-connect, local loops..etc). New customer on boarding.
+Is prepared to work shifts
+
+Required Qualifications:
+Must possess excellent communication skills and ability to interact positively with our customer at all levels. Able to verbalise and explain complex faults, queries and technical issues in simple terms
+2 years of Service Provider technical NOC experience, with a strong network troubleshooting background.
+Proven team player, is well organized, self-motivated, shares ideas
+
+Skills & Experience:
+Good understanding L2, L3, MPLS, Cloud, multi cloud, Internet/IP
+Knowledge of NOC ticketing system eg. Remedy or similar, Jira services handling and Service provisioning process
+Experience in troubleshooting WAN related problems.
+Customer service focus. Have the ability to diffuse difficult situations and able to be flexible and creative to deal with customers positively.
+Good attention to detail. Is meticulous and follow through in tasks.
+Self-motivated, focused and takes active interest and takes ownership
+
+Desired Qualifications:
+Has worked in a Service provider Network NOC, good knowledge of customer service practice, troubleshooting
+Have done first line support layer 2, layer 3 services, worked with x-connect, local loop troubleshooting, understanding of BGP, multi cloud etc
+Previous knowledge or experience in coding and programming in a development environment
+Good command of English language
+Cisco CCNA is a plus","Border Gateway Protocol (BGP)
+Add,Cisco Systems Products
+Add,Communication
+Add,English
+Add,Jira
+Add,Multiprotocol Label Switching (MPLS)
+Add,Network Operations Center (NOC)
+Add,Network Troubleshooting
+Add,Provisioning
+Add,Troubleshooting
+Add,"
+"Senior Mobile Developer, gt.school (Remote) - $100,000/year USD","Crossover  · National Capital Region, Philippines Reposted 6 days ago · 9 applicants",Remote Full-time Mid-Senior level,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, gt.school. Have you got what it takes?
+
+Are you passionate about creating high-quality applications that truly matter? We’re looking for someone who values clean, modular code, aligns with our emphasis on high-quality work, and is eager to take ownership of a product that is pivotal to our vision. If shaping the next generation of grade school education sounds exciting, this opportunity might be perfect for you.
+
+At gt. school, our focus isn’t just on creating another app; we're pioneering an innovative approach to learning by integrating modern techniques like advanced AI, adaptive computer-based training, gamification, and continuous feedback. At the heart of it all, our app draws inspiration from popular platforms like TikTok, allowing learners to have an immersive feed experience, making education interactive, engaging, and truly enjoyable.
+
+This role demands ownership and independence; we believe that restricting oneself to front-end or back-end is counterproductive. Here, we advocate for full-spectrum development. If a tweak in the API or a backend validation is needed, we trust you'll handle it. Your decisions will significantly shape the product and ensure a seamless and intuitive experience for our users.
+
+Your responsibilities will include transforming UI designs into functional app features, investigating and fixing bugs, and collaborating with our product and backend teams to ensure consistent functionality. While the fast-paced environment is challenging, the reward in terms of both personal growth and the tangible impact on students is immense.
+
+If this resonates with you, and you're up for the challenge of making a significant difference in the EdTech space, we would love to hear from you!
+
+What You Will Be Doing
+
+Taking high-fidelity UI designs and transforming them into interactive and efficient mobile app features
+Integrating screens with our modern GraphQL APIs, ensuring data consistency and responsiveness
+Participating in both automated and manual reviews to maintain our standards for clean, modular code
+Collaborating with product managers and UX designers to ensure the functionality, reliability, and user-friendliness of the app
+
+What You Won’t Be Doing
+
+Building components from scratch - you'll leverage existing high-quality solutions for efficiency
+Getting stuck in endless approval loops - we value swift decision-making and autonomy
+Isolated tasks - you will collaborate closely with a supportive product and backend team
+
+Senior Mobile Developer Key Responsibilities
+
+Delivering a high-quality application that serves as the primary interface for students in our cutting-edge computer-based learning environment
+
+Basic Requirements
+
+At least 5 years of experience developing mobile applications
+At least 2 years in a leadership role, making technical design decisions for mobile applications
+Experience using React Native for cross-platform app development
+
+About Gt.school
+
+GT School is an EdTech Startup that leverages technology, AI, and subject matter experts to cultivate a new way of learning. Our unique approach leverages 50+ years of learning science, cutting-edge data analytics and high-performance coaching. In doing so, we can help students learn more, learn faster, and learn better - and have fun while doing it. We are a remote-first company that hires globally via Crossover.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4581-PH-NCRNatio-SeniorMobileDe.024","Android Development
+Add,Application Programming Interfaces (API)
+Add,Back-End Web Development
+Add,Mobile Application Development
+Add,Mobile Applications
+Add,React Native
+Add,Swift (Programming Language)
+Add,Technical Design
+Add,User Interface Design
+Add,iOS Development
+Add,"
+Application Developer - MuleSoft,"Risewave Consulting Inc. · Quezon City, National Capital Region, Philippines Reposted 2 days ago · 19 applicants",Hybrid Contract Associate,"About the job
+Job Description:
+ We are seeking a highly skilled and experienced Application Developer with expertise in MuleSoft, specifically MuleSoft 4, Any Point Studio, and runtime 4.4.0. The ideal candidate will have a strong background in MuleSoft integration and will play a critical role in designing, developing, and maintaining MuleSoft applications. Additionally, the candidate should be proficient in MuleSoft on RTF (Real-Time Framework), the OpenShift platform, and Cloud hub environment. Exposure to Tibco is considered an advantage. This position requires a minimum of 3 to 4 years of MuleSoft experience, including production support activities and a commitment to meeting service level agreement (SLA) commitments.
+
+Qualifications:
+Bachelor's degree in Computer Science, Information Technology, or a related field (or equivalent work experience).
+Minimum of 3 to 4 years of hands-on experience with MuleSoft, including MuleSoft 4 and AnyPoint Studio.
+Strong knowledge of MuleSoft on RTF and the OpenShift platform.
+Proficiency in Cloudhub environment for MuleSoft applications.
+Exposure to Tibco is considered an advantage.
+Strong problem-solving, analytical, and troubleshooting skills.
+Excellent communication and collaboration skills.
+Detail-oriented with a commitment to delivering high-quality solutions.
+Knowledge of Service Now, Git, Gitlab, and CICD Pipeline.
+Previous experience in system administration tasks and production support activities.","Computer Science
+Add,Continuous Integration and Continuous Delivery (CI/CD)
+Add,Git
+Add,Gitlab
+Add,MuleSoft Anypoint Platform
+Add,MuleSoft CloudHub
+Add,OpenShift
+Add,Problem Solving
+Add,Service-Level Agreements (SLA)
+Add,Troubleshooting
+Add,"
+Senior BI Developer - Power BI (Nightshift),"Pontoon Solutions · Manila, National Capital Region, Philippines Reposted 1 week ago · 32 applicants",Hybrid Full-time,"About the job
+About The Role
+
+The Senior Business Intelligence Developer works as a part of the Business Intelligence Team. This role is responsible for ensuring consistent, accurate, and efficient design and development of reports and dashboards as well as modifications to existing analytics within Pontoon’s Business Intelligence Platform. The Senior Business Intelligence Developer works with Business Intelligence Analysts and/or the Program Team to manage reporting standards and document any client-specific changes to said standards, as well as represents Pontoon BI and other Business Intelligence Developers as a subject matter expert and role model on Pontoon report creation, design, and standards. The developer is responsible for designing and implementing creative solutions to extract data from different source systems and endpoints and pulling into Pontoon’s environment in an automated fashion. This role ensures that requestor requirements are met and assists in guiding change management and adoption of Pontoon Standard Reports and Analytics within the programs. Direct interface
+
+with internal program teams and client stakeholders required as needed. This role works with the internal Data Warehouse, Data Science, and Data Governance teams to translate product and warehouse requirements needed for development and ensure documentation of integration reports are accurate and compliant with Pontoon’s standards.
+
+What You’ll Be Doing
+
+ Partners with BI Leaders, Project Managers, and SMEs to evaluate the feasibility of and provide timetables for executing requirements.
+ Translates business requirements into meaningful, clean, and scalable visualizations built according to established Pontoon Business Intelligence & Analytics best practices.
+ Partners with Data Services to ensure optimal data organization to enable efficient reporting capabilities.
+ Works with Data Science to productize their code and algorithms into the Pontoon BI environment
+ Designs creative solutions to automate extraction and migration of data from different source systems into the Pontoon BI environment
+ Provides production support for published Business Intelligence solutions.
+ Evaluates requirements and connect to the proper data sources at the appropriate aggregation level.
+ Researches and learns new technological capabilities to drive our offerings forward.
+ Utilizes SQL, Python, R, or Java scripting to improve product quality and effectiveness.
+ Provides hands on Business Intelligence reporting and support for all Business Intelligence & Analytics team members as needed.
+ Works as a SME and mentor to Business Intelligence Developers on Pontoon’s BI and Analytics team.
+ Pushes Pontoon Standards with regards to report creation, design, security, and aesthetics.
+ Documents requirements for the Pontoon Data Warehouse and Data Governance teams.
+ Identifies and creates efficiencies within and across products.
+ Participates in special projects and performs other duties as assigned.
+
+About You
+
+EDUCATION & JOB REQUIREMENTS:
+
+Bachelor’s Degree preferably in Business, Technology, or a related field with a minimum of five (5) years of experience in a business intelligence analytics role and five (5) years of experience developing reports and dashboards in business intelligence tools.
+
+Demonstrated experience with Power BI development.
+
+Prior experience working as part of a team with a common goal and shared responsibilities.
+
+Experience managing multiple development projects at one time is required.
+
+Working experience with SQL, Python, R, or Java scripting.
+
+Experience with extracting and modeling data from an API/JSON.
+
+Direct experience working with and manipulating raw data, familiarization with data aggregation levels.
+
+Experience with technologies utilized in the human resources or talent acquisition/management fields and their resultant data is highly desired.
+
+Experience in the staffing and contingent workforce industries is highly desirable.
+
+Experience working with Power BI and/or other Business Intelligence visualization tools.
+
+Knowledge, Skills & Abilities
+
+ Skilled in communicating effectively verbally and in writing.
+ Ability to establish and maintain effective working relationships.
+ Ability to understand end-user needs and assist in the development of business analytics products.
+ Ability to demonstrate strong analytical skills and pick up new technologies quickly.
+ Ability to work effectively both independently and in a group or team environment.
+ Ability to prioritize, organize and perform multiple work assignments simultaneously while meeting
+
+assigned deadlines.
+
+ Ability to identify how best to visualize a given data set and to create those visualizations.
+ Ability to transform business-level requirements to actionable dashboards and visualizations.
+ Proficient with Microsoft Office products, such as Word, Excel,PowerPoint, and Outlook
+
+Why choose us?
+
+It’s an exciting time to be part of our team. We’re proud to be a global thought-leader and care about doing the best job we can to ensure better futures for everyone. We do this by building our Future@Work strategy as a united team of 30,000+ colleagues with a collective spirit working in over 60 countries globally.
+
+You’ll have the opportunity to grow across a variety of interesting jobs and careers over our extensive portfolio of global brands. We empower our colleagues to work in the smartest, most efficient ways to achieve total balance between the demands of their jobs and their lives. That’s why we give you the autonomy and support you need to work in the way that makes you most productive, agile, confident, and insightful.
+
+Putting people first, pioneering with a collective spirit and always advancing with a growth mindset -that’s what we stand for at the Adecco Group. Here, we are all individuals with a unique perspective on the world we live in. That’s what makes us stronger. Whoever you are and whatever your background, you can be yourself. So, we aim to build on the attributes that make you, you. We offer a range of world-class resources for upskilling and development, satisfying your curiosity while the sharing skills, knowledge, and expertise to grow together.
+
+Make an impact where it matters most.
+
+A journey to bring out the best in you
+
+We believe that having an understanding of the hiring process helps you to prepare, feel, and be, at your best. As a global, multi brand organization with multiple different roles, our application process can vary.
+
+On our career site, you will find some of the key steps you can expect to guide you along the way.
+
+As one of the world’s largest employers we believe in talent, not labels, and focus on the diverse and unique skills our people bring. We seek to foster a culture of belonging and purpose, an environment where everyone can thrive and feel engaged, and where difference is respected and valued. Our commitment to equity, equal opportunity, inclusion, and diversity is part of our broader commitment to respecting fundamental human rights across our value chain. The Adecco Group is proud to be an Equal Opportunity Employer.
+
+JobIndustry: Pontoon
+
+Job Code :APAC00202","Analytics
+Add,Business Intelligence (BI)
+Add,Business Requirements
+Add,Business Transformation
+Add,Dashboards
+Add,Data Analytics
+Add,Data Governance
+Add,Data Warehousing
+Add,Real Estate Development Projects
+Add,Visualization
+Add,"
+Game Designer,Staffing Ninja · Philippines 1 week ago · 19 applicants,Remote Full-time Mid-Senior level,"About the job
+Roles & Responsibilities:
+
+Develop engaging in-game content, including characters, stories, settings, features, mechanics, systems, loops, economy, and world-building across various projects.
+Stay updated on gaming market trends, utilizing insights as a foundation for new ideas and improvements.
+Act as the primary advocate for continuous refinement of the overall player experience and game direction.
+Create and maintain comprehensive game design documents, effectively communicating concepts and requirements to team members in different disciplines.
+Collaborate with the team to develop paper and digital game system prototypes.
+Identify stakeholders and assess their influence on features.
+Design UI wireframes, flowcharts, and data models mapping out core gameplay aspects.
+Collaborate closely with Game Programmers and Artists, aligning and iterating on the overall project vision.
+Optimize and ensure the balance of game features through team feedback, QA, and playtesting at every stage of production.
+
+Skills & Requirements:
+
+Minimum 3-5 years of experience in Game Design & Development.
+Experience with PC & Console games is advantageous.
+Advanced knowledge of designing in Unity3D or Unreal Engine is a must.
+Familiarity with common algorithms, design patterns, and structures.
+Experience working on and shipping features for high-profile games with a significant number of daily active users, ideally on a mobile platform.
+Experience working with external developers and A/B split testing.
+Experience working as a horizontal leader of cross-functional teams, including design, engineering, production, etc.
+
+Good to have:
+
+Proficiency in English is required.
+Proficiency in Chinese or Japanese would be advantageous.
+Knowledge or experience with Web 2 / Web 3 is a plus.
+
+Benefits:
+
+It is a Full-Time Remote Opportunity.","A/B Testing
+Add,Console Games
+Add,Design Patterns
+Add,Game Design
+Add,Game Design Documents
+Add,Game Development
+Add,PC Games
+Add,Playtesting
+Add,Unity
+Add,Unreal Engine
+Add,"
+Business Intelligence (BI) Report / Dashboard Developer,"Computer Professionals Inc. · Makati, National Capital Region, Philippines 2 weeks ago · 39 applicants",Hybrid Contract Associate,"About the job
+For over 34 years, Computer Professionals, Inc. (CPI) has evolved into an innovative technology company that delivers high-quality software services and solutions. CPI, as an IT company that has been working with top global companies, continues to provide exceptional IT services and solutions through a culture of quality and continuous improvement to our customers. We invest in recruiting talented individuals and bring the best opportunities for their careers where they can build and share meaningful experiences together with its employees.
+
+REQUIREMENTS:
+2-4 years experience as Report Developer
+Experience in Reporting tools such as PowerBI(*), SiSense(*), GDP, Tableau, Quicksight
+Okay with project-based type of employment
+Okay to work onsite once or twice a week in Makati
+
+Nice to have: 
+Experience in log analysis, defect analysis, static and dynamic code reviews
+Cloud familiarity
+Able to translate business requirements into technical requirements
+
+JOB SUMMARY:
+Collaborate with different business units to understand their reporting and analytical needs, provide expert recommendation on dashboard building and deliver actionable insights to relevant decision-makers. Create and maintain rich interactive visualizations through data interpretation and analysis, by combining multiple data sources and using reporting tools such as PowerBI, Sisense and other similar technologies.","Amazon QuickSight
+Add,Analytical Skills
+Add,Business Intelligence (BI)
+Add,Business Requirements
+Add,Cloud Computing
+Add,Dashboards
+Add,Data Analytics
+Add,Data Interpretation
+Add,Defining Requirements
+Add,Microsoft Power BI
+Add,Reporting
+Add,"
+"Security Engineer, Projects","Thrive · Clark Freeport and Special Economic Zone, Central Luzon, Philippines Reposted 1 week ago · 76 applicants",On-site Full-time Entry level,"About the job
+Location: Philippines Office
+
+About Us:
+
+Thrive is a rapidly growing technology solutions provider focusing upon Cloud, Cyber Security, Networking, Disaster Recovery and Managed Services. Our corporate culture, engineering talent, customer-centric approach, and focus upon “next generation” services help us stand out amongst our peers. Thrive is on the look-out for individuals who don’t view their weekdays spent at “a job”, but rather look to develop valuable skills that ignite their passion and lead to a CAREER. If you’re attracted to a “work hard, play hard” environment, seeking the guidance, training, and experience necessary to build a lucrative career, then welcome to THRIVE!!
+
+Position Overview:
+
+With a growing client base, Thrive Networks is continuing to build out our security team. We are looking to hire a Security Engineer to take a lead role in the deployment of our Endpoint Detection and Response service offerings, 24/7 Security monitoring, and vulnerability management. The ideal candidate will have a passion for information security with a solid understanding of networking concepts and how security software works.
+
+Primary Responsibilities:
+
+Deploy SIEM, EDR, Vulnerability Management software as part of rolling out Security Services. 
+Assist with alarm tuning and configuration tasks necessary for Security Service deployments for new and existing customers. 
+Assist other teams with troubleshooting security software.
+Ensure all security software is deployed following industry best practices. 
+Implementation of API security measures, ensuring secure data transmission and compliance with industry-standard API security protocols.
+Work closing with project managers to better enhance the onboarding experience with for our clients.
+Join any Internal Kickoff or External Kickoff calls as needed.
+Creation and ongoing upkeep of materials documenting our security processes, procedures, and technologies.
+Collaborate with clients to understand their reporting needs and requirements and customize reports and dashboards accordingly.
+Assist with analyzing vulnerability scans and determining remediation steps.
+
+Qualifications:
+
+Solid understanding of network protocols, operating systems, application layer protocols, and security best practices. 
+Understanding cybersecurity threats and incident response standards and procedures.
+Ability to communicate security information to non-technical people.
+Has a passion for Cyber Security.
+Demonstrates comprehension of good security practices
+Has worked with ServiceNow.
+
+Required Skills:
+
+Ability to analyze a large amount of data from various sources and use this information to solve complex problems and make good decisions. Must be able to work effectively in a team environment and collaborate within the team and other stakeholders.
+Excellent Written and Verbal Communication Skills
+Solid understanding of networking & security software
+Is familiar with or has worked with vulnerability discovery and analysis.
+Operating System Internals
+Familiarity with TCP/IP network protocols, application layer protocols (e.g., HTTP, SMTP, DNS, etc.).
+
+Preferred Skills:
+
+Knowledge of common Windows and Linux/Unix system calls and APIs
+Understand Anti-Virus
+Knowledge of programming languages.
+Knowledge of internal file structures for file formats commonly associated with malware (e.g., OLE, RTF, PDF, EXE, etc.)
+
+This is a full-time position in our Clark office in the Philippines. All applicants should be living in, or be willing to relocate to, that area and are expected to work out of the office on a daily basis.","Application Security
+Add,Communication
+Add,Communication Protocols
+Add,Cybersecurity
+Add,Dashboards
+Add,Incident Response
+Add,Information Security
+Add,Vulnerability
+Add,Vulnerability Assessment
+Add,Vulnerability Management
+Add,"
+SYSTEMS AND DATABASE SENIOR ENGINEER,"Zuellig Pharma · National Capital Region, Philippines 6 days ago · 13 applicants",Hybrid Full-time Associate,"About the job
+The Supervisor, Systems Administration is responsible for ensuring the continuous running of Zuellig Pharma System, Non-Sap Applications management and monitoring of Linux and windows Servers. Oracle, Microsoft SQL, MySQL, Postgres, any kind of Database environments - design, implementation and maintenance of complex database systems including data modeling, access, security, performance optimization, backup recovery, and documentation. The role is also in-charge of the management of Non-SAP Systems, IT Infrastructure. 
+
+DUTIES AND RESPONSIBILITIES:
+Ensures full documentation of Existing Non-SAP Systems in place
+Trains other systems administrators in the group
+Completions of systems administration tasks for ISG projects
+Ensures high availability, reliability and acceptable performance of all production applications;
+Ensures high availability and acceptable levels of performance of
+Coordinates between Development groups and other ISG Operations groups
+Performs coordination with Change Management, Project Management, Incident Management etc.
+Supports related development and process improvements in ISG Operations
+Escalation point.
+Participates and develop monitoring policies, procedures, standards and tools relating to database/servers management including backups and disaster recovery
+Participates in managing a diverse workload
+Accountable for managed systems.
+Minimal Supervision.
+Perform other duties as assigned.
+
+WORK EXPERIENCE
+8 years of relevant technical experience.
+Extensive Experience authoring database queries and stored procedures
+Extensive Experience in a remote support environment is a plus
+Extensive Experience with Linux and Windows Server environments
+Extensive experience with database technologies (MySQL, MS SQL, PostgreSQL Oracle, MongoDB, etc
+Experience with cloud services (AWS, Microsoft Azure) a plus
+
+EDUCATIONAL LEVEL:
+Bachelor's degree in MIS / Business / IT or a similar subject with strong exposure to information technology.
+Certified Database Administrator is a plus.
+
+KNOWLEDGE SKILLS AND ABILITIES:
+Install and maintain the performance of database servers.
+Develop processes for optimizing database security.
+Set and maintain database standards.
+Manage database access.
+Authoring database queries and stored procedures
+Performance tuning of database systems.
+Install, upgrade, and manage database applications.
+Backup and Restore procedure plan and execution.
+Diagnose and troubleshoot database errors.
+Recommend and implement emerging database technologies.
+Create and manage database reports, visualizations, and dashboards.
+Create automation for repeating database tasks.
+Be available for on-call support as needed.
+· Working knowledge in Unix/Linux operating systems environment, experience in Windows is a plus
+· Knowledge of network architecture, configuration management is appreciated
+Good analytical skills; able to implement a structured and methodical approach in processes and problem solving.
+Ability to identify the work required and organize, facilitate and / or perform the work with only minimal guidance from senior
+Experience in Microsoft BizTalk is a plus
+Experience in a remote support environment is a plus
+Capable to initiate, coordinate and drive issue resolution.
+Strong communication skills with internal/external customers and various audiences.
+Exceptional organizational and analytical skills;
+Administering Linux servers including performance tuning, monitoring, scripting, version upgrades, and assist on projects. 
+Administering Linux Network File System (NFS) and supporting web servers. 
+Work with application teams providing support on issues and OS upgrades.
+Provide daily support for issues, backup and recovery, data storage, system access and security.
+Ensure proper OS licensing and support is in place and maintain version management for all servers.
+Assist in company’s Disaster Recovery planning and testing and audit processes.
+Act as the platform expert for Linux and advisor for colleagues utilizing and integrating client-server tools and be willing to educate and teach others team members
+Solve complex technical problems, plan and execute projects, prioritize tasks, conduct research, and work independently under constraints of time and resources.
+Excellent written and communication skills and be a Team player.
+Scripting is a must (Powershell, VBscript, Shell script etc)
+Integrate new system as needed.
+Work with Architects and lead developers to come up with optimal database design
+
+TECHNICAL COMPETENCIES:
+Shows proficiency in the following:
+Server Management Windows and Linux
+Database Management, Oracle and Microsoft SQL environments
+Troubleshooting
+Ticket Resolution","Amazon Web Services (AWS)
+Add,Linux
+Add,Microsoft Azure
+Add,Microsoft SQL Server
+Add,MongoDB
+Add,MySQL
+Add,Oracle Database
+Add,PostgreSQL
+Add,SQL
+Add,Windows Server
+Add,"
+Software Application Engineer (VB.Net and MS SQL),"Markem-Imaje · Makati, National Capital Region, Philippines Reposted 1 week ago · 130 applicants",Hybrid Full-time Associate,"About the job
+Markem-Imaje is a trusted world manufacturer of product identification and traceability solutions, offering a full line of reliable and innovative inkjet, thermal transfer, laser, print and apply label systems.
+
+Markem-Imaje delivers fully integrated solutions that enable product quality and safety, regulatory and retailer compliance, better product recalls and improved manufacturing processes.
+
+Our connected solutions help manufacturers to reduce waste, increase efficiency, achieve compliance, and protect their brand.
+
+
+We offer the most complete range of market-leading marking and coding systems along with software, services, and consumable solutions so you can streamline all your printing needs from one supplier.
+
+
+The role:
+Software Application Engineer designs and configures solutions based on customer specific requirements and agreed specifications, performs testing of the configured solution, technical documentations, and installations until completion of the customer agreed solution.
+ 
+What you will do:
+Responsible in reviewing final Solution Proposal Document and converts it into a Software Application Design Specification that contains complete software functionalities, project deliverables and acceptance criteria.
+Execution of solution engineering process and its activities. Ensure that software application configuration is according to the agreed project plans, budget and meets customer expectations.
+Utilize the Pre-configured Solution Template as the base for software application configuration and configure it according to the approved Software Application Design Specification.
+Responsible for performing in-house testing of the configured software application; escalating any out-of-scope functionality requested by customer to immediate manager for approval.
+Responsible for configured software application, performs SAT, End User Trainings and supports Go Live.
+Support and resolve software related issues encountered during testing, installation and commissioning (SAT).
+Responsible for Project handover to Global Helpdesk team.
+
+
+What you need to have: 
+Bachelor’s degree in computer science, Information Technology, Computer Engineering, or equivalent
+At least 3 years of exposure in software development lifecycle and project delivery methodology possessing the technical competencies as follows:
+- Configuration of PC-based software solutions, able to test, install and validate performance against project deliverables
+- Various .NET programming languages, expertise on VB.NET.
+- Proven experience on Relational Databases (MS SQL), use of SQL Reporting service
+Prior documentation skill is a MUST.
+Excellent interpersonal, verbal, written communication skills and able to interact with diverse, cross-cultural stakeholders.
+Basic understanding of IT / networking and aptitude for quickly learning new software tools and hardware
+Ability to work in a multi-tasked environment.
+Knowledgeable in manufacturing and supply chain automation is a plus.
+
+
+The position involves approximately 10% - 25% of travel, on average, and includes domestic and international travel. This involves traveling to customer sites, possibly involving air travel.
+
+ You’ll only be the right candidate if you are aligned to our values and culture: 
+Collaborative entrepreneurial spirit
+Winning through customers
+High ethical standards, openness and trust
+Expectations for results
+Respect and value people
+
+
+If you believe you match our values and have the experience we’re looking for, then apply! We can’t wait to hear from you.",".NET Framework
+Add,Computer Science
+Add,Databases
+Add,English
+Add,Microsoft SQL Server
+Add,Relational Databases
+Add,SQL
+Add,Software Development Life Cycle (SDLC)
+Add,Software Documentation
+Add,Visual Basic .NET (VB.NET)
+Add,"
+Systems Engineer II - Exchange,"Atos · Pasay, National Capital Region, Philippines Reposted 2 weeks ago · 45 applicants",On-site Full-time,"About the job
+Role Exchange Engineer
+
+Job Summary
+
+Microsoft Exchange Analyst provides operational support for Windows Exchange Servers and Office365 tenants that deliver services for the organization’s environment. Support the process of vulnerability management to ensure a secure and stable environment. Participate in operational ticket management including helping end users, completing requests, and changes. The position requires a responsible, self-motivated, well-organized individual with the ability to handle multiple concurrent projects while adapting quickly to rapidly changing priorities.
+
+Responsibilities And Duties
+
+Work closely with vendors to resolve user and production issues.
+Participate in operational support and on-call for a large enterprise messaging environment
+Troubleshoot Exchange on-premise servers and M365 messaging resources
+Generate operational documentation including change management paperwork
+Maintain high morale to go above and beyond the minimum requirements
+Work on multiple operational issues at one time
+Provide support for ancillary messaging products including mobile management, faxing solution, and distribution list tools Perform other related duties as assigned
+Provide support for release deployments in a 24x7 operations environment as required
+Produce technical and operational documentation
+
+
+Qualifications
+
+2+ years of experience managing the day-to-day administration, support, maintenance, and monitoring of Exchange and Office365 Experience with mail routing
+Must be able to communicate technical concepts clearly to a wide audience
+Demonstrate a customer focused attitude.
+1+ Service Now or equivalent ticketing system experience
+Must be able to communicate technical concepts clearly to a wide audience
+Microsoft Active Directory
+Administration experience
+PowerShell scripting experience
+ITIL experience (preferred)
+Ability to work in a 24x7 on-call after hour rotation environment
+Good understanding of change management
+Required Soft Skills Excellent communication and interpersonal skills Strong problem-solving and analytical skills
+Ability to work independently and as part of a team Willingness to learn and adapt to new technologies Attention to detail and commitment to accuracy","Analytical Skills
+Add,Communication
+Add,Interpersonal Skills
+Add,Microsoft Exchange
+Add,Morale
+Add,Problem Solving
+Add,Scripting
+Add,Soft Skills
+Add,System Administration
+Add,Systems Engineering
+Add,"
+Global Infrastructure Operations Engineer,"Arcadis · Makati, National Capital Region, Philippines 1 week ago · 24 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Arcadis is the world's leading company delivering sustainable design, engineering, and consultancy solutions for natural and built assets. We are more than 36,000 people, in over 70 countries, dedicated to improving quality of life. Everyone has an important role to play. With the power of many curious minds, together we can solve the world’s most complex challenges and deliver more impact together.
+
+Role Description:
+Responsible for the day-to-day operations on 24x7 environment of Arcadis infrastructure playing the role of a level 2 support engineer. The Global Infrastructure Operations Engineer is responsible for working on all in a timely manner and can escalate to next level of support when the problem has been identified to be of complex nature that requires elevated/complex skills. They are also responsible to adhere to the SLT on the incidents and changes and ensure that collaborative efforts are placed when incidents cross service lines.
+
+Role Accountabilities:
+
+Individual Accountabilities
+Responsible for upholding response and resolution targets on incidents pertaining to Servers and Storage
+Understand and align service rendered in accordance with service level targets agreed with each of our multiple stakeholders.
+Responsible for managing the team, partners, and vendors accountable to the SLAs/KPI and internal processes. Delivering on these metrics is key to the role.
+Coordinating the required teams to complete the problem management process in relation with Connectivity.
+Accountable in the implementation of change process, making sure each change is compliant to the approved parameters stated/discussed during CAB
+In tight collaboration with internal teams, partners, and vendors, making sure each revisions/change that will be introduced into the live environment have been tested vigorously and will have minimal effect to live service.
+You are expected to use CMDB to track and document versioning of server/storage assets. making sure we can go from one version of the config to another at a moment's notice.
+Adhering to the service level definition and ensuring that our partners also deliver to these levels.
+Delivering on the required SLA/KPI’s specifically for Servers and Storage regarding monitoring (reacting to alerts, reactively and proactively) and ensuring that the systems availability is crucial. Review of capacity regarding links and compute and storage values is also a key requirement.
+
+Qualifications & Experience:
+Minimum 4+ years’ w/in Tech industry, with at least 2-year experience in a similar role.
+Demonstrated experience in managing Windows and Linux based Servers.
+2+ years’ experience managing and deploying physical and virtual servers.
+Knowledge and background on CLI and PowerShell.
+Experience in SCCM/MECM.
+Experience in Azure Update Management Center is a plus. 
+Working knowledge in operational tasks involving Active Directory, domain administration, group policy and data file sharing.
+Experience in use ITSM/ITOM tooling like BMC Helix and/or service now.
+Experience in doing proactive engineering actions by use of an SIEM tooling (Logicmonitor, Solarwinds, Alienvault).
+In depth understanding of monitoring and event management practices that includes alert handling, analysis, and diagnosis to resolution.
+ITIL, standards and process frameworks (Support Operations and Management)
+Problem management, Triaging methodology, Governance, principles, and policies.
+Support framework and governance knowledge.
+Registrations/Skills/Certifications related to the following technologies:
+Cloud Infrastructure (Azure)
+Virtualization tools (VMWare, Hyper-V)
+Data storage (NetApp, HP Master ASE)","Active Directory
+Add,Domain Name System (DNS)
+Add,Group Policy
+Add,Hyper-V
+Add,ITIL
+Add,Linux
+Add,Microsoft Endpoint Configuration Manager
+Add,NetApp
+Add,Powershell
+Add,VMware
+Add,"
+Software Engineer (Config),"Eclaro · Quezon City, National Capital Region, Philippines Reposted 1 day ago · 8 applicants",On-site Full-time Entry level,"About the job
+Analytics Deployment Engineer
+
+Job Tasks/ Responsibilities
+
+Deploy all technical components of batch, real time, and automation analytics projects
+Coordinate Azure resource creation with IT
+Document and maintain technical deployment processes and runbooks
+Maintain record of all deployments, monitor processes post deployment, and coordinate communication of any issues
+Review SSMR (output of all production processes) and alert team of any issues
+Collaborate with implementation engineering team for releases and CI/CD pipeline maintenance
+Collaborate with both US and UK implementation leads and project leads
+
+Required Skills/ Experiences
+
+5+ years of experience with software deployment
+3+ years of application support experience
+1+ years of experience with Azure Functions
+1+ years of experience with Azure Portal and Resources
+1+ years of experience with GitHub
+Ability to clearly communicate across multiple teams, and the ability to communicate and escalate major issues when appropriate
+
+Education
+
+ BS in Computer Science, Information Technology degree, Data Analytics or equivalent","Application Support
+Add,Azure Functions
+Add,Communication
+Add,Computer Engineering
+Add,Computer Science
+Add,GitHub
+Add,Microsoft Azure
+Add,Portals
+Add,Software Deployment
+Add,Software Development
+Add,"
+Senior Software Engineer,"Zoomo · Manila, National Capital Region, Philippines Reposted 5 days ago · 31 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Description
+
+At Zoomo, our vision is to transition every urban mile to Light Electric Vehicles (LEVs). Zoomo offers the world’s leading platform for commercial use e-bikes. We offer customers a modular solution including fleet management software, servicing and financing. We operate across the USA, UK, Europe, Canada and Australia. In 4 years Zoomo has helped transition millions of urban miles to light electric vehicles, built a team of >200 world class engineers, operators, sales staff and vehicle repair technicians; developed and deployed the world's best last mile delivery electric bikes and fleet management software; and successfully sold these fleet solutions into the world's leading logistics businesses.
+
+Zoomo vehicles are used by major players in the food, grocery and parcel delivery segments with partners including UberEats, Doordash, JustEat Takeaway, Deliveroo, Domino’s, Pizza Hut, Amazon, FedEx, Getir, Ocado, GoPuff and many more.
+
+What We’re Looking For
+
+Zoomo is looking for a Senior Software Engineer to be an integral part of our Fleet squad. This team at Zoomo is building the next generation fleet management system for light electric vehicles (LEVs). The fleet management application comprises several components: a primary web app and several companion native apps for iOS and Android devices.
+
+You will be responsible for building tools from the ground up globally. Your work will have a large impact - it is the backbone of our business and will be used to solve problems for both our business and our customers in Europe, the Americas and Australia.
+
+You’ll deliver business value by owning the complete software development lifecycle from inception to delivery and its post-release support. You will be responsible for maintaining coding quality, design and implementation of new and agreed architectures using best standards and modern architectures. You will be a mentor to other engineers and participate in forums within the wider team to share knowledge, experience, best practices and collaboratively raise the standard of engineering.
+
+You will be working primarily on a backend stack, however there is room to flex your frontend muscles as well. Some of the things you will be expected to do day-to-day include:
+
+Collaborating with other engineers and team members to help deliver Zoomo’s technical vision, strategy and roadmap. 
+Independently scoping, designing, implementing and releasing significant new features and functionality that have a high impact on our customers. 
+Contributing to the discovery stage by assisting engineering, product and design teams to validate assumptions. 
+Engaging in software architecture discussions to help evolve Zoomo’s software platform to meet the growing global expansions. 
+Working with managers and engineers to help define high standards for code, deployments and documentation. 
+Coaching other engineers in their technical progression. 
+Participating in technical knowledge sharing sessions to promote best practices and the latest technology trends
+
+Requirements
+
+7+ years of experience building, shipping and maintaining highly scalable web applications
+Fluency in Typescript and at least one other statically typed language
+Experience writing unit and integration tests (preferably using Jest)
+Strong knowledge of architectural designs and best practices
+Experience building and documenting REST APIs
+Experience deploying applications in the cloud (preferably using GCP)
+Experience with deployment pipelines (eg. GitHub Actions, Cloud Build)
+Experience with infrastructure as code (namely Terraform)
+
+What Will Set You Apart
+
+Transport or LEV industry experience
+Experience with or a desire to learn frontend frameworks (especially React)
+Demonstrated experience working in a fast paced startup environment
+
+OUR IDEAL CANDIDATE
+
+You are a team player with excellent communication skills and experience working in a distributed environment
+You thrive on analysing problems, formulating solutions, and making those a reality. 
+You have a passion for quality and know what best-in-class engineering looks like; you build for the long term. 
+You love working in a fast-paced startup environment where experimentation, learning and iteration are highly valued and encouraged. 
+
+Benefits
+
+We offer you the chance to be part of a team at the cutting edge of the world’s electrification journey, including:
+
+Working with a switched on team that strives to make the streets greener and serve the rider
+A competitive salary
+Global and country-specific benefits packages
+Flexible working that is focussed on the delivery of OKRs
+Annual learning and development allowance
+Mental wellbeing support
+
+Zoomers currently represent 45 nationalities and we celebrate diversity and inclusion with equal opportunities for all.","Analytical Skills
+Add,Back-End Web Development
+Add,Communication
+Add,Documentation
+Add,Electrification
+Add,Scalable Web Applications
+Add,Software Architecture
+Add,Software Development
+Add,TypeScript
+Add,Web Applications
+Add,"
+Security Engineer,"Manulife · Makati, National Capital Region, Philippines Reposted 1 day ago · 74 applicants",Full-time Entry level,"About the job
+Are you looking for a supportive, collaborative workplace with great teams and inspiring leaders? You’ve come to the right place. We’re looking for ambitious people who share our values and want to make every day better for people around the world. If this sounds like you, and the career below sounds exciting, we’d like to hear from you.
+
+Working Arrangement
+
+Hybrid
+
+Job Description
+
+The Opportunity 
+
+ 
+
+Are you looking for a supportive, collaborative workplace with great teams and inspiring leaders? You’ve come to the right place. We’re looking for ambitious people who share our values and want to make every day better for people around the world. If this sounds like you, and the career below sounds exciting, we’d like to hear from you.
+
+ 
+
+At Manulife IT Delivery Center, we are looking a rock star Security Engineer, who is excited to keep our cloud applications secure while providing the best customer experience to pursue our ambition in becoming the Digital Customer Leader in the Insurance Industry.
+
+ 
+
+We are looking for someone with: 
+
+7+ years of similar experience
+Bachelor’s degree in computer science or other highly technical, scientific discipline
+Has knowledge on OWASP Top 10, Mobile Top 10 and API Top 10.
+Has strong knowledge and background on using Application Security Verification Standard.
+Strong understanding on vulnerabilities and knows how to give information to the developers on how to remediate the vulnerability.
+Has experience on doing Vulnerability Assessment and Penetration Testing on Web Application, Mobile Application and API (REST and SOAP).
+Has knowledge on Static and Dynamic Application Security Testing.
+Have a commitment to build and grow your technical cybersecurity career to the next level.
+Working knowledge on SAST Tools – e.g. Fortify, Checkmarx and Opensource SCA tools.
+Working Knowledge on DAST Tools – e.g. OWASP ZAP, WebInspect, Netsparker, Acunetix.
+Hands-on experience in security-related technologies and solutions (firewalls, IPS/IDS, WAF, SIEM, DLP, vulnerability scanner, web proxy, endpoint security, etc.)
+Excellent proficiency with encryption firewalls authorization methodologies and Web filtering authentication
+Profound facility with security policy development implementation and enforcement
+Sound grasp of a variety of internet protocols
+High skills in data analysis and network security threat identification
+Strong expertise in detecting intrusions via network scans
+Relevant certifications an asset: CISSP, CISA, CEH, CISM, ISSAP, ISSEP
+
+You Will Stand Out If You Have
+
+Experience leading high performing teams
+Experience with start-ups
+Strong strategic enterprise wide vision and planning skills. 
+Strong understanding of policies, cross-organizational roles, and governance structures/processes. 
+Strong conceptual skills; ability to deal with ambiguity; creativity; lateral thinker. 
+
+What motivates you? 
+
+You obsess about customers, listen, engage and act for their benefit
+You think big, with curiosity to discover ways to use your agile mindset and enable business outcomes
+You thrive in teams, and enjoy getting things done together
+You take ownership and build solutions, focusing on what matters
+You do what is right, work with integrity and speak up
+You share your humanity, helping us build a diverse and inclusive work environment for everyone 
+
+Our commitment to you 
+
+ Our mission; to be a part of making Decisions Easier and Lives Better 
+A leadership team dedicated to your growth and success 
+A bold ambition and set of goals to be a leader in driving transformation in our industry
+Our best. Every day. 
+
+Every career at Manulife/John Hancock provides the opportunity to learn new skills and move your career forward. Ready to make an impact somewhere? What are you waiting for? Apply today.
+
+About John Hancock And Manulife
+
+John Hancock is a unit of Manulife Financial Corporation, a leading international financial services group that helps people make their decisions easier and lives better. We operate primarily as John Hancock in the United States, and Manulife globally, including Canada, Asia and Europe. We provide financial advice, insurance and wealth and asset management solutions for individuals, groups and institutions. Assets under management and administration by Manulife and its subsidiaries were CAD$1.3 trillion (US$1.1 trillion) as of June 30, 2021. Manulife Financial Corporation trades as MFC on the TSX, NYSE, and PSE, and under 945 on the SEHK. Manulife can be found at manulife.com.
+
+One of the largest life insurers in the United States, John Hancock supports more than 10 million Americans with a broad range of financial products, including life insurance, annuities, investments, 401(k) plans, and education savings plans. Additional information about John Hancock may be found at johnhancock.com.
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com.","Application Security
+Add,Computer Science
+Add,Data Privacy
+Add,Ethical Hacking
+Add,Lateral Thinking
+Add,Network Security
+Add,Penetration Testing
+Add,Vulnerability
+Add,Vulnerability Assessment
+Add,Vulnerability Management
+Add,"
+Software Developer,"Cosmotech Philippines, Inc. · Makati, National Capital Region, Philippines 2 weeks ago · 16 applicants",On-site Full-time Mid-Senior level,"About the job
+Role Accountabilities:
+Developing new applications leveraging knowledge of algorithms, data structures and design patterns.
+Refactoring existing codebases to improve usability, performance, and efficiency.
+Implementing new features in existing applications.
+Writing optimized code to handle millions of requests.
+Developing unit tests, documentation for features, evaluating quality and proposing corrective actions
+All project development for web applications as required.
+Create database tables, stored procedures, functions, triggers, etc. Plays a major role in all parts of SDLC
+
+Qualifications, Experience, and Skills:
+Minimum of three (3) years’ working experience .Net development
+Exposure in web development and cloud-based solution
+Proficient in C# .Net/ and/or .NET Core
+Experience in developing APIs
+In-depth knowledge and understanding of: MVC Framework, Object-Oriented Programming, Entity Framework, LINQ
+Experience in working with different databases (e.g. MS SQL, MySQL, MongoDB)
+Experience in creating SQL queries, stored procedures and triggers.
+Working knowledge in JavaScript, HTML, CSS, Ajax, Bootstrap and jQuery
+Working Experience with JS Frameworks (e.g., React, Angular, Vue.js)
+Experience in integration with JSON and APIs
+Knowledge in UI/UX design principle
+Experience in working with progressive web application
+Experience with version control tool (e.g., GIT, Azure DevOps)
+Experience in Agile practices
+Experience in automated unit testing is an advantage
+Knowledge in hardware and software integration is an advantage","ASP.NET MVC
+Add,C#
+Add,C# in .NET
+Add,MongoDB
+Add,"
+Engineer I - Software,Microchip Technology Inc. · Metro Manila Reposted 1 week ago · 289 applicants,On-site Full-time Entry level,"About the job
+Are you looking for a unique opportunity to be a part of something great? Want to join a 20,000-member team that works on the technology that powers the world around us? Looking for an atmosphere of trust, empowerment, respect, diversity, and communication? How about an opportunity to own a piece of a multi-billion dollar (with a B!) global organization? We offer all that and more at Microchip Technology, Inc.
+
+People come to work at Microchip because we help design the technology that runs the world. They stay because our culture supports their growth and stability. They are challenged and driven by an incredible array of products and solutions with unlimited career potential. Microchip’s nationally-recognized Leadership Passage Programs support career growth where we proudly enroll over a thousand people annually. We take pride in our commitment to employee development, values-based decision making, and strong sense of community, driven by our Vision, Mission, and 11 Guiding Values; we affectionately refer to it as the Aggregate System and it’s won us countless awards for diversity and workplace excellence.
+
+Our company is built by dedicated team players who love to challenge the status quo; we did not achieve record revenue and over 30 years of quarterly profitability without a great team dedicated to empowering innovation. People like you.
+
+Visit our careers page to see what exciting opportunities and company perks await!
+
+Job Description
+
+Software development support for the Manufacturing Execution System (FACTORYworks) based at Microchip Philippines’ facility. The candidate will participate in and/or coordinate tasks involved in Software Development Life cycle: analysis, design, development, testing, implementation, post-implementation, integration or upgrade support.
+Develop quality software solutions in support of technical specifications
+Perform unit testing as defined in test scripts
+Participate in code reviews with development team
+Participate in program prototyping (system demo) with end-users
+Perform root cause analysis on program issues and suggest root cause solutions Modify and enhance existing programs as prioritized by the team
+Participate and/or coordinate tasks in system analysis, design, testing, implementation and post-implementation
+Write and maintain application technical documentation
+Implement application configurations and support as needed.
+Requirements/Qualifications
+BS Degree in Computer Science, Information Technology, or any technology related course
+Experience in Computer Programming (preferably .Net and/or VB.6)
+Knowledge in OOP, MVC design methodology, RDBMS, SQL, web development
+Familiar with any source code control
+Open to new graduates or .5 to 1 year industry experience
+Travel Time
+
+0% - 25%","Computer Science
+Add,Model-View-Controller (MVC)
+Add,Modeling and Simulation
+Add,Object-Oriented Programming (OOP)
+Add,Prototyping
+Add,RDBMS
+Add,SQL
+Add,Systems Analysis
+Add,Technical Documentation
+Add,Technical Specs
+Add,"
+Java Developer,"Samsung Electronics · Taguig, National Capital Region, Philippines 2 weeks ago · 110 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Disclaimer: Samsung has a strict policy on trade secrets. In applying to Samsung and progressing through the recruitment process, you must not disclose any trade secrets of your current or previous employer
+
+Job Description:
+Samsung is looking for world class Java developer to join our technology innovation group focused on the rapid development of cloud based end-to-end mobile applications and payment services. This is an exciting area for Samsung: Cloud based service platforms and infrastructure to support mobility.
+Implement, maintain and evolve cloud-based products and services
+Integrate with external customer and 3rd-party systems
+Perform extensive research and analysis to make optimal architecture and design decisions
+Write well designed, testable, efficient code
+Write documentation
+Interface with other groups including Product Management, QA and Operations
+
+
+WORK EXPERIENCE
+BS or MS in Computer Science or equivalent experience
+Experience in server development using Spring Framework and Java EE in AWS
+Strong skills in one or more of: Java 8/Tomcat/Java EE, Spring Boot
+Hands-on understanding of scalability and high availability
+At least 2 years hands-on experience with analyzing and addressing application performance bottlenecks
+Strong knowledge of SQL and NoSQL databases, including MySQL, Couchbase/MongoDB
+Apache, Nginx, HAProxy
+Expertise in Linux (Ubuntu, CentOS)
+Proficient understanding of code versioning tools, such as Git
+Familiarity with build tools such as Ant, Maven, and Gradle","Apache
+Add,Couchbase
+Add,Git
+Add,Gradle
+Add,Java
+Add,MySQL
+Add,Nginx
+Add,SQL
+Add,Spring Boot
+Add,Tomcat
+Add,"
+Mulesoft developer (Philipines or India),K2 Partnering Solutions · Philippines 3 weeks ago · 61 applicants,Remote Full-time Mid-Senior level,"About the job
+We are seeking a skilled MuleSoft Developer to join our dynamic IT team. The ideal candidate should have a solid understanding of MuleSoft's Anypoint Platform, with hands-on experience in designing, developing, and implementing integration solutions.
+
+This position can be supported remotely from Philippines or India
+
+Responsibilities:
+Design and develop MuleSoft integration solutions.
+Implement APIs and integrate with third-party applications.
+Configure and optimize MuleSoft connectors, flows, and transformations.
+Conduct unit testing and troubleshoot integration issues.
+Collaborate with cross-functional teams to gather requirements.
+Ensure alignment with overall architecture and business objectives.
+Document design, development, and deployment activities.
+Requirements:
+Proven MuleSoft development experience.
+Familiarity with API design, RAML, and RESTful principles.
+Hands-on experience with MuleSoft Anypoint Platform.
+Knowledge of integration best practices.
+Proficiency in XML and JSON.
+Experience with MuleSoft CloudHub deployment.
+Strong problem-solving and debugging skills.
+Excellent communication and collaboration abilities.
+Qualifications:
+Bachelor's degree in Computer Science or related field.
+MuleSoft Certified Developer certification is a plus.","Computer Science
+Add,Debugging
+Add,JSON
+Add,MuleSoft Anypoint Platform
+Add,MuleSoft CloudHub
+Add,RAML
+Add,Requirements Gathering
+Add,Skill Development
+Add,Unit Testing
+Add,XML
+Add,"
+Senior Software Test Engineer,"Drake International Philippines · Makati, National Capital Region, Philippines 1 week ago · 41 applicants",On-site Full-time Mid-Senior level,"About the job
+One of our clients, a global IT solutions company is currently looking to hire a Sr. Software Test Engineer to join their dynamic team in Makati.
+
+Job qualifications:
+At least 8 years of experience in software testing
+Able to communicate well with offshore team
+
+Experiences in the ff:
+Full software development life cycle, especially in testing process and concepts
+Agile scrum methodology
+
+Experiences with:
+Creating test plan and strategy
+Test analysis and design
+Test implementation and execution
+Test monitoring and control
+Maintaining test cases inventory
+Defect tracking and management
+Issue investigation and documentation of findings
+Test process improvement
+Test documentation
+Manual and automation testing
+Lead and train other test engineers / share knowledge with other test engineers
+Experience with Functional testing:
+System testing
+System integration testing
+Confirmation testing
+Regression testing
+Smoke testing
+Experience with Non-functional testing:
+Performance testing
+User interface testing
+Compatibility testing
+Experience with:
+Creating user stories and maintaining product backlog
+Requirements gathering and analysis
+Familiar with the following: Website testing, Web browser dev tools (Chrome dev tool), Database testing, Docker, Azure Repo and Pipeline, Azure wiki
+Working knowledge of the following: SQL statements and scripting, Azure Data Studio, Azure DevOps (Boards, Test Plan)","Functional Testing
+Add,Non-functional Testing
+Add,Regression Testing
+Add,Software Development
+Add,Software Testing
+Add,System Integration Testing
+Add,Test Analysis
+Add,Test Cases
+Add,Testing Process
+Add,User Stories
+Add,"
+Back End Developer,Staffing Ninja · Philippines 6 days ago · 26 applicants,Remote Full-time Mid-Senior level,"About the job
+Job Responsibilities:
+Create and build scalable, high-performance backend systems supporting enterprise operations.
+Craft clean, maintainable, and efficient code that aligns with best practices and coding standards.
+Collaborate with diverse teams, including frontend developers, product managers, and data stewards, to comprehend requirements and devise solutions meeting business objectives.
+Uphold backend systems' security, reliability, and availability through implementing measures like data encryption, load balancing, and disaster recovery.
+Address and resolve issues occurring in production environments, implementing necessary fixes and enhancements.
+Document backend systems and procedures, offering technical guidance and assistance to team members.
+Engage in code reviews, testing, and deployment procedures to ensure backend systems' quality and stability.
+
+ Qualifications:
+Bachelor’s degree in Information Technology, Computer Science, or related field.
+Minimum 3 years' experience in software development.
+Proficiency in programming languages like Javascript and Python.
+Experience with the Spring Framework is advantageous.
+Capability to review solution designs and conduct code reviews.
+Ensuring adherence to IT security standards, policies, and procedures.
+Familiarity with the Agile development framework.
+Good to have : Proficiency in - Japanese, Chinese and English in any of the combinations","Back-End Web Development
+Add,JavaScript
+Add,Python (Programming Language)
+Add,Software Development
+Add,Software Development Life Cycle (SDLC)
+Add,Spring Framework
+Add,"

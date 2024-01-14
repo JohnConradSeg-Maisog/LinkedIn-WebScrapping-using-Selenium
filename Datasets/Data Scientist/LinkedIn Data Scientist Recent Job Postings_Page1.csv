@@ -1,0 +1,903 @@
+Title,CompanyDetails,JobDetails,JobDescription,JobSkills
+Marketing Data Scientist,"Smartly Video and Display · Taguig, National Capital Region, Philippines 1 month ago · 183 applicants",Hybrid Full-time,"About the job
+Smartly.io has an exciting opportunity for a Marketing Data Analyst to join our growing Marketing Science Team in the Philippines.
+
+We are looking for a marketing data science expert who enjoys analyzing, visualizing and communicating findings from data. Your role is essential in making sure we can systematically improve optimization, measurement, and data-driven decisions across our customers globally.
+
+You will work with our global team of customer-facing data scientists based in our offices in Helsinki, San Francisco, Germany and Singapore. In this role you will analyze, validate, and test best practices in paid social advertising. You will be working closely together with both product development and commercial colleagues. 
+
+As a Marketing Data Analyst at Smartly.io you will…
+Test and verify the performance of solutions with prototypes developed in R, Python, or similar development environments
+Build custom advertising trends reports for clients based on Smartly.io’s advertising data 
+Build custom models, visualizations, and analyses based on an individual client’s advertising data
+Perform performance analyses and vertical research based on scientifically sound analytics
+Translate analytic insights into concrete, actionable recommendations for business or product improvement, and communicate these findings
+Provide feedback to and collaborate with Product team and Partnerships to identify opportunities for new product features
+
+What we are looking for..
+Bachelor’s Degree in Computer Science, Mathematics, Economics, Finance, Marketing Analytics or a related quantitative field or similar knowledge
+3+ years experience in marketing measurement or analytics, data science, or growth marketing, or a related quantitative field
+Proficiency working with structured and unstructured data-sets, statistical software such as R and/or Python, and SQL
+Strong analytical and critical thinking skills as well as familiarity with large data sets and data manipulation
+Experience in standard and advanced analytical methods including linear models, non-linear methods, time series, and statistical significance
+Written and verbal skills to communicate findings to stakeholders 
+High teamwork skills, and drive to get things done 
+Ability to work in a fast paced environment, collaborating with technical and non-technical stakeholders","Data Analysis,Analytical Skills
+Add,Communication
+Add,Linear Models
+Add,Marketing
+Add,Mathematics
+Add,Python (Programming Language)
+Add,Statistical Software
+Add,Teamwork
+Add,Time Series Analysis
+Add,"
+Lead Data Scientist,"Code Ninja Co. · National Capital Region, Philippines 1 month ago · 50 applicants",Remote Full-time,"About the job
+About the Company
+Are you a person who is excited about Data Science and Artificial Intelligence (AI)?
+Interested in being part of a growing multinational, delivering end-to-end projects in the international space?
+
+Code Ninja houses 3 different US-based tech startups. And our most data-centric startup is gearing up to grow its data science team:
+
+ImportGenius, one of the US-based tech startups is the pioneer company in data analytics for the global import/export industry. Our trade data is used by businesses the world over to gain an advantage over their competitors. The insights we produce using our trade data have been used by analysts and journalists to predict the iPhone launch even before the official announcement, track counterfeit money flowing into Venezuela, and most recently to discover priceless antiques being shipped out of Russia by oligarchs. 
+
+At ImportGenius we are always finding ways to build tools that allow our customers to discover powerful intelligence from global trade data. 
+
+Apply now to join our team as Data Scientist for Import Genius!
+
+About the Job
+ImportGenius has access to the real-time complete import and export records of 18 countries. As our new Data Scientist at Import Genius you will manage the process from PoC stage and to design and implement/deploy scalable solutions for our customers, in the area of Natural Language Processing, Predictive Modeling and Decision Support Systems. This includes owning-up the quality of the deliverables, facilitating for a successful project delivery. As a Data Scientist you will ensure the quality throughout the process: building and validating AI models based on structured and unstructured data. You will collaborate closely with Product Managers in conceptualizing viable Data Science solutions for our customers and work together with our Data and Software Engineers in delivering production-grade Data Science solutions. In your capacity as Data Scientist it will also be expected of you to guide your younger colleagues through the project life-cycle.
+
+Throughout customer engagements, you have the opportunity to deep-dive into the customer’s data and translate this to optimal business solutions. You will drive the technical discussions to qualify that the designed and developed solution is addressing the customer's business problem. To succeed in this role, we believe that you will establish and maintain a professional and trusted relationship with the customer, providing continuous guidance during the customer engagement.
+
+Key responsibilities to highlight
+
+Own the delivery process from PoC stage and to design and implement/deploy scalable solutions for our customers, in the area of NLP, Predictive Modeling and Decision Support Systems.
+Define and qualify data requirements necessary to implement the Data Science solution
+Understand customer business problem and identify the right Data Science solution to address the problem
+Define the data requirements necessary to implement the Data Science solution
+Conduct Exploratory Data Analysis and develop AI models for addressing concrete business problems
+Validate both the technical performance, as well as the business value of the developed AI solutions
+Write production-grade Python code for deploying the developed AI models together with our engineering team
+
+We envisage you to be an ambitious and goal-oriented individual with the desire for achievement to reach goals, having the drive and aspiration to become and stay a subject matter expert, and an authority in the area of specialization. To succeed in this role, it will be crucial to demonstrate knowledge transfer by being transparent and proactive, and openly share knowledge, experience and information. You will be part of a cross-functional team, and collaborate closely with Data Scientists, Data/Software Engineers and Solutions Architects.
+
+Desired competency & experience
+
+A Bachelor degree in a relevant field (Data Science, Computer Science, Mathematics, Engineering, Statistics, Physics etc.)
+M.Sc. or PhD degree in a relevant field (Data Science, Computer Science, Mathematics, Engineering, Statistics, Physics etc.) is a plus.
+At least 5 years of professional experience in analyzing, exploring, building and validating AI models based on structured and unstructured data
+Practical experience with developing impactful AI models for specific solutions (e.g. text analytics applications)
+Working experience with one or more of the following ML frameworks: scikit-learn, TensorFlow, Keras, pytorch
+Fluency in Python, software engineering concepts and best practices
+Knowledge SQL, Glue, and in agile methods, such as Spark or similar large-scale data processing frameworks and code versioning tools (git). 
+Experience in working with large datasets. You should be comfortable querying and filtering large amounts of data, cleaning up data programmatically, and slicing quick samples of the data.
+Experience in building complex reports, queries, and dashboards at scale
+Up to date with current trends in AI, Data Science, and Big Data Algorithms. 
+While we don’t expect you to be an NLP expert, knowledge in this domain will be beneficial. 
+Innovative “out of the box” thinking. This role is central to the company’s competitive advantage in providing unique insights using publicly available data 
+A positive “Can do” attitude
+High attention to detail 
+
+Practical Information
+Location for this job: Manila, Philippines
+Language requirements: Professional level English, written & spoken
+Application deadline: ASAP. We will evaluate candidates continuously
+Visa requirements: Should have a valid work permit/visa for the Philippines. We are looking for someone who is ideally already based in the Philippines and that could start relatively quickly. If you are located outside of the Philippines, please detail in your application when you are planning to move here and when you could start.","Box Cloud
+Add,Data Science
+Add,Keras
+Add,Large-scale Data Processing
+Add,Natural Language Processing (NLP)
+Add,Predictive Modeling
+Add,PyTorch
+Add,Scikit-Learn
+Add,TensorFlow
+Add,Text Analytics
+Add,"
+Data Scientist,Turing · Philippines 5 days ago · 0 applicants,Remote Full-time Entry level,"About the job
+A well-established company that is developing an intuitive financial trading platform while leveraging modern technologies, is looking for a Data Scientist. The selected candidate will be responsible for ensuring effective data storage, processing, and retrieval, design and maintenance of the Azure Data Lake architecture. The company’s innovative platform is enabling investors, traders, and other customers to efficiently grow their finances. This is an amazing opportunity for candidates who are eager to test their skills while working in a demanding environment.
+
+Job Responsibilities:
+
+Leverage data to provide insights on how our marketing, ops and engagement strategies should function in the short, medium and long term 
+Analyze data and build ML models to understand behaviors of existing and potential customers 
+Use data to identify untapped areas of growth and provide guidance on how to optimize both the product and the engagement/marketing strategies to capture this growth 
+Build models from POC to production-ready 
+Build customer-facing reporting tools to provide insights and metrics which track business performance. 
+Formulating, suggesting, and managing data-driven projects which are geared at furthering the business's interests. 
+Document business understanding of data and clean data from various entities for later use. 
+Cross-validating models to ensure their generalizability. 
+
+Job Requirements:
+
+At least 8-10+ years of relevant experience as a Data Scientist 
+Proficiency in programming languages such as SQL and Python for data manipulation, analysis and model building 
+Familiarity with big data frameworks like Spark 
+Experience in data mining, data cleaning, predictive modelling using machine learning on cloud platforms. 
+Experience in building, fine-tuning and monitoring descriptive/predictive/prescriptive models using various modelling techniques and methodologies such regression, random forest, neural networks etc. 
+Experience of delivering models (or POC’s) using Generative AI technology will be preferred. 
+Proficiency in using data visualization packages including Matplotlib, Seaborn to create clear and effective data visualization 
+Experience working on Azure and databricks platform will be preferred 
+Understanding of NLP techniques for text analysis, sentiment analysis and language modelling 
+Understanding of time-series forecasting techniques like ARIMA 
+Experience in Power BI is preferred 
+Knowledge of MLOps is preferred 
+Background in the financial industry 
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)","Data Analytics
+Add,Data Cleaning
+Add,Data Manipulation
+Add,Data Mining
+Add,Data Science
+Add,Data Visualization
+Add,Matplotlib
+Add,Natural Language Processing (NLP)
+Add,Predictive Modeling
+Add,Seaborn
+Add,"
+Senior Data Scientist (Remote),TE Connectivity · Philippines 2 weeks ago · 51 applicants,Remote Full-time Mid-Senior level,"About the job
+As a Senior Data Scientist at TE Connectivity, you will leverage your expertise in quantitative methods, including machine learning, to solve intricate problems and empower stakeholders with data-driven insights. Your role will involve processing vast amounts of data, extracting meaningful patterns, and developing solutions to address pressing business challenges. You will be pivotal in driving TE Connectivity's mission to tackle the world's most daunting problems.
+
+Job Responsibilities: 
+
+Data Analysis & Model Development: Craft machine learning models and products, ensuring their technical robustness and relevance to business users.
+Collaboration: Partner with cross-functional teams to discern business requirements and pinpoint opportunities for advanced analytics, especially in demand forecasting.
+Solution Deployment: Design, develop, and roll out end-to-end machine learning solutions to address multifaceted business issues.
+Tool & Framework Selection: Choose the right tools and frameworks for data science projects, particularly those related to demand forecasting.
+Quality Assurance: Guarantee the precision and reliability of data science outputs through meticulous validation, testing, and performance tracking.
+Communication: Articulate intricate data science concepts and findings to a varied audience, ensuring clarity for both technical and non-technical stakeholders.
+Continuous Learning: Stay updated with the latest in data science, machine learning, and AI. Proactively seek opportunities to incorporate novel techniques in demand forecasting.
+Team Culture: Promote a culture of continuous learning, innovation, and collaboration within the team and the broader organization.
+
+Role Specifics:
+
+Engage with internal stakeholders to ensure analytic solutions align with their needs and deliver tangible results.
+Translate real-world business challenges into analytical frameworks.
+Utilize a diverse skill set, including data mining, machine learning, statistics, visualization, and more.
+Collaborate with teams to gather, refine, and harmonize data, ensuring its readiness for analysis.
+Simplify complex results, avoiding excessive technical jargon, and employ tools and cloud services like Python, R, SQL, and AWS.
+
+Job Requirements: 
+
+A Bachelor's, Master's or Ph.D. in a relevant field such as Computer Science, Data Science, Engineering, Physics, Statistics or Mathematics.
+AWS Cloud Practitioners Certificate or the ability to obtain it during onboarding.
+At least 5 years of experience in data science, machine learning, or related fields.
+Proficiency in programming (Python or R) and familiarity with essential data analysis tools and libraries.
+Demonstrated expertise in machine learning and AI techniques.
+Exceptional problem-solving abilities and a knack for innovative solutions.
+Stellar communication skills, with a history of conveying complex ideas effectively.
+A proven record of delivering data science projects efficiently.","Data Analysis,Artificial Intelligence (AI)
+Add,Communication
+Add,Data Science
+Add,Data-Driven Insights
+Add,Machine Learning
+Add,Mathematics
+Add,Physics
+Add,Problem Solving
+Add,Python (Programming Language)
+Add,"
+Marketing Data Scientist,"Smartly.io · Manila, National Capital Region, Philippines Reposted 2 weeks ago · 86 applicants",On-site Full-time,"About the job
+Smartly.io has an exciting opportunity for a Marketing Data Analyst to join our growing Marketing Science Team in the Philippines.
+
+We are looking for a marketing data science expert who enjoys analyzing, visualizing and communicating findings from data. Your role is essential in making sure we can systematically improve optimization, measurement, and data-driven decisions across our customers globally.
+
+You will work with our global team of customer-facing data scientists based in our offices in Helsinki, San Francisco, Germany and Singapore. In this role you will analyze, validate, and test best practices in paid social advertising. You will be working closely together with both product development and commercial colleagues.
+
+As a Marketing Data Analyst at Smartly.io you will…
+
+Test and verify the performance of solutions with prototypes developed in R, Python, or similar development environments
+Build custom advertising trends reports for clients based on Smartly.io’s advertising data 
+Build custom models, visualizations, and analyses based on an individual client’s advertising data
+Perform performance analyses and vertical research based on scientifically sound analytics
+Translate analytic insights into concrete, actionable recommendations for business or product improvement, and communicate these findings
+Provide feedback to and collaborate with Product team and Partnerships to identify opportunities for new product features
+
+What We Are Looking For..
+
+Bachelor’s Degree in Computer Science, Mathematics, Economics, Finance, Marketing Analytics or a related quantitative field or similar knowledge
+3+ years experience in marketing measurement or analytics, data science, or growth marketing, or a related quantitative field
+Proficiency working with structured and unstructured data-sets, statistical software such as R and/or Python, and SQL
+Strong analytical and critical thinking skills as well as familiarity with large data sets and data manipulation
+Experience in standard and advanced analytical methods including linear models, non-linear methods, time series, and statistical significance
+Written and verbal skills to communicate findings to stakeholders 
+High teamwork skills, and drive to get things done 
+Ability to work in a fast paced environment, collaborating with technical and non-technical stakeholders
+
+Meet Smartly.io
+
+Smartly.io is one of the world’s largest SaaS digital advertising platforms. We help brands better reach audiences, engage creatives and learn what performs best across the largest media platforms, including Facebook, Instagram, Snap, Pinterest, TikTok, and Google.
+
+We manage nearly $5B in ad spend and help 700+ brands worldwide. Our leading end-to-end technology and outstanding customer helps brands like Walmart, FanDuel, L’Oreal, Warner Bros. Discovery, Nestle, and Disney/ESPN to better reach audiences, engage creatives and learn what performs best.
+
+We offer growth-minded people opportunities to make an impact in a fast-paced, collaborative and inclusive environment built on a culture of trust, transparency, and feedback. You’ll work with a team of 600+ Smartlies, representing 60+ nationalities. We operate in 13 countries across 24 locations.
+
+At Smartly.io, you can enjoy the freedom to harmonize work and personal life. As a global, hybrid organization, we are mindful to collaborate in ways that allow everyone, everywhere to be productive and feel included.
+
+Join our global team to change the future of digital marketing!
+
+Learn more at smartly.io/careers.","Analytical Skills
+Add,Communication
+Add,Computer Science
+Add,Critical Thinking
+Add,Data Manipulation
+Add,Data Science
+Add,Linear Models
+Add,Non-linear Editing
+Add,Statistical Software
+Add,Thinking Skills
+Add,"
+"Lead Data Scientist (Bangkok based, relocation provided)","Agoda · Manila, National Capital Region, Philippines Reposted 1 week ago · 22 applicants",Hybrid Full-time Mid-Senior level,"About the job
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Get to Know Our Team
+
+The Data department , based in Bangkok , oversees all of Agoda’s data-related requirements. Our ultimate goal is to enable and increase the use of data in the company through creative approaches and the implementation of powerful resources such as operational and analytical databases, queue systems, BI tools, and data science technology. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the Data team plays at Agoda is critical as business users, product managers, engineers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the Data department, but also the reward.
+
+The Opportunity
+
+Please note -The role will be based in Bangkok. 
+
+We are looking for ambitious and agile data scientists that would like to seize the opportunity to work on some of the most challenging productive machine learning and big data platforms worldwide, processing some 600B events every day and making some 5B predictions.
+
+As part of the Data Science and Machine Learning (AI/ML) team you will be exposed to real-world challenges such as: dynamic pricing, predicting customer intents in real time, ranking search results to maximize lifetime value, classifying and deep learning content and personalization signals from unstructured data such as images and text, making personalized recommendations, innovating algorithm-supported promotions and products for supply partners, discovering insights from big data, and innovating the user experience. To tackle these challenges, you will have the opportunity to work on one of the world’s largest ML infrastructure employing dozens of GPUs working in parallel, 30K+ CPU cores and 150TB of memory.
+
+In This Role, You’ll Get to
+
+Design, code, experiment and implement models and algorithms to maximize customer experience, supply side value, business outcomes, and infrastructure readiness
+Mine a big data of hundreds of millions of customers and more than 600M daily user generated events, supplier and pricing data, and discover actionable insights to drive improvements and innovation
+Work with developers and a variety of business owners to deliver daily results with the best quality
+Research discover and harness new ideas that can make a difference
+
+What You’ll Need To Succeed
+
+4+ years hands-on data science experience
+Excellent understanding of AI/ML/DL and Statistics, as well as coding proficiency using related open source libraries and frameworks
+Significant proficiency in SQL and languages like Python, PySpark and/or Scala
+Can lead, work independently as well as play a key role in a team
+Good communication and interpersonal skills for working in a multicultural work environment
+
+It’s Great if You Have
+
+PhD or MSc in Computer Science / Operations Research / Statistics or other quantitative fields
+Experience in NLP, image processing and/or recommendation systems
+Hands on experience in data engineering, working with big data framework like Spark/Hadoop
+Experience in data science for e-commerce and/or OTA
+
+We welcome both local and international applications for this role. Full visa sponsorship and relocation assistance available for eligible candidates.
+
+#sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.","Apache Spark
+Add,Big Data
+Add,Computer Vision
+Add,Data Engineering
+Add,Data Science
+Add,Natural Language Processing (NLP)
+Add,Pattern Recognition
+Add,PySpark
+Add,Recommender Systems
+Add,Scala
+Add,"
+"Senior Data Scientist - Merchant Risk, Fraud, Payments","Xendit · Manila, National Capital Region, Philippines 3 weeks ago · 10 applicants",Hybrid Full-time Mid-Senior level,"About the job
+About the Job
+
+The Senior Data Scientist will play a crucial role by leading the development and implementation of risk scoring models across the merchant lifecycle and enhancing the effectiveness and accuracy of our risk detection by developing data science components that can be embedded in multiple risk solutions. You will be the subject matter expert for all Risk teams and partners on all analytical topics such as scoring, modeling, experiment design, hypothesis validation, etc.
+
+The role requires strong model development and data analytics skills as well as the ability to explain the scientific concepts, approach and applications to non-technical audiences. Demonstrated experience with developing risk scoring models at entity and transaction level, experience with cards, strong understanding of various modeling techniques and algorithms, and comfort with dealing with large datasets and prospecting for data in an unstructured environment are a must.
+
+You will collaborate closely with multiple teams within Risk and across Xendit such as Portfolio Monitoring, Risk Operations, Product, Engineering, Data Management, etc. and will interact with multiple senior leaders and their orgs. You will be responsible for developing the cutting edge risk detection and mitigation capabilities using data science and enabling Xendit to assume a proactive posture in managing fraud and credit risk.
+
+Responsibilities
+Lead the risk scoring and risk data science at Xendit
+Develop and implement models for risk scoring of merchants and transaction
+Develop data science tools and components for other Risk teams to enhance the accuracy and effectiveness of our risk rules and strategies
+Partner with other Risk teams on designing and implementing strategies, analyze emerging fraud trends, design experiments, evaluate emerging technologies, etc.
+Balance business and risk needs by partnering with stakeholders on creative methods to enable business growth while keeping risk and losses in check
+Educate the Risk and other teams on data science concepts which they can leverage in their own work
+Do whatever it takes to make Xendit successful
+
+Minimum Qualifications
+8+ years of experience in risk modeling in financial services, payments or technology companies
+Degree in a quantitative field such as statistics, mathematics, engineering, etc.
+Strong understanding of fraud and credit risk concepts and experience with developing risk scoring solutions
+Experience with Cards and payment transaction risk scoring
+Solid data analysis skills and willingness to do hands-on analysis and data pulls
+Excellent communication and ability to explain complex technical concepts to non-technical audience
+Demonstrated experience of application of multiple modeling techniques to risk management and understanding of latest data science tools and developments
+
+Preferred Qualifications
+Demonstrated experience in hands-on building risk solutions from scratch
+Experience working in an unstructured environment with uneven data availability and reliability","Data Analysis,Algorithms
+Add,Data Modeling
+Add,Data Science
+Add,Fraud Detection
+Add,Fraud Prevention
+Add,Mathematics
+Add,Payment Cards
+Add,Payments
+Add,Risk Modeling
+Add,"
+Data Scientist,"Smart Communications, Inc. · Makati, National Capital Region, Philippines 2 weeks ago · 66 applicants",On-site Full-time Associate,"About the job
+Education
+Bachelor’s degree holder of any quantitative discipline such as Mathematics, Statistics, Computer Science, or other related courses
+
+Qualifications
+At least 2 years of analytics work 
+Machine learning 
+R or Python scripts for data wrangling and analysis
+Querying skills, such as SQL/Hive
+Data visualization (PowerBI, Tableau, ggplot, matplotlib, d3, etc.)
+Predictive modeling techniques
+Big data infrastructure and open-source stack
+
+Duties And Responsibilities
+Scope and analyze business problems by creating lines of analysis and appropriate metrics from various kinds of data sources
+Synthesize, profile, and analyze large and complex datasets that meet functional/non-functional business requirements
+Generate and share actionable insights to business partners and stakeholders
+Clearly communicate data processing, transformation, modeling, and findings via written communication, slides, and crisp graphs/figures
+Design, test, measure and iterate models against the business need, and align with business on the acceptable output and operationalization; Able to own end to end execution
+Able to automate model to generate outputs on regular basis
+Work with IT/business partners to operationalize successful models","D3.js
+Add,Data Science
+Add,Data Wrangling
+Add,Hive
+Add,Machine Learning
+Add,Matplotlib
+Add,Predictive Modeling
+Add,Python (Programming Language)
+Add,R (Programming Language)
+Add,Statistics
+Add,"
+Data Scientist (Analytics) - Country & Marketing Analytics,"Grab · Pasig, National Capital Region, Philippines 6 days ago · 39 applicants",On-site Full-time Entry level,"About the job
+Job Description
+
+Life at Grab
+
+At Grab, every Grabber is guided by The Grab Way, which spells out our mission, how we believe we can achieve it, and our operating principles - the 4Hs: Heart, Hunger, Honour and Humility. These principles guide and help us make decisions as we work to create economic empowerment for the people of Southeast Asia
+
+Get to know our Team
+
+Grab - the leading super app in Southeast Asia - combines transport, food delivery, logistics, payments, and much more in a single platform. The Country & Marketing Analytics team helps the organization by analyzing in each of our countries our past operations and marketing initiatives, deciphering the impact on our business, our brand and our users, to augment the outcome of future initiatives.
+
+Get to know the Role
+
+The team works closely with various teams in Grab - Business, Operations, Marketing but also Engineering, Product and other Data teams, to understand data requirements, identify and track key metrics, and provide data-driven solutions that are tailored and relevant to always-evolving innovation in our markets.
+
+The Day-to-Day Activities
+
+Be involved into the business to understand all aspects of our marketplace and marketing in countries.
+Conduct in-depth analysis and provide insights based on business needs.
+Develop data-driven solutions such as reports, toolkits, dashboards, models and analytical frameworks to help further stakeholders decisions.
+Support a broad range of projects related to automation, scalable measurement and Analytics efficiency.
+Shape the development of our data infrastructure including data warehousing, optimization and maintenance of our analytics platforms.
+Provide support and training to stakeholder teams on analytical insights, tools and methodologies.
+
+The Must-Haves
+
+Some Analytics experience and a strong business acumen, preferably in the e-commerce or internet industry.
+Bachelor’s degree in Statistics, Analytics, Mathematics, Engineering or other quantitative subjects.
+Advanced knowledge of analytical tools such as database querying (SQL, Presto, Hive), visualization and reporting tools (Tableau, PowerBI, Holistics) and programming languages (Python, R).
+Strong ability to work with large and complex data sets.
+Fast-learner, versatile, self-driven, detail-oriented and collaborative.
+Excellent communication skills to translate analytics specificities for all audiences.
+Full professional working proficiency in English is required.
+
+Our Commitment
+
+We are committed to building diverse teams and creating an inclusive workplace that enables all Grabbers to perform at their best, regardless of nationality, ethnicity, religion, age, gender identity or sexual orientation and other attributes that make each Grabber unique.","Analytics
+Add,Communication
+Add,Data Science
+Add,English
+Add,Hive
+Add,Natural Language Processing (NLP)
+Add,Optimization
+Add,Predictive Analytics
+Add,Presto
+Add,R (Programming Language)
+Add,"
+Senior Data Scientist,"General Motors · Taguig, National Capital Region, Philippines 2 weeks ago · 26 applicants",Hybrid Full-time,"About the job
+Job Description
+
+Job Description
+
+The Digital Solutions Team within Global Business Solutions is passionate about enabling digital solutions that empower our business partners to derive immediate value from innovative tools and technology. Our objective is to connect the business to underlying data assets & tools for analytics, predictive modeling, and automation to generate business value and efficiency. Develop customer centric solutions for our strategic partners based on need, complexity, and process maturity. And upskill our workforce to leverage the latest digital tools to drive efficiencies in their daily activities. And collaborate with our global service centers to scale our impact.
+
+Responsibilities
+
+You build predictive models and machine-learning algorithms
+You analyze large amounts of information to discover trends and patterns
+Undertake preprocessing of structured and unstructured data
+Monitor and sustain model effectiveness
+Combine models through ensemble modeling
+Present complex information using data visualization techniques
+Propose solutions and strategies to business challenges that drive business impact
+You will ‘tell the story’ & generate ongoing, actionable insights that enables strategic and operational decisions. Educate the Business on things that they do not know.
+Digital Upskilling - On the job digital upskilling for self and leverage expertise to train the community
+
+
+Qualifications And Experience
+
+Master’s degree in Data Science, Mathematics, Statistics, Computer Science, Engineering, or other quantitative field
+7 or more years proficiency in most of the following:
+R or Python and understand their limitations
+Two or more analytical methodologies such as numerical optimization, statistical process/tools , econometric modeling/forecasting, machine learning and text analytics
+Data Integrations with expertise using SQL or KNIME
+Business Intelligence/Reporting with experience using Power BI
+Communication skills with the ability to distill complex subjects to a wider audience
+Excellent collaboration and project management skills
+
+Additional Job Description
+
+Shift: Night (8:00 PM to 5:00 AM)
+
+About GM
+
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.
+
+Why Join Us
+
+We aspire to be the most inclusive company in the world. We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Our Work Appropriately philosophy supports our foundation of inclusion and provides employees the flexibility to work where they can have the greatest impact on achieving our goals, dependent on role needs. Every day, we want every employee, no matter their background, ethnicity, preferences, or location, to feel they belong to one General Motors team.
+
+Diversity Information
+
+General Motors is committed to being a workplace that is not only free of discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that workforce diversity creates an environment in which our employees can thrive and develop better products for our customers. We understand and embrace the variety through which people gain experiences whether through professional, personal, educational, or volunteer opportunities.
+
+We encourage interested candidates to review the key responsibilities and qualifications and apply for any positions that match your skills and capabilities.","Analytics
+Add,Communication
+Add,Computer Science
+Add,Data Analytics
+Add,Data Mining
+Add,Data Science
+Add,Data Visualization
+Add,Optimization
+Add,Predictive Analytics
+Add,Unstructured Data
+Add,"
+Data Scientist,Provenir · Philippines Reposted 1 month ago · 100 applicants,Remote Full-time Mid-Senior level,"About the job
+Who We Are 
+
+ Provenir is a global fintech company with offices across North America, the UK, and Singapore. Provenir helps fintechs, financial institutions, and payment providers make smarter decisions, faster. We are passionate about technology and empowering businesses to become industry leaders. As a leading provider of decisioning and analytics products for financial services and other industries, we empower businesses to create digital-first decisioning solutions that drive business growth. If you’d like to work at an innovative fintech with a global footprint that is redefining the industry, then we want you!
+
+
+What You’ll Do 
+
+The Provenir AI team is responsible for all things data, analytics, and ML/AI at Provenir . The team consists of Cloud Architects, Data Engineers, Software Engineers, Data Scientists, ML Engineers and Program Management specialists. It is our team's mission to disrupt longstanding players in the value chain by building a distributed AI/ML platform to drive best-in-class decisions.
+
+Our global and diverse team is seeking an enthusiastic Data Scientist who can design and build solutions that will be used in many markets around the world. As a team we value diversity of thought and challenge each other's ideas in a respectful, collaborative environment to build world class products. Our ideal team member will have a unique, creative and curious mindset to understand our customers problems with the technical expertise to implement their ideas.
+In this role, you will have access to a variety of data sources to create and validate AI and ML models. Use cases include models to fraud prevention, credit risk management and financial inclusion.
+
+This is a remote role but the ideal candidate must be based in Thailand or The Philippines.
+
+
+Your Responsibilities 🚀
+
+Help identify and source relevant data (including alternative data) to build, calibrate and deploy state-of-the-art models using the latest AI/ML technologies and methods.
+Determine patterns of potential fraud and conceptualize ways to detect anomalies.
+Understand the problems of our clients and customers to build industry-first products that promote financial inclusion across the world.
+Partner with our Engineering team to support implementation in our cloud platform
+Claim end-to-end ownership of your models and solutions: from ideation to implementation
+While working in a fast-paced environment, interpret, document and successfully communicate solutions to stakeholders, including those in non-technical and senior management roles.
+Be involved in the whole MLOps lifecycle, including everything from root cause analysis, data collection and feature engineering to training, validating and implementing machine learning models, computing performance statistics and live model monitoring.
+Support the Sales and Operations teams in managing technical client queries through a deep knowledge of our product suite.
+Use your local knowledge of South East Asian markets to support new product launches in the region.
+
+
+
+Your Strengths and Skills 🛠️
+
+You have at least 3 years experience in a data science role, including hands-on experience in developing supervised and unsupervised advanced machine learning algorithms.
+You have strong data wrangling and manipulation skills for merging, cleansing, and sampling data
+You can collaborate asynchronously within a globally-distributed Scrum team.
+You actively participate in team meetings and can clearly and concisely articulate.
+You enjoy working in an agile, rapid development and prototyping environment.
+You will take initiative, learn quickly and are able to adapt to shifting priorities.
+
+Although not essential, it would be great if you also have any of these strengths:
+
+You have Fraud domain knowledge
+You have experience working with Graph Databases
+You follow best practices across the MLOps lifecycle (e.g. CI/CD, pipeline orchestration and containerization).
+You have hands-on experience with our other tools (AWS, Metaflow, Java, GitHub, Jira, Miro).
+
+
+Our employees are our top priority, we offer comprehensive health and wellness plans. You will enjoy paid time off and company holidays, flexible and remote-friendly opportunities, and maternity/paternity leave along with retirement benefits to plan for your future.
+
+
+At Provenir, we recognize that diversity and inclusion make our teams stronger. We are committed to equal employment opportunity and welcome everyone regardless of race, colour, ancestry, religion, national origin, age, sex, gender identity, sexual orientation, disability, marital status, domestic partner status, citizenship, or veteran status or medical condition. We encourage people from all backgrounds to apply.","Amazon Web Services (AWS)
+Add,Continuous Delivery (CD)
+Add,Continuous Integration (CI)
+Add,Continuous Integration and Continuous Delivery (CI/CD)
+Add,Data Science
+Add,Graph Databases
+Add,Jira
+Add,Knowledge Acquisition
+Add,MLOps
+Add,Machine Learning
+Add,"
+Data Scientist (Night Shift),"TE Connectivity · Makati, National Capital Region, Philippines Reposted 6 months ago · 58 applicants",Hybrid Full-time Associate,"About the job
+At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world.
+
+Job Overview
+
+Member of the Automotive North America Supply Chain Analytics team. Business Intelligence Analysts will independently perform analytics, gather insights, and leverage digital technology to identify opportunities and risks to the supply chain; They will work with cross-functional stakeholders to drive business results based on derived analytics & insights.
+
+Key Responsibilities
+
+ Identify potential efficiency gains and design automation to increase team effectiveness
+ Identify data sources, integrate multiple sources or types of data, and apply statistical analyses to draw conclusions/recommendations on business problems that can be presented visually and concisely - ETL
+ Analyze sales patterns versus S&OP demand forecasts identifying trends, insights, and deviations which can be acted upon. Lead conversations with S&OP, sales, and materials planning to ensure input is incorporated into tactical plans.
+ Collaborate with in-house and external IT teams to develop and deploy digital tools for the supply chain
+ Data modeling of supply chain planning levers to reduce freight costs and better order fulfillment – inventory and backlog optimization
+
+What Your Background Should Look Like
+
+ Bachelor’s in data analytics/information systems, statistics, business mathematics, or other applicable fields. Masters Preferred
+ Proven ability/track record to translate business questions into analytics projects and provide hands-on practical use of data and analytics
+ Experience working with structured and unstructured data. Knowledge of SQL is required. Basic knowledge of databases and containers like HANA, HADOOP, Spark, etc. is also preferred.
+ Good proficiency in querying and analyzing data using Python is required, especially knowledge of Pandas, NumPy, Sci-Kit learn & TensorFlow.
+ Expert on front-end platforms such as Tableau is highly preferred.
+ Basic knowledge of the AWS Redshift platform is preferable.
+ Willingness to learn and work on new digital platforms.
+ Experience engaging stakeholders to gather requirements and develop solutions.
+ Understanding of supply chain data and reporting: Materials Planning Skills; On-Time Shipping and delivery performance; Past Due & Backorder.
+ Proficiency in English is required.
+
+Competencies
+
+Values: Integrity, Accountability, Teamwork, Innovation","Data Analysis,Data Modeling
+Add,Identifying Trends
+Add,NumPy
+Add,Pandas (Software)
+Add,Python (Programming Language)
+Add,Requirements Gathering
+Add,Scikit-Learn
+Add,Statistical Analysis
+Add,TensorFlow
+Add,"
+Data Scientist,"McDonald's Philippines (Golden Arches Development Corporation) · Metro Manila, National Capital Region, Philippines 2 weeks ago · 64 applicants",On-site Full-time Mid-Senior level,"About the job
+Unlock your fullest potential with us!
+
+McDonald’s is the largest fast-food chain with over 40,000 employees serving Filipinos all over the Philippines, and we are continuously on the lookout for high-caliber talents to join our growing team!
+
+With us, working means an opportunity to grow with our limitless career opportunities, and experience an empowering, inclusive and safe work environment.
+
+About the Role:
+The Data Science Manager at GADC is critical in leading advanced data science applications, integrating technical expertise with business acumen to drive data-driven decisions. This role involves managing analytics strategies to enhance customer experience, engagement strategies, sales optimization, and operational excellence.
+
+Oversees the data science team, guides the collection, analysis, and visualization of data.
+Develops and refines predictive models and forecasting tools, focusing on operational excellence and inventory management.
+Leads the analysis of sales trends and customer behaviors, crucial for quick-service restaurant operations.
+Ensures compliance with data governance and upholds high standards of data privacy and security.
+
+What we are looking for:
+Proven leadership experience in data science, with strong skills in Python, SQL, and data visualization tools.
+Adept in managing teams and projects, fostering a culture of continuous learning and growth.
+Ability to lead building future capabilities and strong cross-functional relationships in a highly matrixed organization.
+
+Who you will work with: 
+Join a team with diverse backgrounds in developing cutting-edge analytics business solutions. This role is critical in enhancing customer experiences and optimizing operational strategies through advanced data-driven insights. Your expertise in data science will empower the team to innovate and deliver impactful results in a dynamic, fast-paced environment. Join us to shape the future of GADC, leveraging your leadership skills and technical knowledge to drive our continued success.","Automation
+Add,Computer Science
+Add,Data Science
+Add,Firewalls
+Add,ITIL
+Add,Information Technology
+Add,MCSA
+Add,Microsoft Azure
+Add,System Administration
+Add,Technical Support
+Add,"
+Associate Data Scientist,"Manulife · Quezon City, National Capital Region, Philippines Reposted 14 hours ago · 59 applicants",Full-time Entry level,"About the job
+We are a leading financial services provider committed to making decisions easier and lives better for our customers and colleagues around the world. From our environmental initiatives to our community investments, we lead with values throughout our business. To help us stand out, we help you step up, because when colleagues are healthy, respected and meaningfully challenged, we all thrive. Discover how you can grow your career, make impact and drive real change with our Winning Team today.
+
+Working Arrangement
+
+Hybrid
+
+Job Description
+
+The Opportunity
+
+The Manulife Audit Services Data Analytics group supports the global audit team by collaborating with them to provide meaningful data and successfully employ the use of data analytics in audit activities. These activities cover the different product lines and functions within the company globally. This includes Insurance, Wealth, Investment, and Banking products as well as actuarial and information technology functions.
+
+The position of Associate Data Scientist is a key team member in contributing to the development and execution of the Audit Services Data Analytics strategy globally, with a focus on Asia. The successful candidate will bring their strong communication skills, innovation, a mindset for critical thinking, and strategic and functional expertise leveraged through data management and analytics to drive the success of this initiative.
+
+This position reports to the Lead/Senior Data Scientist, Data Analytics.
+
+Responsibilities
+
+Develop and implement analytics-enabled solutions to evaluate controls and audit business objectives on data validation, consolidation and cleaning processes, and independently re-perform business processes, and identify exceptions.
+Own and deliver complete projects of moderate complexity to prepare and integrate large and varied datasets to build statistical and machine learning models using Python and perform full-population data retrievals and/or sampling on large data sets.
+Work on problems of moderate scope/complexity to validate and quantify accuracy and precision of analysis.
+Develop requirements, design, code, test, and analyze results to provide support on audit activities using available tools/infrastructure.
+Turn statistical and computational analysis into user-friendly visualizations.
+Work independently to support individual audits, and collaboratively with both the team and auditors on larger projects.
+Analyze, document, and present analytical results to business partners and audit teams, and provide conclusions/recommendations on data-related issues.
+Train and support audit teams in the analysis of captured data, as well as facilitate technical trainings to auditors across all levels on data analytics training programs for Audit Services and, where necessary, provide specific trainings for the audit team.
+
+How will you create impact?
+
+The role will be a part of the Advanced Analytics Team in MBPS Manila, and will recommend, communicate, and help in the adoption of advanced analytics across various functions requiring audit and securing best practices and better execution of management and operational policies.
+
+What motivates you?
+
+You obsess about customers, listen, engage and act for their benefit.
+You think big, with curiosity to discover ways to use your agile approach and enable business outcomes.
+You thrive in teams and enjoy getting things done together.
+You take ownership and build solutions, focusing on what matters.
+You do what is right, work with integrity and speak up.
+You share your humanity, helping us build a diverse and inclusive work environment for everyone.
+
+What We Are Looking For
+
+Minimum Bachelor’s degree in Statistics, Mathematics, Computer Science, Engineering, Data Science; or equivalent work experience.
+3+ years consulting experience, analytics consulting groups.
+1-2+ years experience in Machine Learning, data mining, and statistics.
+Excellent understanding of SQL, Python, MS Excel, Data Extraction, and Data Mining tools.
+Advanced data analysis techniques: regression analysis, statistical analysis, hypothesis testing, distribution analysis, correlation, variance, multi-variate analysis, etc.
+Proven hands-on experience in managing libraries, database management, importing and reconciling data.
+Preferred: experience with Azure Synapse Analytics, Azure Databricks, or other Big Data Platforms and EDLs.
+Preferred: expertise with Power BI (e.g., Data Modelling, DAX, Power Query), or other data visualization tools such as Tableau.
+Advanced technical knowledge of data and data concepts; ability to educate others.
+Detail-oriented with a problem-solving mind set.
+Data-driven with excellent communication and team collaboration skills.
+Results-oriented in prioritizing and meeting deadlines.
+Strong commitment to organizational success.
+Adaptable and open to change.
+
+What can we offer you?
+
+A competitive salary and benefits package.
+Be part of a global network of data scientists committed to advancement.
+A growth trajectory that extends upward and outward, encouraging you to follow your passions and learn new skills.
+A focus on growing your career path with us.
+Flexible work policies and strong work-life balance.
+Professional development and leadership opportunities.
+
+Our commitment to you
+
+Values-first culture We lead with our Values every day and bring them to life together.
+Boundless opportunity We create opportunities to learn and grow at every stage of your career.
+Continuous innovation We invite you to help redefine the future of financial services.
+Delivering the promise of Diversity, Equity, and Inclusion We foster an inclusive workplace where everyone thrives.
+Championing Corporate Citizenship We build a business that benefits all stakeholders and has a positive social and environmental impact.
+
+About Manulife And John Hancock
+
+Manulife Financial Corporation is a leading international financial services group that helps people make their decisions easier and lives better. With our global headquarters in Toronto, Canada, we operate as Manulife across our offices in Asia, Canada, and Europe, and primarily as John Hancock in the United States. We provide financial advice, insurance, and wealth and asset management solutions for individuals, groups and institutions. At the end of 2022, we had more than 40,000 employees, over 116,000 agents, and thousands of distribution partners, serving over 34 million customers. At the end of 2022, we had $1.3 trillion (US$1.0 trillion) in assets under management and administration, including total invested assets of $0.4 trillion (US $0.3 trillion), and segregated funds net assets of $0.3 trillion (US$0.3 trillion). We trade as ‘MFC’ on the Toronto, New York, and the Philippine stock exchanges, and under ‘945’ in Hong Kong.
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com.","Computer Science
+Add,Data Analytics
+Add,Data Mining
+Add,Data Science
+Add,Data Validation
+Add,Database Administration
+Add,Datasets
+Add,Import Operations
+Add,Pattern Recognition
+Add,Statistics
+Add,"
+Senior IT Officer (Data Scientist),"Asian Development Bank (ADB) · Manila, National Capital Region, Philippines 1 week ago · 31 applicants",On-site Full-time Mid-Senior level,"About the job
+Important Information
+
+This is a fixed term appointment with option to renew for an initial period of three (3) years following Section 3.1 (b) of Administrative Order No. 2.01 (“Recruitment and Appointment’). This appointment is not convertible to a regular appointment. After the initial fixed period, ADB has the option to renew the appointment for up to three years or allow it to expire. This decision is based on ADB’s overall interest in retaining the skills and experience of the staff for medium-term work program within the respective group, department, or office, while considering the availability of funding sources.
+
+Overview
+
+Asian Development Bank (ADB) is an international development finance institution headquartered in Manila, Philippines and is composed of 68 members, 49 of which are from the Asia and Pacific region. ADB is committed to achieving a prosperous, inclusive, resilient, and sustainable Asia and the Pacific, while sustaining its efforts to eradicate extreme poverty. ADB combines finance, knowledge, and partnerships to fulfill its expanded vision under its Strategy 2030 .
+
+ADB only hires nationals of its 68 members .
+
+The position is assigned in t he Digital Innovation and Architecture Division (ITIA) within the Information Technology Department (ITD). ITD enables ADB’s IT transformational projects and operations required for the Bank’s activities and knowledge exchange. The office delivers IT services and solutions, provides tools and knowledge platforms, and supports ADB's endeavors to leverage the optimal use of information and communication technology in developing member countries.
+
+ITIA spearheads the development of an IT strategy, aligning ITD with ADB’s businesses. The division ensures that the technology needs are being met, the use of technology in ADB is streamlined, and technology innovation is promoted within the Bank. It also monitors IT governance within ITD.
+
+To view ADB Organizational Chart, please click here .
+
+Job Purpose
+
+Senior IT Officer (Data Scientist) is responsible for collaborating with stakeholders to identify departmental needs, utilizing data analysis techniques such as machine learning and statistical modeling to develop solutions, and presenting their findings for adjustments. The role also involves implementing data collection frameworks, automation tools, and data correlation to extract actionable insights, while requiring qualifications in relevant fields and a commitment to continuous learning in the evolving field of data science. The incumbent will report to designated International Staff.
+
+Responsibilities
+
+ Work actively with various business stakeholders to understand departmental needs and use data to solve these needs. 
+ Perform data investigation and analysis. 
+ Design data modeling processes, predictive models, and create algorithms using data science techniques, including machine learning, statistical modeling, and artificial intelligence. 
+ Present results to stakeholders and make adjustments based on feedback. 
+ Implement and adhere to ADB’s Responsible AI Framework throughout their work. 
+ Collect and analyze data to derive business insights. 
+ Transform data into suitable formats for analysis. 
+ Create new, enterprise frameworks to collect data. 
+ Build tools for automating data collection. 
+ Search through large datasets to extract valuable information. 
+ Generate reports and presentations for business use. 
+ Correlate similar data to identify actionable insights. 
+
+Relevant Experience & Requirements
+
+ A Bachelor's degree in computer engineering, electrical engineering, computer/data science, mathematics, or statistics, preferably with Master’s Degree or equivalent. 
+ At least 8 years work experience and at least 4 years of supervisory experience. 
+ Experience in artificial intelligence and machine learning. 
+ Familiarity with data management tools. 
+ Excellent analytical, technical, and problem-solving skills. 
+ The ability to communicate complex data in a simple and actionable manner. 
+ Data Scientists should excel in the following areas: 
+ Statistical Analysis: Identifying data patterns and anomalies to discover solutions within the data.
+ Machine Learning: Developing algorithms and statistical models for objective data analysis.
+ Computer Science: Applying principles of numerical analysis, software engineering, database systems, and artificial intelligence.
+ Programming: Writing computer programs to analyze data, using languages like SQL, Java, Python, and R.
+ Data Storytelling: Communicating actionable insights to non-technical audiences and facilitating cross-departmental communication. Project Management: Effective project management skills can help in managing complex data science projects, including setting timelines, prioritizing tasks, and managing resources efficiently.
+ Complex problems - Data Scientists should be able to break down complex problems into manageable components and formulate data-driven solutions.
+ Project Management: Effective project management skills can help in managing complex data science projects, including setting timelines, prioritizing tasks, and managing resources efficiently.
+ Excellent written and verbal communication skills in English is required. 
+ Good computer skills; familiar with computer systems used generally in multilateral organizations. 
+ Able to work with individuals from different cultural/national backgrounds. 
+ Able to manage priorities and workload within general schedule of work, instructions and standardized practices. 
+ Able to work collaboratively with teams as a constructive team member. 
+ Please refer to the link for ADB Competency Framework for NS3. 
+
+ General Considerations 
+
+The selected candidate, if new to ADB, is appointed for an initial term of 3 years.
+
+ADB offers competitive remuneration and a comprehensive benefits package . Actual appointment salary will be based on ADB’s standards and computation, taking into account the selected individual’s qualifications and experience.
+
+ADB seeks to ensure that everyone is treated with respect and given equal opportunities to work in an inclusive environment. ADB encourages all qualified candidates to apply regardless of their racial, ethnic, religious and cultural background, gender, sexual orientation or disabilities. Women are highly encouraged to apply.
+
+ Please note that the actual level and salary will be based on qualifications of the selected candidate. 
+
+
+Primary Location: Asian Development Bank Headquarters-Philippines-Manila
+
+Department: Information Technology Department
+
+Division: Digital Innovation and Architecture Division, ITD
+
+Staff Category: National Staff (Multiple Vacancies)
+
+Position Level: NS 3
+
+Job Posting: 15-Dec-2023, 9:27:00 AM
+
+08-Jan-2024, 11:59:00 PM","ADB
+Add,Communication
+Add,Communication Training
+Add,Computer Science
+Add,Data Storytelling
+Add,Databases
+Add,Oral Communication
+Add,Presentations
+Add,Responsible AI
+Add,Supervisory Skills
+Add,"
+Data Scientist,"Standard Chartered Bank · Makati, National Capital Region, Philippines Reposted 3 months ago · 77 applicants",On-site Full-time Entry level,"About the job
+Role Responsibilities
+
+We are looking for a Data Scientist with strong data and analytical skills, you will be tasked with managing all aspects any new work/project assessments thoroughly from inception to delivery. You will need to build close working relationships with COO business and CDO in order to gather specific modelling requirements and define and scope the work. In addition, as Data Scientist you will also work closely with internal staff, clients and 3rd parties.
+
+Responsibilities
+
+Design Machine Learning, Natural Language and Decision Optimisation applications architecture.
+Design ML, NLP and DO models, algorithms for predictive & prescriptive analytics.
+Translate business requirements to reporting dashboard and analytics.
+Perform advanced analytics and statistical modelling on structured and unstructured data.
+Work with software engineers to integrate and deploy AI applications.
+Assist in the creation of data definitions for new database file/table development and/or changes to existing ones as needed for analysis.
+Support the business with clear and insightful analysis applying advanced modelling techniques leveraging the data at hand
+Respond to and resolve data mining performance issues. Monitor data mining system performance and implement efficiency improvements. 
+
+Our Ideal Candidate 
+
+7+ years work experience in statistical modelling, data visualisation and artificial intelligence
+Experience on high volume projects handling in BI and AI/ML.
+Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications
+
+Role Specific Technical Competencies
+
+Communication Skills
+Logical thinking Advanced
+Data Science, Statistics Advanced
+Machine Learning, NLP Advanced
+SQL Core
+
+About Standard Chartered
+
+We're an international bank, nimble enough to act, big enough for impact. For more than 160 years, we've worked to make a positive difference for our clients, communities, and each other. We question the status quo, love a challenge and enjoy finding new opportunities to grow and do better than before. If you're looking for a career with purpose and you want to work for a bank making a difference, we want to hear from you. You can count on us to celebrate your unique talents. And we can't wait to see the talents you can bring us.
+
+Our purpose, to drive commerce and prosperity through our unique diversity, together with our brand promise, to be here for good are achieved by how we each live our valued behaviours. When you work with us, you'll see how we value difference and advocate inclusion. Together we:
+
+Do the right thing and are assertive, challenge one another, and live with integrity, while putting the client at the heart of what we do
+
+Never settle, continuously striving to improve and innovate, keeping things simple and learning from doing well, and not so well
+
+Be better together, we can be ourselves, be inclusive, see more good in others, and work collectively to build for the long term
+
+In line with our Fair Pay Charter, we offer a competitive salary and benefits to support your mental, physical, financial and social wellbeing.
+
+ Core bank funding for retirement savings, medical and life insurance, with flexible and voluntary benefits available in some locations
+
+Time-off including annual, parental/maternity (20 weeks), sabbatical (12 weeks maximum) and volunteering leave (3 days), along with with minimum global standards for annual and public holiday, which is combined to 30 days minimum
+
+Flexible working options based around home and office locations, with flexible working patterns
+
+Proactive wellbeing support through Unmind, a market-leading digital wellbeing platform, development courses for resilience and other human skills, global Employee Assistance Programme, sick leave, mental health first-aiders and all sorts of self-help toolkits
+
+A continuous learning culture to support your growth, with opportunities to reskill and upskill and access to physical, virtual and digital learning
+
+Being part of an inclusive and values driven organisation, one that embraces and celebrates our unique diversity, across our teams, business functions and geographies - everyone feels respected and can realise their full potential.
+
+Recruitment assessments - some of our roles use assessments to help us understand how suitable you are for the role you've applied to. If you are invited to take an assessment, this is great news. It means your application has progressed to an important stage of our recruitment process.
+
+Visit our careers website www.sc.com/careers
+
+Job: Technology
+
+Primary Location: Asia-Philippines-Makati City
+
+Schedule: Full-time
+
+Employee Status: Permanent
+
+Posting Date: 22/Aug/2023, 3:22:04 AM
+
+Unposting Date: Ongoing","Artificial Intelligence (AI)
+Add,Business Requirements
+Add,Critical Thinking
+Add,Dashboards
+Add,Data Science
+Add,Data Visualization
+Add,Natural Language Processing (NLP)
+Add,Statistical Modeling
+Add,Unstructured Data
+Add,Visualization
+Add,"
+Data Scientist,Staffing Ninja · Philippines 1 week ago · 18 applicants,Remote Full-time Mid-Senior level,"About the job
+Roles and Responsibilities
+● Design and develop forecasting, predictive solutions for business, using Machine
+● learning algorithms, as per requirement.
+● Decide and suggest the right ML algorithms and models for a given solution.
+● Ability to guide junior data engineers, software engineers, data scientists on the best
+● solution and trouble-shoot on data science related issues.
+● Provide expert thought in data analysis in different practical business situations.
+● Engage with clients to understand business problems and come up with approaches to solve
+● them.
+● Ability to articulate Analytics/Data Science solutions in an understandable manner to clients.
+● Guide, mentor, and coach junior team members
+ 
+Requirements:
+●  Engineering degree in any discipline or a Science graduate
+● 6+ years in Data science / analytics / Data science project lead
+● Proficiency in data science, AI / machine learning techniques, models, and solutions.
+● Good understanding of regression (Linear/Non-linear), classification, clustering, Time Series
+● analysis, Text and Image analytics
+● Good understanding of statistical &amp; data mining techniques
+● Hands-on Experience in building Machine Learning models in Python
+● Ability to collect, clean, and engineer large amounts of data using SQL and other techniques
+● Can make use of statistical tools for data analysis
+● Data visualization skills Power BI or Tableau to bring out valuable insights from data
+● Experience working in AWS cloud platform
+● Experience with microservice architecture
+● Knowledge in REST web service development
+● Familiarity with Java Script (Node JS etc.), CSS, etc.","Applications Delivery
+Add,Cascading Style Sheets (CSS)
+Add,Embedded Software
+Add,Embedded Systems
+Add,Front-End Development
+Add,HTML
+Add,JavaScript
+Add,React.js
+Add,TypeScript
+Add,User Acceptance Testing
+Add,"

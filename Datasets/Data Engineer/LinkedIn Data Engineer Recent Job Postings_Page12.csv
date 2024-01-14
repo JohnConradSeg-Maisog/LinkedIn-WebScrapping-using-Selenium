@@ -1,0 +1,1184 @@
+Title,CompanyDetails,JobDetails,JobDescription,JobSkills
+Sr Statistical Programmer,"Dexcom · Manila, National Capital Region, Philippines 2 weeks ago · 2 applicants",On-site Full-time,"About the job
+About Dexcom
+
+Founded in 1999, Dexcom, Inc. (NASDAQ: DXCM), develops and markets Continuous Glucose Monitoring (CGM) systems for ambulatory use by people with diabetes and by healthcare providers for the treatment of people with diabetes. The company is the leader in transforming diabetes care and management by providing CGM technology to help patients and healthcare professionals better manage diabetes. Since the company’s inception, Dexcom has focused on better outcomes for patients, caregivers, and clinicians by delivering solutions that are best in class - while empowering the community to take control of diabetes. Dexcom reported full-year 2022 revenues of $2.9B, a growth of 18% over 2021. Headquartered in San Diego, California, with additional offices in the Americas, Europe, and Asia Pacific, the company employs over 8,000 people worldwide.
+
+About Dexcom:
+
+Dexcom, Inc. empowers people to take control of diabetes through innovative continuous glucose monitoring (CGM) systems. Headquartered in San Diego, California, Dexcom
+
+has emerged as a leader of diabetes care technology. By listening to the needs of users, caregivers, and providers, Dexcom simplifies and improves diabetes management around
+
+the world.
+
+Summary:
+
+Performs the design, development, modification and evaluation of technical infrastructure to expedite conduct and evaluation of clinical trials and basic research. Performs
+
+statistical analysis and develops tracking systems to determine the efficiency of clinical trials. Evaluates databases and statistical analysis programs and interacts with computer
+
+groups to determine hardware/software compatibility. Maintains expertise in state-of-the-art data manipulation and statistical analyses.
+
+Essential Duties And Responsibilities:
+
+The incumbent will generate statistical programming for all clinical trials, including but not limited to data validations, statistical analysis, and report generation (to create
+tables, figures and listings).
+Oversee programming activities by external vendors
+Provide input in developing CRF, database, data validation plan, and specifications of analysis datasets
+Review eCRF (EDC sytem) annotations and data specifications to provide input to Data Management Team for analysis needs
+Check for consistency and adequacy of eCRF and database (EDC System) for analysis needs
+Provide support to Data Management Team with their data validation plan or data management plan in later stages of product development or post-market studies
+Write or review analysis programs as specified in the protocol or the Statistical Analysis Plan (SAP)
+Write or modify efficient design and code SAS programs using BASE/SAS, SAS/STAT, SAS/GRAPH, SAS/ETS, SAS/IML, and SAS MACROS
+Establish and monitor of data transfer specifications across different data environment for ongoing trials to identify study conduct or data quality issues
+Review or author statistical programming related Standard Operating Procedures or Working Instructions.
+Participate in operations meetings, address issues and represent the biostatistics team at meetings with cross-functional teams, contract organizations, and regulatory
+agencies, when necessary
+Assumes and performs other duties as assigned.
+
+Required Qualifications:
+
+At least 5 years of experience in statistical programming in clinical environments and biomedical industry is required.
+A working knowledge of templates utilities, such as SQL, and SAS, such as SAS advance, SAS macro, and SAS SQL are required. Data conversion knowledge and skills
+to/from various data format, such as xml, csv, excel and SAS, are required.
+Knowledge in R, Python, MatLab, or any other computer language skill is highly valued. Must be able to work with minimal oversight and work as a member of a project
+team.
+
+Experience And Education Requirements:
+
+Typically requires a Bachelor’s degree in a technical discipline, and a minimum of 5-8 years related experience or Master’s degree and 2-5 years equivalent industry experience or a PhD and 0-2 years experience.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Dexcom. Only authorized staffing and recruiting agencies may use this site or to submit profiles, applications or resumes on specific requisitions. Dexcom does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to the Talent Acquisition team, Dexcom employees or any other company location. Dexcom is not responsible for any fees related to unsolicited resumes/applications.","Clinical Trials
+Add,Computerized System Validation (CSV)
+Add,Data Conversion
+Add,Data Manipulation
+Add,Data Validation
+Add,Macros
+Add,SAS (Software)
+Add,Statistical Analysis
+Add,Statistical Programming
+Add,eCRF
+Add,"
+Business Intelligence Developer,"Asia Peopleworks Inc · Mandaluyong, National Capital Region, Philippines 1 week ago · 10 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Works as an individual or as part of a team in identifying business intelligence, reporting and data analysis (advanced analytics/statistical analysis) needs of the client. Designs data models for medium-to-large applications in full or in part as assigned. Takes charge in the preparation of the data model and ETL requirements and design. Develops corporate and adhoc reports.
+Ensures that the assigned data models and/or components (data mart and data stores/warehouse and Bi application) are designed to meet customer needs. Provides data that is accurate, reliable, and ensures that the information is easily available to the client for direct consumption, or integration with other systems.
+ Ensures that the system is accurately coded and tested in accordance with requirements and design documents; and fully documented in accordance with the company’s standards and methods. Provides documentation that is clear and easy to understand.
+ Works with ITD technical support staff to ensure assigned systems are properly operated and maintained.
+ Regularly submits reports on progress status including problems encountered and resource requirements of assigned application systems
+ 
+Requirements:
+ 
+At least 5 years' experience in modeling data, ETL analysis and design, including comprehensive experience in SQL programming.
+ Proficiency in SQL programming, Oracle RDBMS, creating data models using Cognos Framework Manager, creating ETL scripts and jobs using Cognos Data Manager or similar BI tool; creating reports and analytics using Cognos Report/Analysis/Query/Metric Studios or similar BI tool.
+ Proficiency in SQL performance analysis and tuning.
+ Excellent ability in systems analysis and design, and in the preparation of functional and detailed specifications documents.
+ Extensive knowledge in analysis, design, development and impementation of BI systems using standards- and best practices-based methodologies and frameworks and in the use of associated roductivity tools.
+ **Location - Mandaluyong
+**Hybrid work set-up
+**Dayshift","Business Intelligence Tools
+Add,Cognos ReportNet
+Add,ETL Tools
+Add,Extract, Transform, Load (ETL)
+Add,IBM Cognos Analytics
+Add,Microsoft SQL Server
+Add,Oracle Database
+Add,SQL
+Add,"
+Site Reliability Engineer,"Broadridge · Manila, National Capital Region, Philippines Reposted 1 week ago · 14 applicants",Hybrid Full-time,"About the job
+At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.
+
+At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.
+
+Part of a global team of production experts working in a “Follow the Sun” support model, we’re now looking for a Site Reliability Engineer to join us in Manila. The team ensures smooth operations of the Client’s hosted platforms, guaranteeing the availability, security, integrity, and performance of all systems (24/7). Involved at the very beginning of client projects, the Site Reliability Engineer provides technical expertise and guidance to make sure the proposed solution is fully aligned with production standards and best practices. If you have solid experience in production and enjoy fast-paced environments,
+
+Must be willing and open to work in a compressed work schedule as needed, such as 40-hour for 4 days or similar schedule. we’d love to get in touch with you!
+
+Main Responsibilities
+
+Platform Monitoring, Incident management & Level 2 Support
+
+Management of daily operations of client’s hosted platforms, proactive monitoring of Global Systems
+Participation in production shift duties to cover APAC, EMEA, and Americas regions
+Incident coordination/crisis response & stakeholder communication
+Timely resolution of incidents & escalation, preparation of post-mortem, tracking & follow up
+Regular review of system’s capacity and performance, initiate upgrades/maintenance as required
+Produce daily health checks and customer status reports
+Leverage data analytics to anticipate trends and potential challenges
+
+Implementation & Change Management
+
+As a gatekeeper, owns the change control process with clients, partners, and internal teams
+Review and deploy customer platforms with the assistance of SRE technical experts
+Assess, schedule, and deploy platform enhancements/upgrades and new business features
+Improve and automate production tools/scripts (monitoring, failover, checks, backup/recovery…)
+
+Project & Engineering
+
+Manage technical projects (production tools enhancements: monitoring, scripting, deployment tools...)
+Run proof of concepts and validate new technical solutions (high availability mechanism, CI/CD pipeline...)
+Participate in global efforts to roll out large-scale platforms (client onboarding, low latency solutions, Cloud...)
+
+Skills And Qualifications
+
+Degree in computer science, software engineering, or a related field
+Minimum 3 years of experience as “Application Support Engineer” in the financial industry
+Excellent analytical / troubleshooting skills with a strong production-oriented mindset
+Good general IT knowledge (OS Linux, networking, systems/database, messaging, Cloud...)
+Proficient with one or more scripting/programming languages: Perl, Python, Java, Shell...
+Knowledge of Agile/DevOps practices, automation tools (Ansible), and CI/CD pipeline
+Strong experience with monitoring platforms (Nagios, ITRS...)
+Available and willing to go the extra mile (weekend / public holiday operations, Production shifts...)
+Familiar with ITIL framework & service management best practices
+Must be willing and open to work in a compressed work schedule as needed, such as 40-hour for 4 days or similar schedule. 
+
+Expected Behavior
+
+Committed, self-motivated, and fast learner
+Strong team spirit with excellent communication
+Proactive, independent, and proven ability to work under pressure
+Fluency in English essential
+
+Broadridge associates helped us envision our Connected Workplace, a work model that allows associates around the globe to take advantage of the benefits of both on-site and off-site work to support our clients, one another, and the communities where we live and work. Our Connected Workplace is grounded in the concept of FACS: Flexible, Accountable, Connected, and Supported, which is our commitment to our associates. FACS supports our strong culture and allows us to achieve business goals while supporting meaningful work-life integration for our associates.
+
+We are dedicated to fostering a diverse, equitable, and inclusive environment and committed to providing a workplace that empowers associates to be authentic and bring their best to work. We believe that associates can only do their best when they feel safe, understood, and valued, and we work diligently and collaboratively to ensure Broadridge is a company—and ultimately a community—that recognizes and celebrates diversity in all its dimensions.","Automation
+Add,Communication
+Add,Computer Science
+Add,Proactive Monitoring
+Add,Reliability
+Add,Site Reliability Engineering
+Add,Software Development
+Add,Stakeholder Relations
+Add,Troubleshooting
+Add,"
+"Senior Mobile Engineer, gt.school (Remote) - $100,000/year USD","Crossover  · National Capital Region, Philippines Reposted 6 days ago · 6 applicants",Remote Full-time Mid-Senior level,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, gt.school. Have you got what it takes?
+
+Are you passionate about creating high-quality applications that truly matter? We’re looking for someone who values clean, modular code, aligns with our emphasis on high-quality work, and is eager to take ownership of a product that is pivotal to our vision. If shaping the next generation of grade school education sounds exciting, this opportunity might be perfect for you.
+
+At gt. school, our focus isn’t just on creating another app; we're pioneering an innovative approach to learning by integrating modern techniques like advanced AI, adaptive computer-based training, gamification, and continuous feedback. At the heart of it all, our app draws inspiration from popular platforms like TikTok, allowing learners to have an immersive feed experience, making education interactive, engaging, and truly enjoyable.
+
+This role demands ownership and independence; we believe that restricting oneself to front-end or back-end is counterproductive. Here, we advocate for full-spectrum development. If a tweak in the API or a backend validation is needed, we trust you'll handle it. Your decisions will significantly shape the product and ensure a seamless and intuitive experience for our users.
+
+Your responsibilities will include transforming UI designs into functional app features, investigating and fixing bugs, and collaborating with our product and backend teams to ensure consistent functionality. While the fast-paced environment is challenging, the reward in terms of both personal growth and the tangible impact on students is immense.
+
+If this resonates with you, and you're up for the challenge of making a significant difference in the EdTech space, we would love to hear from you!
+
+What You Will Be Doing
+
+Taking high-fidelity UI designs and transforming them into interactive and efficient mobile app features
+Integrating screens with our modern GraphQL APIs, ensuring data consistency and responsiveness
+Participating in both automated and manual reviews to maintain our standards for clean, modular code
+Collaborating with product managers and UX designers to ensure the functionality, reliability, and user-friendliness of the app
+
+What You Won’t Be Doing
+
+Building components from scratch - you'll leverage existing high-quality solutions for efficiency
+Getting stuck in endless approval loops - we value swift decision-making and autonomy
+Isolated tasks - you will collaborate closely with a supportive product and backend team
+
+Senior Mobile Engineer Key Responsibilities
+
+Delivering a high-quality application that serves as the primary interface for students in our cutting-edge computer-based learning environment
+
+Basic Requirements
+
+At least 5 years of experience developing mobile applications
+At least 2 years in a leadership role, making technical design decisions for mobile applications
+Experience using React Native for cross-platform app development
+
+About Gt.school
+
+GT School is an EdTech Startup that leverages technology, AI, and subject matter experts to cultivate a new way of learning. Our unique approach leverages 50+ years of learning science, cutting-edge data analytics and high-performance coaching. In doing so, we can help students learn more, learn faster, and learn better - and have fun while doing it. We are a remote-first company that hires globally via Crossover.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4581-PH-NCRNatio-SeniorMobileEn.025","Android Development
+Add,Application Programming Interfaces (API)
+Add,Mobile Application Development
+Add,Mobile Applications
+Add,React Native
+Add,Responsiveness
+Add,Swift (Programming Language)
+Add,Technical Design
+Add,User Interface Design
+Add,iOS Development
+Add,"
+Web Developer,"Newfold Digital · Cebu, Central Visayas, Philippines 2 weeks ago · 81 applicants",Hybrid Full-time Entry level,"About the job
+Who We Are.
+
+Newfold Digital is a leading web technology company serving millions of customers globally. Our customers know us through our robust portfolio of brands. We have some of the industry's most prominent and storied go-to-market brands, including Bluehost, HostGator, Domain.com, Network Solutions, Register.com and Web.com. We help customers of all sizes build a digital presence that delivers results. With our extensive product offerings and personalized support, we take pride in collaborating with our customers to serve their online presence needs. The strength of our company lives in the intersection of our people, our customers, and our brands.
+
+The Web Developer will create website using the WordPress platform serving APAC region.
+
+What you’ll do & how you’ll make your mark
+
+Participates in the project walk through with the Project Coordinator and Web Designer to discuss the scope and timeline
+Collaborates in meetings to discuss project ideas, website functionalities, and code reviews
+Develops projects based on the agreed final project goal
+Coordinates with the Project Coordinator for any queries or clarifications regarding project details
+Coordinates with the Team Leader on any technical challenges on the project handled
+Conducts website testing to ensure that the web functionalities work and are compliant to our website standards
+Submits the output to the Quality Control Team for the assessment on the web standards and site functionalities
+Fixes bugs and implements possible solutions for the quality control kickbacks
+Executes revisions based on the feedback of the client
+Complies with the requirements prior to a website going live after getting the client’s approval
+Sends the website documentation to the Project Coordinator assigned to the project
+Updates the status of the project management tool based on the progress work
+Researches new technologies that are required to improve and deliver high performing websites to our customers
+Takes responsibility and ownership on projects assigned from the beginning till end of the development cycle
+Ensures that the website developed is delivered timely and exceeds customer’s expectations and/or included all requested requirements
+Collaborates in team meetings as required to discuss project ideas and during code reviews
+Follows best coding practices, complies with the QC’s Website Standards, and observe processes implemented in the department
+Develops and maintains special projects relating to custom solutions
+
+
+Who you are & what you’ll need to succeed.
+
+Must have at least 1 year experience as Web Developer
+Must have working knowledge in HTML5, CCS3, MySQL, PHP
+Preferably with experience in any CMS template, plugin and custom feature creation
+Preferably familiar with WordPress, Wordpress codex, Wordpress rest, API/Filters/Hooks and eCommerce development
+Preferably with experience in Git/GitHub/GitLab, Git Visualization tools
+Preferably with experience in other CMS frameworks, CSS Frameworks, JS Frameworks, Task Runners/Module Bundlers
+
+
+Why you’ll love us.
+
+Work-life balance. Our work is thrilling and meaningful, but we know balance is key to living well.
+We celebrate one another’s differences. We’re proud of our culture of diversity and inclusion. We foster a culture of belonging. Our company and customers benefit when employees bring their authentic selves to work. We have programs that bring us together on important issues and provide learning and development opportunities for all employees. We have 20 + affinity groups where you can network and connect with Newfolders globally.
+We care about you. We are a family, and we care about you and your family’s physical and mental health by providing competitive HMO benefits – 175k MBL with one free dependent upon one year of service! We also give out Punctuality Bonus, Generous Vacation policy, and much more!
+Where can we take you? We’re fans of helping our employees learn different aspects of the business, be challenged with new tasks, be mentored, and grow their careers. Unfold new possibilities with #teamnewfold!
+Must have at least 1 year experience as Web Developer
+Must have working knowledge in HTML5, CCS3, MySQL, PHP
+Preferably with experience in any CMS template, plugin and custom feature creation
+Preferably familiar with WordPress, Wordpress codex, Wordpress rest, API/Filters/Hooks and eCommerce development
+Preferably with experience in Git/GitHub/GitLab, Git Visualization tools
+Preferably with experience in other CMS frameworks, CSS Frameworks, JS Frameworks, Task Runners/Module Bundlers
+
+
+This Job Description includes the essential job functions required to perform the job described above, as well as additional duties and responsibilities. This Job Description is not an exhaustive list of all functions that the employee performing this job may be required to perform. The Company reserves the right to revise the Job Description at any time, and to require the employee to perform functions in addition to those listed above.","Code Review
+Add,Doctrine (PHP)
+Add,HTML5
+Add,MySQL
+Add,PHP
+Add,SQL
+Add,Web Design
+Add,Web Development
+Add,Web Standards
+Add,Web Testing
+Add,"
+"Staff Machine Learning Engineer (Bangkok based, relocation provided)","Agoda · Manila, National Capital Region, Philippines 2 days ago · 1 applicant",Full-time Mid-Senior level,"About the job
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world.
+
+Get to Know Our Team
+
+The Engineering department oversees all Agoda’s ML and software related requirements. Our goal is to enable and increase Agoda’s business through creative approaches and the implementation of powerful resources such as operational and analytical databases, ML driven solutions, queue systems and data monitoring tools. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the engineering team plays at Agoda is critical as business users, product managers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the ML engineering squad, but also the reward. We work across structured and non-structured data at scale. For example, our current ML models process millions of images every day to try and enhance the experience that our users get from our app.
+
+Why Agoda Engineering Team (ML role)?
+
+Our engineering teams are at the intersection of business analytics, ml engineering, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, ml modeling and computation at tens of PB Scale. We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with ML products/tools, shared frameworks, and ML services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast-changing world. We are a small but passionate team with people from different nationalities working together on a single goal.
+
+In this Role, you will get to:
+
+ Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing ML systems and processes.
+ Build, administer and scale ML processing pipelines.
+ Be comfortable navigating the following technology stack: Python3, Pyspark, scripting (Bash/Python), Hadoop, SQL, S3 etc.
+ Should be able to understand internals of ML models such as Random Forest, CNN, Regression models, etc
+ Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality.
+ Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks.
+ We believe in end-to-end ownership; this role will involve taking ML models to production at a scale.
+
+What You’ll need to Succeed:
+
+ Bachelor’s degree in computer science /information systems/engineering/related field
+ 8+ years of experience in software engineering with a minimum of 4+ years in ML
+ Good experience in Pyspark
+ Expert level understanding of Python with design patterns and object-oriented programming.
+ Experience debugging and reasoning about production issues is desirable.
+ A good understanding of data architecture principles preferred.
+ Any other experience with Big Data technologies / tools
+ SQL experience
+ Analytical problem-solving capabilities & experience.
+ Systems administration skills in Linux
+ A strong engineering driven mindset will be required to succeed in this role.
+
+It’s great if you have:
+
+ Good understanding of Hadoop ecosystems
+ Experience working with Open-source products
+ Experience with Scala development
+ Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.","Automation
+Add,Big Data
+Add,Computer Science
+Add,Data Mining
+Add,Machine Learning
+Add,Problem Solving
+Add,PySpark
+Add,Python (Programming Language)
+Add,Scala
+Add,Software Development
+Add,"
+DevOps Engineer (with E-Commerce experience),"Asia Peopleworks Inc · Muntinlupa City, National Capital Region, Philippines 1 week ago · 12 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Design, maintain and evolve architectures and automation for zero-downtime deployments.
+Work with Docker and Kubernetes to scale and monitor microservices.
+Use tools like Helm and Gitlab CI to automate deployments.
+Work with our development teams to help them set up automation pipelines and solve problems.
+Collaborate with other DevOps engineers to make the best solution possible.
+Build geo-distributed infrastructure
+Participate in an on-call schedule and act in a server/technical support capacity to the team.
+
+Qualifications:
+  At least 5 years proven experience is a must for this role.
+ Proficient in Kubernetes, helmcharts templating, Docker and Docker composer
+ Working knowledge of Azure cloud services in IaaS, PaaS, and coming trends in the Cloud space
+ Experience in installing enterprise platforms, HCL 9.1 installation and management knowledge is a plus
+ Confident configuring CD/CI pipeline based on Agile tools and methodologies (Jira, GitLab, Confluence) in a cloud based (Azure, AWS, GCP) environment
+ Proficient with relational database configuration and maintenance (Oracle, Postgres, MySql)
+ Familiar with Search Engines (SOLR, Elastic Search)
+ Unix SO, shell scripting & make files
+ Knowledge of Network configuration cloud environment (Azure AWS, GCP)
+ APM tools configuration (New Relic, Dynatrace, …)
+ Logging aggregator knowledge like ELK or Splunk
+ Performance monitoring across all app stack (DB, WebApp, Cache, CDN). 
+ Able to design and implementing performance test
+ Akamai CDN basic knowledge (Kona, Image Manager)
+ 
+Office Location: Filinvest Alabang
+Office Set-up: Hybrid
+Work Shift: Morning/Mid Shift
+
+Interested applicants may send their resume to vin.espinosa@apwtech.com.ph so we can discuss further about the opportunity!","Databases
+Add,DevOps
+Add,Docker Products
+Add,Kubernetes
+Add,Microservices
+Add,Microsoft Azure
+Add,Oracle Database
+Add,PostgreSQL
+Add,Unix
+Add,"
+Senior ABAP Developer (Midshift),"Procter & Gamble · Manila, National Capital Region, Philippines Reposted 1 week ago · 7 applicants",Full-time,"About the job
+Job Location
+
+Manila
+
+Job Description
+
+The Human Resources Information Services (HRIS) organization provides enterprise-wide people and employee related services to enable the P&G business to win. In this role, you will report to an IT Director. You will lead starting up our HRIS ABAP development team that covers multiple areas including ABAP Object-Oriented programming, customization and enhancement! All this with knowledge on SAP Human Capital Management module that includes Personnel Administration, Organizational Management (OM), Time Management (TM), Payroll and Benefits. In addition to this, experience in employee data migration and integration with other systems is a plus.
+
+The work would include but not limited to problem, change and incident management support, solutions proof of concepts, upgrades, etc. You will lead change management process for catalogs across the HR SAP R3 landscape. Also, provide the right level of governance to ensure standard or in-house security solutions implemented across the landscape are working per design. The candidate must be agile as the work can be fluid at times.
+
+Essential Responsibilities:
+
+Lead requirements gathering, design, development, testing and documenting ABAP solutions for SAP HCM
+Design team structure, build and lead the team with leadership skills
+Able to write, debug, optimize ABAP code and documentation
+Leads team resource planning and development of long-term strategic goals for solution and organization in conjunction with leadership team.
+Familiar with ITIL Practices to enable effective transition to ongoing operations
+Flexible working on a weekend or holidays to implement a Change Request.
+Craft documentation which may include program specification, technical design, code documentation, user manual etc.
+Code review and optimization of ABAP programs.
+Provide help and guidelines to the key partners in any ABAP solution: customizations, improvements, and enhancements.
+Training and knowledge transition to other teammates
+
+Job Qualifications
+
+The candidate will have or be willing to gain knowledge in the following areas:
+
+At least 5+ years of SAP ABAP Development for HCM (PY, PA, OM, TM and Benefits), ABAP Object-Oriented, Integrations and data migrations, SAP transactions/skills related. 
+Graduate or Post-graduate degree in Computer Science or equivalent 
+has experience handling a team or leading projects is helpful but not required 
+Soft skills including ability to lead vendor resources, ability to work in a Global group with limited on-site teammates, strategic team design and development, creative problem solving, customer service capability (including knowing when to elevate issues or provide constructive feedback), and ability to engage in all parts of the support model. Project Management, agile methodologies, SAP HANA, SAP FIORI, OData Services skills are a plus.
+Willing to work on a midshift schedule and be on site at least 2 days a week
+
+About Us
+
+We produce globally recognized brands, and we grow the best business leaders in the industry. With a portfolio of trusted brands as diverse as ours, it is paramount our leaders can lead with courage the vast array of brands, categories, and functions. We serve consumers around the world with one of the strongest portfolios of trusted, quality, leadership brands, including Always®, Ariel®, Gillette®, Head & Shoulders®, Herbal Essences®, Oral-B®, Pampers®, Pantene®, Tampax® and more. Our community includes operations in approximately 70 countries worldwide.
+
+Visit http://www.pg.com to know more.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate against individuals on the basis of race, color, gender, age, national origin, religion, sexual orientation, gender identity or expression, marital status, citizenship, disability, HIV/AIDS status, or any other legally protected factor.
+
+Job Schedule
+
+Full time
+
+Job Number
+
+R000091650
+
+Job Segmentation
+
+Experienced Professionals (Job Segmentation)","ABAP
+Add,Code Review
+Add,Computer Science
+Add,Documentation
+Add,Human Capital Management
+Add,On Site
+Add,PY
+Add,Requirements Gathering
+Add,SAP Products
+Add,Statutory Accounting Principles (SAP)
+Add,"
+QA Automation Engineer,"Baker McKenzie · Taguig, National Capital Region, Philippines 1 week ago · 21 applicants",Hybrid Full-time Associate,"About the job
+The QA Automation Engineer will manage systems quality to ensure high-quality internally developed solutions and integrations are delivered to the Firm’s product owners and users. The role holder will lead any QA Automation Testing from Functional Test to Load and Performance Testing as well as the training sessions for the team on the various QA Testing Tools.
+They also provide feedback and recommendations (resolution and preventive action) to ensure that systems introductions, enhancements, and new product customizations meet the business needs.
+
+Major tasks are designing, creating, enhancing, and executing automated test scripts and providing detailed reports to the project teams. This position has a responsibility for coordinating the Automation testing with the QA Team and other project teams involved to complete this kind of activity.
+
+Responsibilities:
+Leads the Testing Automation projects
+Must be able to design, develop, execute, and manage automated scripts in HP Tools: HP UFT, ALM, Performance Center, and Microsoft Visual Studio Test Professional
+Implement QA Automation process and best practices
+Prepares Test Automation Plan by understanding application requirements and coordinating with the Test Leads, Project Managers, Development Leads, and other Project Team resources
+Design, create and execute manual test scripts when needed
+Design and implement automated test scenarios
+Monitor test results up to closure and communicates to the project teams
+Provides feedback and recommendations (resolution and preventive actions) to the development team on defects detected in the testing
+Lead, mentor, and help up-skill other members of the team when it comes to Automated Testing
+Provides post-deployment testing, coordination, and support
+Provides recommendations for improving QA Standards and Processes, particularly in Automation Testing
+
+Responsibility for Results:
+Lead the automation testing activity for projects
+Execution of Test Scripts according to agreed-upon schedules Complete Test results
+Functional knowledge of the applications assigned
+Flexible to changing needs, easily adaptable to new situations and directions
+Open for work on the weekend for deployment testing
+
+Skills and Experience:
+Strong understanding of Software Testing Best Practices, Tools and Methodologies like Agile Methodology and experience creating test scripts based on requirements
+Expertise in VB Scripting
+Proven experience developing automated test systems and scripts beyond record and playback. Specifically developing functions, adding control flow logic, loops, etc.
+Strong experience in at least two languages: C#, VB.NET, ASP.NET, C++, Java
+Experience in testing Mobile Applications
+Working knowledge of SQL and general scripting
+Strong understanding of Cross-Browser compatibility issues and Operating System issues
+Working knowledge of SQL and general scripting
+Strong knowledge and experience in Testing Tools and Methodology (HP QTP/UFT, ALM, Performance Center, Visual Studio Test Professional preferred)
+Experience in VS2012/VS2015
+Open for work on the weekend for Post Deployment testing
+Strong Analytical and Problem-Solving Skills
+Strong verbal and written communication skills, attention to detail, and can work independently
+Must have good collaboration skills
+Can work well with the team","ASP.NET
+Add,C#
+Add,Functional Testing
+Add,HP QuickTest Professional (QTP)
+Add,Java
+Add,Problem Solving
+Add,QA Automation
+Add,SQL
+Add,Test Automation
+Add,Visual Studio
+Add,"
+Cloud Platform Engineer,"Macquarie Group · Manila, National Capital Region, Philippines 2 weeks ago · 21 applicants",Hybrid Full-time,"About the job
+Manila
+
+Help us build the leading industry digital platform with the latest cloud technologies. As a talented Cloud Platform Engineer, you will showcase your deep understanding of Kubernetes and Cloud infrastructure within our team.
+
+At Macquarie, we are working to create lasting value for our communities, our clients and our people. We are a global financial services group operating in 34 markets and with 54 years of unbroken profitability. You’ll be part of a supportive team where everyone - no matter what role - contributes ideas and drive outcomes.
+
+What role will you play?
+
+In the Engineering Enablers team, you will be part of a full lifecycle greenfield team supporting automation tooling and industry leading distributed systems and Kubernetes platforms. We are striving for 100% on cloud, with a massive focus on Google Cloud. You will support our development teams onboard and run their applications on our Google Cloud and Kubernetes platforms.
+
+What You Offer
+
+2-5 years experience running and maintaining cloud solutions that interact with Kubernetes
+2-5 years experience running and maintaining Google Cloud environments, though AWS and Azure experience is also desirable
+Experience supporting development teams, triaging requests and incidents
+Experience with utilising Infrastructure as Code tools
+Experience in managing declarative GitOps pipelines based on ArgoCD
+Experience with monitoring platforms with Prometheus & Grafana
+Real world experience in supporting production applications
+Google Cloud experience is desirable.
+
+We love hearing from anyone inspired to build a better future with us, if you're excited about the role or working at Macquarie we encourage you to apply.
+
+Benefits
+
+Macquarie employees can access a wide range of benefits which, depending on eligibility criteria and location, include:
+
+Hybrid and flexible working arrangements
+One wellbeing leave day per year
+Paid parental leave as well as benefits to support you as you transition to life as a working parent
+Paid volunteer leave and donation matching
+Other benefits to support your physical, mental and financial wellbeing
+Access a wide range of learning and development opportunities
+Employee Assistance Program, a robust behavioural health network with counselling and coaching services
+Recognition and service awards 
+
+About The Corporate Operations Group
+
+In our Corporate Operations Group, you will work at the heart of Macquarie. Join a collaborative team who accelerate digitalisation, sustainability and social impact for the benefit of our people, customers, shareholders and communities. Our teams include technology, digital transformation and data, operations, human resources, business services, corporate strategy and solutions and the Macquarie Group Foundation.
+
+ Our commitment to Diversity, Equity and Inclusion 
+
+We are committed to providing a working environment that embraces diversity, equity, and inclusion. We encourage people from all backgrounds to apply for a role regardless of their identity, including gender, race, ethnicity, cultural identity, nationality, age, sexual orientation, gender identity, intersex status, marital or family status, neurodiversity, religion or belief, disabilities, or socio-economic background.
+
+If you require adjustments to your working arrangements or the recruitment process, please let us know when applying.
+
+About Macquarie
+
+A career at Macquarie means you’ll have the opportunity to develop new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
+
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
+
+Find out more at www.macquarie.com/careers
+
+Job no: COG-975220
+
+Work type: Permanent - Full time
+
+Location: Manila
+
+Category: Mid-level, Technology
+
+Group: Corporate Operations Group
+
+Division: Technology
+
+Recruiter: Gee Quimbo
+
+Opening Date: 08/12/2023",
+IT Infrastructure Engineer,"CloudPay · Makati, National Capital Region, Philippines Reposted 1 week ago · 66 applicants",Hybrid Full-time Entry level,"About the job
+Role Pitch  If you’re a self-starter, that likes a challenge and looking for an exciting new Cloud Infrastructure Engineer role where you will have a real influence and impact on Cloud Infrastructure design, this is the role for you. This is a fantastic opportunity to join a highly skilled, high-functioning team, forming an essential part of a rapidly expanding global business within the technology and financial services space.
+
+CloudPay is towards the end of migrating its data centre hosted services to AWS and is in the early stages of formulating its public cloud tech strategy to keep scaling and make best use of the technology now at its disposal. With a company growing at 30% for 5 years straight, we find ourselves at an inflexion point in our technology stacks and IT organizational structure. CloudPay’s engineering teams build very sophisticated software using open-source technologies with the majority being in Java. We now operate in AWS and are closing out our DC usage. Our systems engineers play a crucial role in the design, building and maintenance of all our software and services.
+
+CloudPay builds, deploys and operates half a dozen customer facing services and many more backend services across 1000+ Linux hosts and AWS-managed services. The ideal candidate will have a good working knowledge of Linux Systems is strong with scripting in various languages, working with AWS and is a strong study of new technology.
+
+ Key Responsibilities  Daily Duties and Main Responsibilities will include:
+
+ Provision and maintain secure cloud infrastructure
+ Partner with scrum teams to deliver software releases
+ Build and manage secure automated systems
+ Maintain complete and comprehensive documentation
+ Manage logging, monitoring and alerting systems
+ Support incidents as they occur and work with teams on preventing future incidents
+ Work closely with engineers across all teams in different parts of the world
+
+ Description  Attributes and Experience Required:
+
+ 3+ years in a similar role
+ Good documentation and communications skills
+ Relevant degree or equivalent experience
+ Experience working with agile teams
+ Keen sense of ownership and drive, delivering on what you and your team have agreed on
+ A good understanding of the following concepts and standard practices:
+ GitOps and ITIL
+ IT security; GDPR, encryption at-rest/in-transit, patching, least-privilege
+ Networking; VPNs, Transit Gateways, routing, DNS, firewalls
+ GitOps and ITIL
+ Experience working with complex and, sometimes, tightly coupled systems
+ Strong experience with the following technology:
+ BASH
+ Puppet and Foreman
+ Rundeck
+ Terraform and AWS
+ Containerisation and microservice architecture
+ Desirable Experience:
+ JIRA, Confluence, Bitbucket
+ Bamboo, Jenkins
+ Apache, Nginx, Tomcat
+ MySQL, MongoDB
+ Ruby, PHP, Python
+ Bamboo, Jenkins
+ AWS: AWS Organisations, VPC, Transit Gateway, Gateway Load Balancer, VPN, Application/Network Load Balancer, ACM, EC2, ECS, EKS, Lambda, IAM, Security Groups, CloudTrail, CloudWatch, RDS, Amazon MQ
+
+ Benefits  Package and Benefits:
+
+ Competitive annual salary and benefits package
+ 18 days annual leave plus public holidays
+ Earned Wage Access (via CloudPay Now app)
+ Flexible remote working
+ 10 days sick leave
+ HMO
+ Personal and professional development opportunities
+ Friendly working environment","Communication
+Add,Digital Authentication
+Add,Domain Name System (DNS)
+Add,General Data Protection Regulation (GDPR)
+Add,GitOps
+Add,Microservices
+Add,Networking
+Add,Puppet (Software)
+Add,Technical Support
+Add,Troubleshooting
+Add,"
+Python Developer,"Millennium Technology Services · Clark Freeport and Special Economic Zone, Central Luzon, Philippines 6 hours ago · 5 applicants",On-site Full-time Mid-Senior level,"About the job
+Job description：
+Team work to analyze requirements, design technical solutions, and write technical documentation during development
+Develop the dashboards in accordance with the design specifications and requirements.
+Maintenance the current dashboards and implement code changes if required
+
+Job requirement：
+Good knowledge in Python
+With basic python skills to do tasks such as define Payslip rules, setup dashboard in odoo.
+Need basic SQL skills, basic database knowledge.
+Knowledge of application testing and documentation writing is a plus
+Be able to communicate in English.
+Accuracy and attention to detail, strong sense of responsibility.
+Be proactive in work, possess coordination skills
+Ability to work teamwork as well as work independently","Business Analysis
+Add,Databases
+Add,English
+Add,Odoo
+Add,Python (Programming Language)
+Add,SQL
+Add,"
+Systems Monitoring Engineer,"ECI · Taguig, National Capital Region, Philippines Reposted 2 weeks ago · 128 applicants",On-site Full-time Entry level,"About the job
+ECI is the leading global provider of managed services, cybersecurity, and business transformation for mid-market financial services organizations across the globe. From its unmatched range of services, ECI provides stability, security and improved business performance, freeing clients from technology concerns and enabling them to focus on running their businesses. More than 1,000 customers worldwide with over $3 trillion of assets under management put their trust in ECI.
+
+At ECI, we believe success is driven by passion and purpose. Our passion for technology is only surpassed by our commitment to empowering our employees around the world.
+
+The Opportunity: 
+
+ECI has an exciting opportunity for a Systems Monitoring Engineer, who will proactively monitor and manage production systems.
+
+In this role, you will monitor alerts related to the infrastructure and application.
+
+This is an Onsite role.
+
+What you will do:
+
+Proactive monitoring and management of production systems.
+Monitor alerts related to the infrastructure and application.
+Identify, capture, evaluate and report metrics and determine trending to drive process and product change.
+Assist peer engineers during alert / alarm remediation.
+Provide analysis and feedback of system operations, performance, and stability to shift lead / supervisor.
+Monitor adherence to guidelines on processing, alerting, maintenance and security.
+Help management in establishing KPI’s, monitor thresholds, communicate metrics, and identify areas for review and improvement.
+Perform service restarts and disk expansions in Windows environment.
+Analyze the alert and gauge the incident priority accordingly.
+Analyze hardware and infrastructure to determine how it relates to the application performance.
+Willing to work in a 9 hour shift job with minimum supervision.
+Hands on experience required on Service-Now, Remedy etc. tools. (ITIL framework preferred).
+Participate in 24/7 on-call support for the collaboration technology environment (P1, Major Incident Management).
+IT best practices for Major Incident Management including detection, triaging, assessment, troubleshooting and restoration (Major Incident management).
+Follow-up with the respective engineering (SME’s) and Technology managers for ensuring root cause analyst (RCA) and E-RFC and RFC (Planned v/s Emergency Change requests).
+Mentors new hire and should be willing to work as a shift lead when required.
+
+Who you are:
+
+College diploma or University degree in the field of Computer Science or equivalent field and/or 5+ years of experience with a minimum of 3 years of end user support.
+2+ years of L1 Monitoring experience, along with Azure and Exchange experience.
+Experience in working on high availability and real time monitoring solutions (CA Spectrum, Nimsoft or other monitoring specific applications)
+Understanding of network / servers and Virtual Machine performance issues.
+Knowledge of Microsoft, Cisco, Citrix, Vmware systems / servers are a plus.
+Strong proven skills in ITIL framework (Especially, Incident, Problem and Change management)
+
+Bonus points if you have:
+
+Demonstrated ability to work in a team environment that requires quick turnaround and quality output.
+Strong analytical, problem-solving and troubleshooting skills
+Excellent communication skills with the ability to speak on varying technical levels
+
+ECI’s culture is all about connection - connection with our clients, our technology and most importantly with each other. In addition to working with an amazing team around the world, ECI also offers a competitive compensation package and so much more! If you believe you would be a great fit and are ready for your best job ever, we would like to hear from you!
+
+ Love Your Job, Share Your Technology Passion, Create Your Future Here!","Amazon Web Services (AWS)
+Add,Citrix Virtual Apps]
+Add,Help Desk Support
+Add,Microsoft Azure
+Add,Service Desk
+Add,ServiceNow
+Add,System Monitoring
+Add,Technical Support
+Add,Ticketing Systems
+Add,VMware
+Add,"
+Embedded Software Engineer,Staffing Ninja · Philippines 1 week ago · 21 applicants,Remote Full-time Mid-Senior level,"About the job
+Job Responsibilities:
+● Proficient in C and C++ programming languages.
+● Familiarity with embedded programming concepts and bare metal programming.
+● Knowledgeable about I2C, UART, SPI, and CAN protocols.
+● Desirable understanding of RTOS concepts.
+● Experience of at least 2-3 years with ARM-based processors such as Ti DSP Controllers, NXP, ST, etc.
+● Capable of identifying and resolving hardware and software technical issues.
+● Competent in MCU Peripheral driver usage for SPI, I2C, UART, CAN.
+● Familiarity with Automotive firmware development and using test tools for CAN/I2C/SPI module verification.
+● Proficient in using JTAG/SWD debugger.
+● Understanding of ASIL and AutoSAR-based product development.
+● Strong analytical and problem-solving skills.
+● Desirable familiarity with agile concepts.
+● Proficient in utilizing test and measurement equipment like oscilloscopes, logic analyzers, multimeters, etc.
+● Basic understanding of wireless technologies such as Zigbee, Bluetooth, and WIFI products.
+● Quick learner with the ability to adapt.
+● Basic knowledge of Microsoft tools, Jira, or any project management tools.
+● Basic familiarity with code management tools like Bitbucket, SVN, etc.
+● Excellent verbal and written communication skills.
+Qualifications:
+● Bachelor’s/Master’s degree in Engineering.
+● 3-6 years’ experience in firmware development (automotive/industrial products) with at least 3 years in development and testing.
+● Minimum 2 years’ experience in developing low-level MCU peripheral drivers for UART, SPI, I2C, CAN.
+● Minimum 2 years’ experience in developing embedded applications for bare metal (Non-RTOS) based systems.
+● Ability to interpret schematics and datasheets.
+● Responsible for writing modular code while adhering strictly to coding standards.
+● Proficient in debugging and problem-solving with minimal support.
+● Capable of performing unit testing for completed features.
+● Effective communication skills.
+● Knowledge of Automotive firmware development and understanding of ASIL and AutoSAR-based product development.","Embedded Software
+Add,Embedded Systems
+Add,"
+Senior Backend Engineer (Integration),"FoodByUs · Manila, National Capital Region, Philippines 3 weeks ago · 58 applicants",Hybrid Full-time Mid-Senior level,"About the job
+FoodByUs is the market-leading wholesale ordering software used by thousands of hospitality suppliers and venues across the country. We connect these two sides, providing an incredible software experience for both restaurants and suppliers.
+ About the role
+You will be working with a team of very talented software developers to further build out our application based on our product roadmap.
+ Your day to day responsibilities
+Your role is to flesh out our application in a coordinated effort with the Software Development team and Management. The role responsibilities are:
+You’ll hear the overall objectives from management and we expect you to add value around the best technical/UI/UX to achieve the goal.
+Designing and delivering relational databases/backend/API solutions
+Ensuring code is clean and our solutions are scalable
+Consistently setting examples for best coding practice
+Work closely with and support the front-end development team
+  What we're looking for:
+Demonstrated software development experience with a focus on API Development and integration. 
+Experience integrating third party applications 
+Experience implementing API's 
+API Gateway experience required 
+AWS/ SQS - good o have, but not essential 
+You absolutely need to be passionate about software, our community and about start-ups in general.
+Can do attitude with an eagerness to learn 
+Great communication skills 
+
+Why FoodByUs?
+This represents a HUGE opportunity to get involved early in a start-up with massive potential. Not only do we have an amazing idea, but the team and financing to pull it off
+Birthday leave, mental health leave 
+Company share options 
+Quarterly & annually social events. 
+
+*PLEASE NOTE - the role is required to work from the Manilla office 3 days per month.","Cascading Style Sheets (CSS)
+Add,HTML
+Add,Jira
+Add,Laravel
+Add,Linux
+Add,MySQL
+Add,PHP
+Add,PHP Frameworks
+Add,SQL
+Add,Vue.js
+Add,"
+"L3 Security Engineer, SIEM Management","IBM · Taguig, National Capital Region, Philippines Reposted 2 weeks ago · 25 applicants",On-site Full-time,"About the job
+666692BR
+
+Introduction
+
+Information and Data are some of the most important organizational assets in today’s businesses. As a Security Consultant, you will be a key advisor for IBM’s clients, analyzing business requirements to design and implement the best security solutions for their needs. You will apply your technical skills to find the balance between enabling and securing the client's organization with the cognitive solutions that are making IBM the fastest growing enterprise security business in the world.
+
+Your Role and Responsibilities
+
+
+This role will manage SOC core infrastructure namely SIEM, Configuration Management etc.
+Ideal candidates will have experience managing more than one SIEM tools amongst IBM QRadar, Splunk, LogRhythm, Cortex etc.
+Must display enthusiasm and interest in Information Security.
+
+
+Required Technical and Professional Expertise
+
+
+Knowledge of security intelligence threats and threat actors.
+Knowledge of log formats for syslog, http logs, DB logs and how to gather forensics for traceability back to event.
+Experience with log management or security information management tools
+Ability to make information security risk determinations based of threat intelligence analysis.
+Extensive years of experience in security project engineering in a SOC environment or within a large scale and complex environment
+Hands-on experience on implementing and administering SIEM tools such as IBM QRadar, Splunk, LogRhythm & Cortex and usage of regular expressions and natural language queries.
+Strong domain expertise, implementation and/or integration skills in data classification, data discovery, information rights management, encryption, tokenization, data access governance and data masking technology solutions.
+Technical certification such as , Security+, CySa+, CEH, ECSA, GIAC, CISS
+
+
+Preferred Technical And Professional Expertise
+
+
+Expert in SIEM Qradar
+
+
+About Business Unit
+
+IBM Consulting is IBM’s consulting and global professional services business, with market leading capabilities in business and technology transformation. With deep expertise in many industries, we offer strategy, experience, technology, and operations services to many of the most innovative and valuable companies in the world. Our people are focused on accelerating our clients’ businesses through the power of collaboration. We believe in the power of technology responsibly used to help people, partners and the planet.
+
+Your Life @ IBM
+
+In a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+Are you ready to be an IBMer?
+
+About IBM
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+Location Statement
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+
+IBM is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, caste, genetics, pregnancy, disability, neurodivergence, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.","Data Classification
+Add,Data Masking
+Add,Data Privacy
+Add,ECSA
+Add,Ethical Hacking
+Add,Information Security
+Add,Log Management
+Add,Project Engineering
+Add,Security Consulting
+Add,Security Information and Event Management (SIEM)
+Add,"
+Application Security Engineer,"Manulife · Quezon City, National Capital Region, Philippines Reposted 1 day ago · 29 applicants",Full-time Entry level,"About the job
+We are a leading financial services provider committed to making decisions easier and lives better for our customers and colleagues around the world. From our environmental initiatives to our community investments, we lead with values throughout our business. To help us stand out, we help you step up, because when colleagues are healthy, respected and meaningfully challenged, we all thrive. Discover how you can grow your career, make impact and drive real change with our Winning Team today.
+
+Working Arrangement
+
+Hybrid
+
+Job Description
+
+The Opportunity
+
+We are looking for Application Security Specialist who will be directly reporting to the Manulife ETS Cyber Assessment Application Security Team. Our group is consisting of highly motivated and experienced professionals and is composed of members located across different Manulife locations such as Manila and North America. As part of the ETS Global Cyber Security, we are responsible for the practice of identifying, classifying, monitoring, remediating and/or mitigating security vulnerabilities on applications and APIs across the organization.
+
+What motivates you?
+
+You obsess about customers, listen, engage, and act for their benefit 
+You think big, with curiosity to discover ways to use your agile mindset and enable business outcomes 
+You thrive in teams, and enjoy getting things done together 
+You take ownership and build solutions, focusing on what matters 
+You do what is right, work with integrity and speak up 
+You share your humanity, helping us build a diverse and inclusive work environment for everyone 
+
+We Are Looking For Someone With
+
+Bachelor’s degree in Computer Science, Computer Engineering, IT Security, other related field or any equivalent experience.
+At least 3 years' experience in Information Technology, Information Security, or Vulnerability Assessment.
+Good understanding on Application security especially in Open source vulnerabilities, SAST and DAST tools
+Hands on experience in managing Snyk and Burp Suite with an understanding of the DevSecOps pipeline process
+Prior experience on Brup Suite operation and vulnerability management would be an advantage.
+Passion in cybersecurity
+Knowledge on IT security Operations, IT Operations, IT Network/Infrastructure, Information Security, Business Continuity Management, Network Security and Design, Advanced Networking/TCPIP
+Innovative problem-solving skills with the proven ability to exercise flexibility and judgment
+Ability to work on a fast pace environment and be able to multitask
+Ability to automate the vulnerability data management and reporting process using scripting languages (Python, Perl, Unix Shell, VBA)
+
+On The Job You Will
+
+Triage discovered vulnerability to ensure that most critical vulnerabilities are addressed
+Analyze and respond to unknown or previously detected vulnerabilities
+Assist in Snyk findings and platform operations likes of access controls, reviewing issues 
+Troubleshoot Burp Suite scanning issues and optimize scan performance
+Automate the vulnerability management process to improve operation efficiency
+Coordinate with VM Lead and other concerned units to ensure that identified vulnerabilities are assessed and remediated
+Configure the Burp Suite vulnerability scanner and ensure that scans are scheduled and performed accordingly
+Manage Burp Suite reports for the vulnerability management team
+Provide analysis of vulnerabilities to other team members to assist with overall vulnerability remediation efforts
+Conduct research and attend training on common attack routes, new cyber security threats, trends and technologies
+People Leader Role: No
+
+Our Commitment To You
+
+Our mission: to be a part of making Decisions Easier and Lives Better 
+A leadership team dedicated to your growth and success 
+A bold ambition and set of goals to be a leader in driving transformation in our industry 
+Our best. Every day. 
+
+Learn more about opportunities with us at jobs.manulife.com 
+
+ This job description does not represent a comprehensive listing of job duties that are required of the employee performing this role. We reserve the right to change duties or assign additional duties at any time with or without notice.
+
+About Manulife And John Hancock
+
+Manulife Financial Corporation is a leading international financial services group that helps people make their decisions easier and lives better. With our global headquarters in Toronto, Canada, we operate as Manulife across our offices in Asia, Canada, and Europe, and primarily as John Hancock in the United States. We provide financial advice, insurance, and wealth and asset management solutions for individuals, groups and institutions. At the end of 2022, we had more than 40,000 employees, over 116,000 agents, and thousands of distribution partners, serving over 34 million customers. At the end of 2022, we had $1.3 trillion (US$1.0 trillion) in assets under management and administration, including total invested assets of $0.4 trillion (US $0.3 trillion), and segregated funds net assets of $0.3 trillion (US$0.3 trillion). We trade as ‘MFC’ on the Toronto, New York, and the Philippine stock exchanges, and under ‘945’ in Hong Kong.
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com.","Application Security
+Add,Computer Science
+Add,Cybersecurity
+Add,Data Privacy
+Add,Information Security
+Add,Network Security
+Add,Security Information and Event Management (SIEM)
+Add,Vulnerability
+Add,Vulnerability Assessment
+Add,Vulnerability Management
+Add,"
+QA Automation Engineer (HMO on Day 1/Hybrid work set up),"Genpact · Makati, National Capital Region, Philippines Reposted 1 week ago · 38 applicants",Hybrid Full-time Mid-Senior level,"About the job
+QA Automation Engineer
+Makati City
+ With a startup spirit and 115,000+ curious and courageous minds, we have the expertise to go deep with the world’s biggest brands—and we have fun doing it! We dream in digital, dare in reality, and reinvent the ways companies work to make an impact far bigger than just our bottom line. We’re harnessing the power of technology and humanity to create meaningful transformation that moves us forward in our pursuit of a world that works better for people. 
+ Now, we’re calling upon the thinkers and doers, those with a natural curiosity and a hunger to keep learning, keep growing. People who thrive on fearlessly experimenting, seizing opportunities, and pushing boundaries to turn our vision into reality. And as you help us create a better world, we will help you build your own intellectual firepower.
+ Welcome to the relentless pursuit of better.
+ Inviting applications for the role of QA Automation Engineer!
+ Responsibilities:
+As a Quality Assurance Engineer in our team, you will design and implement test strategies, test plans, and test cases for our Cards applications. 
+You will build or improve existing test automation frameworks. You will help define and establish test metrics to measure not just product quality, but quality of testing. 
+You will work with your team to perform gap analysis to ensure good test coverage, assess and provide proactive solutions. 
+You and your team will apply DevOps best practices to ensure production stability of key systems, and that our customers have the best experience with our Cards products. 
+You will be expected to continuously hone your skills and stay abreast of new technologies and practices.
+ Requirements:
+Proficiency in software testing with focus on user-interfaces and APIs
+Proficiency in writing UI test scripts using Gherkin and frameworks such as Selenium, Karate, Playwright, Robot Framework
+Proficiency in writing test automation for API
+Solid experience in any of the following: Serenity BDD, Applitools, BrowserStack
+Experience in JAVA (Enterprise Java, Java 8 a plus)
+ Good to have:
+Postman, SOAPUI 
+Experience with at least one cloud platform, preferably AWS or GCP 
+Experience using continuous integration and deployment tools
+ Genpact is an Equal Opportunity Employer and considers applicants for all positions without regard to race, color, religion or belief, sex, age, national origin, citizenship status, marital status, military/veteran status, genetic information, sexual orientation, gender identity, physical or mental disability or any other characteristic protected by applicable laws. Genpact is committed to creating a dynamic work environment that values diversity and inclusion, respect and integrity, customer focus, and innovation. For more information, visit www.genpact.com. Follow us on Twitter, Facebook, LinkedIn, and YouTube.","Amazon Web Services (AWS)
+Add,BrowserStack
+Add,Google Cloud Platform (GCP)
+Add,Java
+Add,Postman API
+Add,QA Automation
+Add,Quality Assurance
+Add,Robot Framework
+Add,Test Automation
+Add,Test Planning
+Add,"
+"Cabin, Systems & Structures Engineer","Cebu Pacific Air · Pasay, National Capital Region, Philippines Reposted 2 weeks ago · 381 applicants",Hybrid Full-time Entry level,"About the job
+Department
+
+Cabin, Systems & Structure
+
+Employee Type
+
+Regular
+
+Cebu Pacific’s commitment to ensuring every Juan’s safety at all times will always be a top priority. Our Engineering & Fleet Management teams leverage on their knowledge, experience and strong partnership with Safety and Quality, Flight Operations, Cargo and other business functions to ensure fleet reliability, aircraft maintenance and utilization, quality assurance and overall Cebu Pacific flying experience.
+
+Apply today and be JUAN of the game changers of the Philippines’ leading airline, Cebu Pacific as a Cabin, Systems, and Structure (CASAS) Engineer .
+
+Primary Responsibilities:
+
+ Provide support to Continued Airworthiness and In-Service Engineering tasks related to aircraft cabin, systems and structures. 
+ Communicate with the manufacturer and other partners for defect analysis and improvements. 
+ Review, analyze and evaluate Airworthiness Directives (AD), Service Bulletins (SB) and other technical publications to ensure full compliance with the regulations and to provide engineering recommendations. 
+ Keep and maintain working database of structural defects and repairs. 
+ Support aircraft daily operations by providing technical support and recommendations to solve faults identified on aircraft and its component relevant to aircraft cabin, systems and structures 
+
+Basic Qualifications:
+
+ Must have a Bachelor's degree in Aeronautical Engineering or other related courses. 
+ Preferably has a PRC or an Aeronautical Engineering license 
+ Preferably has more than two (2) years of work-related experience in the airline or engineering industry 
+
+Apply now and together, let's make moments happen!
+
+Note: This position will be under a hybrid workplace arrangement which allows remote work but must also be open to reporting onsite as needed. Our Head Office is located in Pasay City, Metro Manila.
+
+Experience Range Range (Years)
+
+3 - 5 years
+
+Job posted on
+
+2023-03-28","Aeronautics
+Add,Communication
+Add,Computer-Aided Design (CAD)
+Add,Finite Element Analysis (FEA)
+Add,Structural Engineering
+Add,"
+"Back End Developer, Totogi (Remote) - $100,000/year USD","Crossover  · National Capital Region, Philippines Reposted 6 days ago · 11 applicants",Remote Full-time Mid-Senior level,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Totogi. Have you got what it takes?
+
+Are you a full-stack engineer who is sick of adhering to the same product specs and rigid development frameworks over and over again? Is losing your creative edge and the flexibility to choose the best tools available one of your greatest fears? Well lighten up, because Totogi has a role that allows you to keep your creative juices flowing and your problem-solving skills sharp.
+
+Totogi is a software company redefining the rules of the telecommunications industry by lifting it into the public cloud. We empower CSPs through 100% cloud-native, API-driven solutions that facilitate integration with legacy systems, implement new features and services in minutes instead of months, and deliver a BSS that generates 10x performance at a tenth of the cost.
+
+In this role, you will flex your creative muscles to develop beautiful, functional, and unique prototypes that help our customers understand the value Totogi can add to their business. You will play a key role in disrupting the monolithic telco industry, and you don’t even need any telco experience to do it!
+
+What You Will Be Doing
+
+Building User Interfaces - Prototypes of user interfaces that the sales team will use to demonstrate the product during customer demos
+Accelerating customer onboarding - building marketplace integrations that make it simpler for prospects to start using Totogi immediately
+Building visualizations and generating insights - Reports and ML-driven insights that enable new customers to experience the power of Totogi’s multi-tenant Charging-as-a-Service platform
+
+What You Won’t Be Doing
+
+Developing new products or maintaining existing products
+Fixing bugs or making minor feature upgrades
+Following strict product specs or development frameworks
+
+Back End Developer Key Responsibilities
+
+Creating customized product prototypes that win over our customers by showing them what is possible with Totogi.
+
+Basic Requirements
+
+At least 5 years of professional experience as a full-stack engineer
+Have built at least 2 applications using DynamoDB for storage
+Have written scripts using CDK, CloudFormation, serverless.com, Terraform, or similar frameworks to deploy at least 2 applications
+Professional experience using LLMs, such as ChatGPT, to boost productivity
+
+About Totogi
+
+Totogi is focused on building telco software for the public cloud and is completely redefining how carriers engage with their subscribers to drive customer love! We are a product-driven telco software company made up of some of the best minds from the telecoms industry and the brightest engineering talent across the globe. Change the game with us.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4859-PH-NCRNatio-BackEndDevelop.005","AWS CloudFormation
+Add,Back-End Web Development
+Add,Customer Demos
+Add,Databases
+Add,Interfaces
+Add,Multi-Tenant Management
+Add,Problem Solving
+Add,Stack
+Add,Terraform
+Add,User Interface Design
+Add,"
+Full Stack Engineer,Staffing Ninja · Philippines 2 weeks ago · 71 applicants,Remote Full-time Mid-Senior level,"About the job
+Responsibilities:
+Actively participate in the end-to-end life cycle of the entire application stack, from conception to deployment.
+Research, design, and develop software solutions, analyzing user needs to create effective solutions.
+Design and implement a greenfield solution using the latest Java technologies framework and React framework.
+Prepare, plan, and execute the roll-out from support to production services.
+Update software, enhance existing capabilities, and direct software testing and validation procedures.
+Collaborate with other engineers to integrate hardware and/or software systems effectively.
+Work closely with the technical lead/Architect to elaborate technical specifications.
+Collaborate with the Platform team and vendors as needed to drive high-quality application development.
+Responsible for the end-to-end development of user interfaces according to aligned specifications/user flows.
+Responsible for the end-to-end development of backend rest services.
+
+Requirements:
+3-5 years of experience in full-stack development.
+Support troubleshooting and implementation of solutions for any issues identified during QA and production use.
+Knowledge of multiple front-end languages and libraries (e.g., HTML/CSS, JavaScript, XML, jQuery).
+Knowledge of multiple back-end languages (e.g., C#, Java, Python) and JavaScript frameworks (e.g., Angular, React, Node.js).
+Familiarity with databases (e.g., MySQL, MongoDB), web servers (e.g., Apache), and UI/UX design.
+Degree in Computer Science, Statistics, or a relevant field.
+Good to have : Proficiency in - Japanese, Chinese and English in any of the combinations","C#
+Add,Cascading Style Sheets (CSS)
+Add,Full-Stack Development
+Add,Java
+Add,JavaScript
+Add,MongoDB
+Add,MySQL
+Add,React.js
+Add,SQL
+Add,jQuery
+Add,"
+Software Engineer (Config),"Eclaro · Quezon City, National Capital Region, Philippines Reposted 1 week ago · 4 applicants",On-site Full-time Entry level,"About the job
+Data Engineer
+
+Job Description
+
+The team develops innovative predictive models and analytical tools to improve profitability and growth. This position will help support the data engineering needs across a growing portfolio of high-profile analytics projects by developing complex data structures and pipelines leveraging a diverse set of tools and languages. This includes the following cloud-based technologies: Databricks, Snowflake, Spark, Python and Azure Data Factory. As a key member of the Strategic Analytics team, you will advance our data engineering capabilities helping the team analyze data faster.
+
+Job Tasks/ Responsibilities
+
+ Work closely with predictive modelers to assemble large, complex data sets that help solve business problems and increase profitability
+ Perform data manipulation and transformation using SQL and Python
+ Identify, design, and implement internal process improvements: automating manual processes and optimizing data pipelines
+ Client and explore new sources of data with curiosity and creativity
+ Create and maintain optimal data pipeline architecture
+ Author detailed and comprehensible documentation of data pipelines and technical solutions
+ Ensure data quality and completeness
+
+Desired Skills/ Experience
+
+ Advanced working SQL knowledge and experience working with relational databases, query authoring
+ A successful history of manipulating, processing and extracting value from large, disconnected datasets
+ Ideally, 3+ years of experience in a Data Engineer role or equivalent using SQL and/or Python
+ Good organizational skills and attention to detail
+ Excellent critical thinking skills to flag complex data challenges
+ Experience with cloud technologies and Python is a plus
+ Comfortable working in fast paced, highly collaborative environment
+ Ability to effectively communicate to different target audiences
+
+Education
+
+BS in Computer Science, Information Technology degree, Data Analytics or equivalent","Computer Science
+Add,Critical Thinking
+Add,Data Analytics
+Add,Data Manipulation
+Add,Databases
+Add,Organization Skills
+Add,Python (Programming Language)
+Add,Relational Databases
+Add,SQL
+Add,Thinking Skills
+Add,"
+ServiceNow Virtual Agent Developer,"HCLTech · Taguig, National Capital Region, Philippines Reposted 4 weeks ago · 25 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Job Type: Permanent Full time
+Work Setup: Hybrid 
+Location: McKinley, Taguig
+
+Responsibilities:
+
+Collaborate with cross-functional teams including analysts,other developers to understand business requirements and design virtual agent solutions within the ServiceNow platform.
+Design, configure, and develop virtual agent conversations using ServiceNow's Virtual Agent Designer, incorporating relevant skills, decision trees, intents, and natural language understanding (NLU) capabilities.
+Leverage your expertise in NLP to create natural and user-friendly conversations that provide accurate and contextually relevant responses to user queries.
+Integrate virtual agents with various ServiceNow modules and external systems, ensuring seamless data flow and process automation.
+Develop and maintain custom integrations, APIs, and scripts to enhance the capabilities of virtual agents and enable interactions with external systems.
+Continuously monitor and analyze virtual agent performance, making iterative improvements to enhance accuracy, user satisfaction, and efficiency.
+Collaborate with client to ensure the virtual agent's interface is visually appealing, intuitive, and aligned with the organization's branding guidelines.
+Stay up-to-date with industry trends, emerging technologies, and best practices related to virtual agents, NLP, and AI-driven solutions.
+Participate in code reviews, knowledge sharing sessions.
+
+Qualifications:
+
+Bachelor’s degree in computer science, Information Technology, or related field; or equivalent work experience.
+Proven experience as a ServiceNow Virtual Agent Developer, with a strong portfolio showcasing successful virtual agent implementations.
+Proficiency in configuring and designing virtual agent conversations using ServiceNow's Virtual Agent Designer.
+Solid understanding of natural language processing (NLP) principles and practical experience in creating conversational flows that deliver accurate responses.
+Experience with ServiceNow platform development, including scripting (JavaScript, Glide), integrations, and APIs.
+Strong problem-solving skills and the ability to troubleshoot technical issues related to virtual agent functionality and integration.
+Excellent communication skills, both verbal and written, with the ability to convey complex technical concepts to non-technical stakeholders.
+Strong teamwork and collaboration skills, coupled with the ability to work independently when required.
+ServiceNow certification(s) in Virtual Agent Development is a plus.
+Previous experience in developing chatbots or virtual agents for IT service management (ITSM) and customer service use cases is highly desirable.","ServiceNow
+Add,"

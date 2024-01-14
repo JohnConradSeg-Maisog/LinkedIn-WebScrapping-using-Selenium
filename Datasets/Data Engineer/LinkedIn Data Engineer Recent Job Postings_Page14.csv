@@ -1,0 +1,1396 @@
+Title,CompanyDetails,JobDetails,JobDescription,JobSkills
+Site Reliability Engineer,"Broadridge · Manila, National Capital Region, Philippines Reposted 1 week ago · 7 applicants",Hybrid Full-time,"About the job
+At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.
+
+At Broadridge, we've built a culture where the highest goal is to empower others to accomplish more. If you’re passionate about developing your career, while helping others along the way, come join the Broadridge team.
+
+Part of a global team of production experts working in a “Follow the Sun” support model, we’re now looking for a Site Reliability Engineer to join us in Manila. The team ensures smooth operations of the Client’s hosted platforms, guaranteeing the availability, security, integrity, and performance of all systems (24/7). Involved at the very beginning of client projects, the Site Reliability Engineer provides technical expertise and guidance to make sure the proposed solution is fully aligned with production standards and best practices. If you have solid experience in production and enjoy fast-paced environments, also,
+
+Must be willing and open to work in a compressed work schedule as needed, such as 40-hour for 4 days or similar schedule. we’d love to get in touch with you!
+
+Main Responsibilities
+
+Platform Monitoring, Incident management & Level 2 Support
+
+Management of daily operations of client’s hosted platforms, proactive monitoring of Global Systems
+Participation in production shift duties to cover APAC, EMEA, and Americas regions
+Incident coordination/crisis response & stakeholder communication
+Timely resolution of incidents & escalation, preparation of post-mortem, tracking & follow up
+Regular review of system’s capacity and performance, initiate upgrades/maintenance as required
+Produce daily health checks and customer status reports
+Leverage data analytics to anticipate trends and potential challenges
+
+Implementation & Change Management
+
+As a gatekeeper, owns the change control process with clients, partners, and internal teams
+Review and deploy customer platforms with the assistance of SRE technical experts
+Assess, schedule, and deploy platform enhancements/upgrades and new business features
+Improve and automate production tools/scripts (monitoring, failover, checks, backup/recovery…)
+
+Project & Engineering
+
+Manage technical projects (production tools enhancements: monitoring, scripting, deployment tools...)
+Run proof of concepts and validate new technical solutions (high availability mechanism, CI/CD pipeline...)
+Participate in global efforts to roll out large-scale platforms (client onboarding, low latency solutions, Cloud...)
+
+Skills And Qualifications
+
+Degree in computer science, software engineering, or a related field
+Minimum 3 years of experience as “Application Support Engineer” in the financial industry
+Excellent analytical / troubleshooting skills with a strong production-oriented mindset
+Good general IT knowledge (OS Linux, networking, systems/database, messaging, Cloud...)
+Proficient with one or more scripting/programming languages: Perl, Python, Java, Shell...
+Knowledge of Agile/DevOps practices, automation tools (Ansible), and CI/CD pipeline
+Strong experience with monitoring platforms (Nagios, ITRS...)
+Available and willing to go the extra mile (weekend / public holiday operations, Production shifts...)
+Familiar with ITIL framework & service management best practices
+Must be willing and open to work in a compressed work schedule as needed, such as 40-hour for 4 days or similar schedule. 
+
+Expected Behavior
+
+Committed, self-motivated, and fast learner
+Strong team spirit with excellent communication
+Proactive, independent, and proven ability to work under pressure
+Fluency in English essential
+
+Broadridge associates helped us envision our Connected Workplace, a work model that allows associates around the globe to take advantage of the benefits of both on-site and off-site work to support our clients, one another, and the communities where we live and work. Our Connected Workplace is grounded in the concept of FACS: Flexible, Accountable, Connected, and Supported, which is our commitment to our associates. FACS supports our strong culture and allows us to achieve business goals while supporting meaningful work-life integration for our associates.
+
+We are dedicated to fostering a diverse, equitable, and inclusive environment and committed to providing a workplace that empowers associates to be authentic and bring their best to work. We believe that associates can only do their best when they feel safe, understood, and valued, and we work diligently and collaboratively to ensure Broadridge is a company—and ultimately a community—that recognizes and celebrates diversity in all its dimensions.","Automation
+Add,Communication
+Add,Computer Science
+Add,Proactive Monitoring
+Add,Reliability
+Add,Site Reliability Engineering
+Add,Software Development
+Add,Stakeholder Relations
+Add,Troubleshooting
+Add,"
+Principal Software Engineer,"CloudPay · Makati, National Capital Region, Philippines 2 weeks ago · 4 applicants",Hybrid Full-time Director,"About the job
+Role Pitch  As a Principal Software Engineer, you will help grow and nurture technology, provide technical guidance to a growing team, set the technical strategy for modules and components of the Cloudpay platform, and utilize your software development experience in developing solutions to meet business problems.
+
+ Key Responsibilities  Daily Duties and Main Responsibilities will include:
+
+Advising Engineering and Product Management on the technical and architectural strategy for components/modules of the Cloudpay platform and ensuring alignment with relevant Product Area(s):
+ Includes selecting and providing guidance on the appropriate design methodology (such as object-oriented, function-oriented, component-based) and strategies to be used within a project. 
+ Determining design alternatives with trade-off analysis. 
+ Technical leadership of architectural and engineering initiatives in a particular product area
+Working collaboratively with Agile Teams to understand the business domain and client requirements; drive analysis, architecture/design and development of quality deliverables and technical solutions crossing a broad spectrum of technologies. 
+ Designing and building solutions in the context of a legacy platform transitioning to microservice architecture. 
+Establishing and upholding code standards and best practices through code reviews and refactoring efforts; identifying improvements to coding and technical standards
+Promoting a culture of producing quality products and compliance to quality processes across the team
+Identifying and investigating complex platform issues with respect to performance, security, scalability, maintainability and reliability upon deployment; presenting solutions and championing priorities
+
+ Description  Attributes and Experience Required:
+
+Extensive hands-on development experience, minimum of 7 years with a strong foundation in OOP and Design Patterns, Clean code and SOLID principles
+Proven experience setting the technical strategy, implementing and tuning enterprise scale applications. 
+Strong working knowledge of Java 11/Java 17/JavaEE, Spring framework or Spring boot, Groovy, AngularJS, Vue.js
+Familiarity with NodeJS, NestJS/ReactJS Framework, TypeScript, JavaScript, JQuery and RESTful Web-Services
+Demonstrable experience in microservice architecture and design patterns, and implementing microservices
+Experience working with relational (MySQL/MariaDB/Postgres) AND NoSQL (MongoDB, DynamoDB) database management systems and ability to write complex queries. 
+Experience in API-driven development
+Experience in application performance tuning and secure coding
+Comfortable in engaging with a wide range of roles (juniors, seniors, other stakeholders) to collaborate on solutions and communicate technical ideas
+Working knowledge of Agile/Lean practices
+Experience in leveraging containerization (Docker/Kubernetes) and developing cloud-native applications
+Soft skills needed:
+ Strong teamworking and communication skills
+ Excellent logical, analytical skills and attention to detail
+ Self-starter, able to own, prioritize and plan own workload
+ Flexibility in working to tight timescales to meet release deadlines
+The following would be an advantage:
+ Background in Payroll, HR or other financial domains
+ Experience in data modeling, data architecture/engineering
+
+ Benefits  Package and Benefits:
+
+ Competitive annual salary and benefits package
+ 18 days annual leave plus public holidays
+ Earned Wage Access (via CloudPay Now app)
+ Flexible remote working
+ 10 days sick leave
+ HMO
+ Personal and professional development opportunities
+ Friendly working environment","Analytical Skills
+Add,Clean Coding
+Add,Communication
+Add,Design Patterns
+Add,Java
+Add,Microservices
+Add,Object-Oriented Programming (OOP)
+Add,Software Design
+Add,Spring Framework
+Add,Technical Leadership
+Add,"
+Senior Software Engineer - (Python Back-end Development),"ITRS  · Manila, National Capital Region, Philippines 6 days ago · 0 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Recognised as a Great Place to Work, ITRS is an Enterprise SaaS provider with industry-leading solutions. Our prestigious customer base includes 90% of the world's top investment banks. We are backed by leading private equity investors and are rapidly growing.
+Our headquarters are in Shoreditch - London's tech hub - with offices in other UK and global locations from the Netherlands to Manila, NYC and Florida. We pride ourselves on a diverse, friendly, dynamic culture - with a focus on internal promotion and developing our people.
+Scope of role
+
+As a Senior Software Engineer you will deliver new features in our Opsview product suite, you will report to the Engineering Manager in our Makati office. The Engineering team is a global team with main hubs in Manila, Sweden, Spain, UK and North America.
+The Makati office is growing and we are looking for Engineers that want to be part of a successful team building software products and working with the latest technologies. 
+As a Senior Software Engineer, you will:
+
+Build software for our Opsview product suite 
+Take a lead on user story definition and the production of detailed technical designs 
+Develop software and unit tests against those detailed designs 
+Take a lead on the production of engineering estimates and timescales
+Maintain current technical documentation at the code, design and user levels 
+Maintain the software on an ongoing basis
+Review others work at design and code stage and provide constructive feedback on how it could be improved 
+Partner with our dedicated product support team to help fix customer raised defects 
+You have:
+
+5 years experience with Python (Cython) 
+Experience working with RDBMS and NoSQL databases (MySQL and CouchDB) 
+Experience with Unix/Linux at the command line 
+Experience in version control systems like Git 
+Experience working in continuous integration environments (Jenkins/Groovy) 
+Experience in code profiling and writing unit tests 
+Experience improving coding and development practices 
+Experience quickly assimilating new technologies and skills 
+Experience working within an Agile scrum team 
+Our Benefits
+
+Day 1 Health Insurance for you and your dependants
+Supplemental Medical Claim
+Employee Assistance Programme
+Retirement Plan
+Flexible Hybrid Working
+Enhanced Parental Leave
+Life Assurance
+Subsidies and Allowances
+ITRS Group is an Equal Opportunity employer and Inclusion is part of our everyday life. We celebrate diversity and pride ourselves on providing an environment where all employees can be their authentic selves and have a voice, allowing everyone to contribute equally. We remain committed to advocating inclusion, diversity, and equality into our ITRS family as we grow and enrich our business.
+We welcome applications from everyone in the community as we recognise that a diverse workforce is a stronger workforce.","Back-End Web Development
+Add,Git
+Add,Linux
+Add,Opsview
+Add,Python (Programming Language)
+Add,Software Development
+Add,Technical Design
+Add,Technical Documentation
+Add,Unit Testing
+Add,Unix
+Add,"
+Azure DevOps Engineer,"Cognizant · Manila, National Capital Region, Philippines 2 weeks ago · 15 applicants",On-site Full-time Mid-Senior level,"About the job
+Cognizant is looking for an experienced Azure DevOps Engineer for our fast-growing business area. An ideal candidate is someone best problem-solvers, idea-makers, and high-energy individual. If you meet our background requirements and looking for an opportunity to be rewarded for your skills and expertise, is the ideal opportunity for you!
+
+Grade: Senior Associate
+Experience Level: Minimum 8 years of Experience.
+
+Job Title: Sr. Azure Cloud Automation InfraDev engineer
+
+Overall 8+ years of experience in Cloud Infrastructure implementation and support
+Must have 5+ years of hands-on experience in Infrastructure automation across Infra stacks such as Provisioning, Configuration Management, CI/CD, Config/Secret, Observability.
+Must be hands-on expert in Ansible, Chef, Terraform, Helm and DevSecOps development & implementation and DevSecOps tools
+Must have Azure Cloud implementation and support experience in large enterprise environment
+Must have work experience in large enterprise to develop Cloud automation and Infra-as-Code, orchestrating CI/CD pipeline to provision immutable Cloud Infra & workloads
+Must be experienced in implementing and integrating Cloud Ops services for Observability and logging
+Must be Microsoft certified DevOps Engineer Expert and Red Hat Certified Specialist in Ansible Automation
+Good understanding of security-by-design, secured SDLC and Agile delivery methodology
+Must have experience in engaging with global senior stakeholders
+
+Primary Skills:
+
+ Cloud
+Terraform/Ansible
+Scripting – shell/python
+Infra automation
+
+About Cognizant
+Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build, and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 185 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us https://twitter.com/Cognizant/","Ansible
+Add,Azure DevOps Services
+Add,Continuous Integration (CI)
+Add,Continuous Integration and Continuous Delivery (CI/CD)
+Add,DevOps
+Add,Helm (Software)
+Add,Microsoft Azure
+Add,Python (Programming Language)
+Add,Red Hat Linux
+Add,Terraform
+Add,"
+Tableau Developer,"Afni, Inc. · Quezon City, National Capital Region, Philippines 6 days ago · 5 applicants",On-site Full-time,"About the job
+Description
+
+Position Purpose:
+
+The Enterprise Intelligence Analyst I is responsible for developing and maintaining standard production dashboard views to help drive efficiency and quality performance. The employee demonstrates a certain degree of creativity and latitude performing a variety of tasks under general supervision. The EI Analyst I will participate in requirements collection, analysis, definition, and documentation activities, assisting in defining and prioritizing content to be included in the Enterprise Data Warehouse. Includes data extraction and transformation. They will also assist in defining, designing, and developing reports and dashboards for all user groups.
+
+Essential Functions and Responsibilities: 
+
+Work with Internal and External business customers and IT resources to analyze dashboard requirements and develop and update standard Enterprise Intelligence views
+Participate in requirements collection, analysis, definition, and documentation activities. 
+Provide first line support for reporting and portal related issues and enhancement requests . 
+Examines and reviews unusual variances. Makes recommendations when applicable for process improvement. 
+Ensures timely execution of small scope projects. 
+Deliver informal/formal hands-on training for internal departments. 
+Tune BI tools to meet the enterprise performance standards. 
+Participate regular workload status meeting to define work completed, work in progress and planned and unplanned items
+Within the workload planning tool, flush out and document workload requirements, level of effort, capacity and status
+Participate in workload planning sessions
+
+Requirements
+
+Minimum Job Requirements (Education, Experience, Skills):
+
+EDUCATION
+
+Associates degree in Information Technology, Mathematics, or related field preferred. 
+
+Experience
+
+2 years experience in working in Business Intelligence and/or Data Warehouse environment
+Demonstrated database (SQL) and BI tool (Tableau) experience required. 
+Three years of work experience in a process driven environment preferred. 
+Proven experience in working with structured data. 
+
+Knowledge Skills & Abilities
+
+Familiar with standard concepts including statistical analysis methods, practices and procedures of management accounting. 
+Seeks collaborative solutions to address customer issues. 
+Exhibits clear written and verbal communication skills. 
+Builds cross functional relationships. 
+Can articulate thought process and rationale behind decision making. 
+Seeks out new tasks, training and coaching and assimilates feedback to improve performance.","Dashboards
+Add,Data Analytics
+Add,Data Mining
+Add,Data Visualization
+Add,Data Warehousing
+Add,Databases
+Add,SQL
+Add,SQL Server Analysis Services (SSAS)
+Add,Statistical Analysis
+Add,Tableau
+Add,"
+Sr. Platform Engineer,"SID Global Solutions · Manila, National Capital Region, Philippines 3 weeks ago · 4 applicants",On-site Full-time Mid-Senior level,"About the job
+Job Title: Sr. Platform Engineer 
+Location: Manila, PH
+Experience: 8 - 12 years
+Type: Permanent Full-time
+Must relocate to PH for Long Term.
+Notice Period: 30 days / Immediate Joiner
+
+About SIDGS:
+SIDGS is a premium global systems integrator and global implementation partner of Google corporation, providing Digital Solutions & Services to Fortune 500 companies. Our Digital solutions go across following domains: User Experience, CMS, API Management, Microservices, DevOps, Cloud, Service Mesh, Artificial Intelligence, RPA domains.
+We create innovative solutions in Digital, API Management, Cloud and DevOps space in partnership with Google. We understand that every business has a unique set of challenges and opportunities and we leverage our unique industry insights, honed through decades of combined experience in the technology sector, to deliver the products, solutions and services necessary to achieve best customer satisfaction and delivering positive impact to the communities.
+ Key Skills: 
+
+Kubernetes, DevOps, CI/CD, Dockers, EKS, ECS , AWS (Must Have)
+
+Certification: Certified Kubernetes Administrator (CKA) (Must Have) 
+
+Responsibilities:
+Strong proficiency in AWS services, including EKS, ECS, EC2, S3, and VPC.
+In-depth knowledge of containerization technologies, especially Docker and Kubernetes.
+Experience with Infrastructure as Code tools such as Terraform or AWS CloudFormation.
+Experience with other cloud providers and container orchestration platforms.
+Familiarity with microservices architecture.
+Familiarity with CI/CD pipelines and version control systems (e.g., Git).
+Design, implement, and manage scalable and highly available infrastructure solutions on AWS.
+Deploy and manage containerized applications using Kubernetes, Amazon EKS, and Amazon ECS.","AWS CloudFormation
+Add,Amazon EC2
+Add,Amazon ECS
+Add,Amazon S3
+Add,Amazon Web Services (AWS)
+Add,Continuous Integration and Continuous Delivery (CI/CD)
+Add,Docker Products
+Add,Git
+Add,Kubernetes
+Add,Terraform
+Add,"
+Senior Dotnet Developer,PICWA.io · Philippines 6 days ago · 56 applicants,Remote Full-time,"About the job
+🌟 Position: Senior FulL Stack .Net Blazor Developer
+🔗 Location: Phillipines- Remote (For an NZ Based Company) 
+⏰ Shift Timing : 5:30am Start Time to 2:00pm 
+
+🌐 About Us: PICWA is a cutting-edge technology company that is transforming the digital landscape. We are seeking a skilled and experienced Senior Blazor Developer to play a key role in the development of our innovative projects.
+
+🚀 Key Responsibilities:
+Develop and maintain interactive UIs using ASP.NET Core Blazor.
+Collaborate with cross-functional teams to integrate server-side and client-side app logic.
+Create responsive and visually appealing UIs using HTML and CSS for wide browser support, including mobile browsers.
+Build hybrid desktop and mobile applications using .NET and Blazor.
+
+🎯 Requirements:
+Minimum 4-5 years of hands-on experience with ASP.NET Core Blazor.
+Proficient in C# and .NET development.
+Strong expertise in HTML and CSS for crafting visually appealing UIs.
+Experience in integrating server-side and client-side app logic.
+Knowledge of building hybrid desktop and mobile applications with .NET and Blazor.
+
+🌈 What We Offer:
+Competitive salary and benefits package.
+Opportunity to work on cutting-edge projects in a collaborative environment.
+Professional growth and development opportunities.
+Flexible work arrangements, including remote work options.
+
+👩‍💻 How to Apply: If you're excited about the prospect of shaping the future of web development with Blazor, we want to hear from you! Send your resume through Linkedin
+
+Join us in pushing the boundaries of what's possible in the world of web development. Apply now and be a part of our innovative team!",".NET Core
+Add,.NET Framework
+Add,ASP.NET
+Add,ASP.NET Core
+Add,Blazor
+Add,C#
+Add,Cascading Style Sheets (CSS)
+Add,HTML
+Add,JavaScript
+Add,Server Side
+Add,"
+Azure DevOps Engineer,"Cognizant · Manila, National Capital Region, Philippines 1 week ago · 6 applicants",On-site Full-time Mid-Senior level,"About the job
+Cognizant is looking for an experienced Azure DevOps Engineer for our fast-growing business area. An ideal candidate is someone best problem-solvers, idea-makers, and high-energy individual. If you meet our background requirements and looking for an opportunity to be rewarded for your skills and expertise, is the ideal opportunity for you!
+
+Grade: Senior Associate
+Experience Level: Minimum 8 years of Experience.
+
+Job Title: Sr. Azure Cloud Automation InfraDev engineer
+
+Overall 8+ years of experience in Cloud Infrastructure implementation and support
+Must have 5+ years of hands-on experience in Infrastructure automation across Infra stacks such as Provisioning, Configuration Management, CI/CD, Config/Secret, Observability.
+Must be hands-on expert in Ansible, Chef, Terraform, Helm and DevSecOps development & implementation and DevSecOps tools
+Must have Azure Cloud implementation and support experience in large enterprise environment
+Must have work experience in large enterprise to develop Cloud automation and Infra-as-Code, orchestrating CI/CD pipeline to provision immutable Cloud Infra & workloads
+Must be experienced in implementing and integrating Cloud Ops services for Observability and logging
+Must be Microsoft certified DevOps Engineer Expert and Red Hat Certified Specialist in Ansible Automation
+Good understanding of security-by-design, secured SDLC and Agile delivery methodology
+Must have experience in engaging with global senior stakeholders
+
+Primary Skills:
+
+ Cloud
+Terraform/Ansible
+Scripting – shell/python
+Infra automation
+
+About Cognizant
+Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build, and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 185 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us https://twitter.com/Cognizant/","Ansible
+Add,Azure DevOps Services
+Add,Continuous Integration (CI)
+Add,Continuous Integration and Continuous Delivery (CI/CD)
+Add,DevOps
+Add,Helm (Software)
+Add,Microsoft Azure
+Add,Python (Programming Language)
+Add,Red Hat Linux
+Add,Terraform
+Add,"
+Systems Escalation Engineer,"ECI · Taguig, National Capital Region, Philippines Reposted 1 week ago · 55 applicants",On-site Full-time Entry level,"About the job
+ECI is the leading global provider of managed services, cybersecurity, and business transformation for mid-market financial services organizations across the globe. From its unmatched range of services, ECI provides stability, security and improved business performance, freeing clients from technology concerns and enabling them to focus on running their businesses. More than 1,000 customers worldwide with over $3 trillion of assets under management put their trust in ECI.
+
+At ECI, we believe success is driven by passion and purpose. Our passion for technology is only surpassed by our commitment to empowering our employees around the world.
+
+The Opportunity: 
+
+ECI has an exciting opportunity for a Systems Escalation Engineer, who is primarily responsible for facilitating high level customer inquiries and improving our services to maintain customer satisfaction and retention of ECI’s Systems Services clients. The POC must also have strong attention to detail, an excellent communicator, ability to work in a process & standards driven framework, enjoy working in a fast-paced/high-volume environment, and exercise time management with precision.
+
+In this role, The Systems Escalation Engineer must possess a strong, generalized IT skillset to diagnose, troubleshoot, and resolve a wide variety of technologies, specifically from alerts that are sourced from Windows Desktop and Server operating systems, network devices and circuits, environment monitors, and 3rd party monitoring systems.
+
+This is an Onsite role.
+
+What you will do:
+
+Linux Systems Administration:
+Manage, monitor, and maintain Linux-based servers and systems, ensuring optimal performance, reliability, and security.
+Implement and oversee system upgrades, patches, and enhancements to maintain up-to-date and secure environments.
+AWS and Azure Cloud Management:
+Design, deploy, and manage cloud-based infrastructure on AWS and Azure, including virtual machines, networking, storage, and other cloud services.
+Optimize and scale cloud resources to ensure cost-efficiency and high availability.
+Security and Compliance:
+Implement and enforce security measures and best practices to safeguard Linux servers and cloud environments against potential threats and vulnerabilities.
+Ensure compliance with industry standards and regulations related to cloud security.
+Monitoring and Troubleshooting:
+Utilize monitoring tools (Logic Monitor) to proactively monitor system performance and identify potential issues, taking appropriate actions to resolve them.
+Perform root cause analysis and troubleshoot incidents, collaborating with cross-functional teams to implement solutions.
+Automation and Scripting:
+Develop automation scripts and tools to streamline operational tasks and enhance system efficiency.
+Implement Infrastructure as Code (IaC) principles to automate provisioning and configuration of cloud resources.
+Documentation and Knowledge Sharing:
+Create and maintain detailed documentation, procedures, and configurations for Linux systems and cloud environments.
+Share knowledge and provide training to team members to enhance collective expertise in Linux and cloud technologies.
+
+Who you are:
+
+Bachelor’s degree in computer science, Information Technology, or related field.
+5+ years of relevant experience.
+Proven experience in Linux systems administration, preferably in enterprise-level environments.
+Strong proficiency in AWS and Azure cloud services and infrastructure.
+Familiarity with virtualization technologies, containerization, and orchestration tools (e.g., Docker, Kubernetes).
+Solid understanding of networking concepts, protocols, and security principles.
+Excellent problem-solving and analytical skills with a focus on continuous improvement.
+Ability to work independently and collaboratively within a team-oriented environment.
+Relevant certifications in AWS, Azure, and Linux administration are highly desirable.
+If you're passionate about Linux administration and cloud technologies, and you're looking for an exciting opportunity to contribute to a forward-thinking organization, we invite you to apply for this role and make a significant impact on our cloud-based solutions.
+
+Bonus points if you have:
+
+Experience working directly with technical managers as well as technical end users.
+Excellent communications and soft skills, including ability to listen to and summarize and concisely share key information with customers.
+Must be willing to volunteer for holiday shifts to maintain 24x7x365 coverage.
+
+ECI’s culture is all about connection - connection with our clients, our technology and most importantly with each other. In addition to working with an amazing team around the world, ECI also offers a competitive compensation package and so much more! If you believe you would be a great fit and are ready for your best job ever, we would like to hear from you!
+
+ Love Your Job, Share Your Technology Passion, Create Your Future Here!","Communication
+Add,Computer Science
+Add,Customer Service
+Add,IT Escalation
+Add,Linux System Administration
+Add,Networking
+Add,Problem Solving
+Add,Soft Skills
+Add,Troubleshooting
+Add,"
+iOS Developer (Independent Contractor) ·· Remote,"coinpass.com · Manila, National Capital Region, Philippines 2 weeks ago · 78 applicants",Remote Contract Mid-Senior level,"About the job
+iOS Developer (Independent Contractor) ·· Remote
+
+This position is fully remote, with preference for independent contractors based in the Philippines, Egypt or Turkey. 
+ Who is coinpass.com
+OANDA Coinpass is a UK based cryptocurrency exchange servicing retail, business, and institutional clients across a varied number of products and services. We serve the UK and European crypto markets as a GBP and Euro on/off ramp, crypto trading, and investment platform with a global ambition to service users in 100+ countries. Coinpass has just joined OANDA Group.
+
+OANDA Coinpass Ltd (coinpass.com) is registered with the UK Financial Conduct Authority (FCA) as a crypto-asset business. Our mission is to be more than just an exchange. Our vision: to blur the line between crypto and finance into a single digital layer.
+
+
+What you will be doing:
+OANDA Coinpass is a tech savvy start-up company, within this position, you will be able to jump in and make an impact with an existing team instantly. As an iOS Developer you will be working alongside a small technical team consisting of Developers, QA Testers, Head of Product and the CTO.
+
+We are seeking an independent contractor to work alongside an existing team to define, scope, and implement project phases. We have new and existing projects that we have already planned for our mobile app so by completing this work it allows our customers to trade and invest in crypto.
+
+The position will be Monday – Friday, allowing you to spend quality time with your family / friends (We work 40 hours per week)
+You will have the opportunities for cross-team collaboration which will enable you to learn new things. Overall, we will help you become a more versatile developer plus open your mind further into the crypto world.
+
+This position will involve planning, design, development, and maintenance of our mobile application. We are looking for a highly motivated iOS Developer with a passion for building iOS applications that focus on the customer experience. You will be a part of the Development team supporting our app available in the Apple Store.
+
+You will be part of a small team developing our iOS app that will be an important component in the next generation of mobile communications for Coinpass. You will interact with other app developers, as well as developers responsible for the web version of the product and the server-side infrastructure that supports the user-facing components, and with our IT Support team.
+
+Duties:
+· Minimum React Experience: 3 Years
+· Collaborate with cross-functional teams to define, design, and ship new features in a dynamic work environment.
+· Champion and drive large-scale, cross-functional initiatives that improve the iOS platform
+· You will design, architect, and develop maintainable, testable, functional software that meets requirements.
+· Proficient with Objective-C or Swift
+· Designs, develops, tests, and deploys software solutions and process flows complying with standards, guidelines, and best practices.
+· Understands the “cutting edge” technology, while delivering reliable functionality to the market.
+· You will enforce and maintain software coding standards.
+· Experienced with iOS frameworks viz. Core Data, Core Animation, Core Graphics and Core Text
+· Interacts directly with other developers and stakeholders to conceptualize, build, test, and release products.
+· Ensure solid technical plans are in place for projects within iOS via direct review or delegation
+· Deep understanding of Apple’s design principles and interface guidelines
+· Delivers across the entire app life cycle – concept, design, build, deploy, test, release to the App Store, and support.
+· You will develop and utilize tools to enhance the company’s product/process development.
+· Will work on fixing bugs and improving application responsiveness, quality and performance.
+· Your leadership will help to continuously discover, evaluate, and implement new technologies to improve development efficiency.
+· Design and development of professional business applications for the iOS platform.
+· Proven ability to mentor junior developers and conduct design and code reviews
+· You will hold the team accountable to deliver high quality results with passion, energy and drive to meet business priorities.
+· Identifies and resolves problems, often anticipating issues before they occur or before they grow; develops and evaluates options, and implements solutions.
+· Familiar working with RESTful APIs, third party libraries and API, cloud message APIs and push notifications
+· You will conduct and design research and studies to support advanced product design.
+· 3+ years' experience / application in the Apple/Google App Store
+· Adopts and implements standards and best practices for software development.
+· Keeps up to date on the latest industry trends in iOS technology.
+· Demonstrated ability developing with [Objective-C/Swift], [Java/Kotlin], [iOS SDK]/[Android SDK], and [XCode]/[Android Studio].
+· Experienced in continuous integration will be plus
+· Experience with Apple & Google’s Interface Guidelines
+· You will lead code reviews for projects and systems as an independent reviewer, applying design principals, coding standards and best practices.
+· Be the technical point of contact for decisions that impact the whole iOS platform and for cross-functional partners like recruiting, business development and legal
+· Develops efficient code in various development languages for enhancements and bug fixes.
+
+What we’re looking for:
+· 3+ years of mobile development experience
+· 3+ years of experience with iOS
+· 3+ years of experience with Restful APIs and web sockets
+· 3+ years of experience in SwiftUI and Objective C
+· Unit Testing on Mobile
+· Track record of making technical decisions
+· Proven experience of working in fast-paced / early-stage companies
+
+Coinpass provides an equal opportunity employment and welcomes applications from all sections of society and does not discriminate on grounds of race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, or any other basis as protected by applicable law.
+
+Benefits
+· Competitive rates.
+· 100% remote.
+· Flexible working
+· Full Induction to the company via training on our systems with your direct manager.
+
+Additional Information:
+Independent Contractors will be required to have a registered legal entity for contracting purpose. Documentations will be asked as part of the pre-contracting requirements prior to contractor onboarding depending on your current location. We recommend preparing your countries hiring requirements early to ensure on time onboarding. Detailed discussion will take place during onboarding process as well as changes on the requirements as needed.","Android SDK
+Add,Core Data
+Add,Kotlin
+Add,Objective-C
+Add,REST APIs
+Add,Remote Control
+Add,SwiftUI
+Add,Unit Testing
+Add,Xcode
+Add,iOS Development
+Add,"
+Game Designer,Staffing Ninja · Philippines 2 weeks ago · 37 applicants,Remote Full-time Mid-Senior level,"About the job
+Responsibilities:
+
+Develop engaging in-game content, including characters, stories, settings, features, mechanics, systems, loops, economy, and world-building across various projects.
+Stay updated on gaming market trends, utilizing insights as a foundation for new ideas and improvements.
+Act as the primary advocate for continuous refinement of the overall player experience and game direction.
+Create and maintain comprehensive game design documents, effectively communicating concepts and requirements to team members in different disciplines.
+Collaborate with the team to develop paper and digital game system prototypes.
+Identify stakeholders and assess their influence on features.
+Design UI wireframes, flowcharts, and data models mapping out core gameplay aspects.
+Collaborate closely with Game Programmers and Artists, aligning and iterating on the overall project vision.
+Optimize and ensure the balance of game features through team feedback, QA, and playtesting at every stage of production.
+
+Requirement:
+
+Experience:
+Minimum 3-5 years of experience in Game Design & Development.
+Experience with PC & Console games is advantageous.
+Advanced knowledge of designing in Unity3D or Unreal Engine is a must.
+Familiarity with common algorithms, design patterns, and structures.
+Experience working on and shipping features for high-profile games with a significant number of daily active users, ideally on a mobile platform.
+Experience working with external developers and A/B split testing.
+Experience working as a horizontal leader of cross-functional teams, including design, engineering, production, etc.
+Good to have : Proficiency in - Japanese, Chinese and English in any of the combinations","Console
+Add,Design Patterns
+Add,Game Design
+Add,Game Design Documents
+Add,Game Development
+Add,Gameplay
+Add,Playtesting
+Add,Teamwork
+Add,Unity
+Add,Unreal Engine
+Add,"
+"Lead Machine Learning Engineer (Bangkok based, relocation provided)","Agoda · Manila, National Capital Region, Philippines 2 days ago · 0 applicants",Full-time Mid-Senior level,"About the job
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+Agoda is an online travel booking platform for accommodation, flights, and more. We build and deploy cutting edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ talents coming from 90+ different nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enabling our customers to experience the world.
+
+Get to Know Our Team
+
+The Engineering department oversees all Agoda’s ML and software related requirements. Our goal is to enable and increase Agoda’s business through creative approaches and the implementation of powerful resources such as operational and analytical databases, ML driven solutions, queue systems and data monitoring tools. We hire the brightest minds from around the world to take on this challenge and equip them with the knowledge and tools that contribute to their personal growth and success while supporting our company’s culture of diversity and experimentation. The role the engineering team plays at Agoda is critical as business users, product managers, and many others rely on us to empower their decision making. We are equally dedicated to our customers by improving their search experience with faster results and protecting them from any fraudulent activities. Data is interesting only when you have enough of it, and we have plenty. This is what drives up the challenge as part of the ML engineering squad, but also the reward. We work across structured and non-structured data at scale. For example, our current ML models process millions of images every day to try and enhance the experience that our users get from our app.
+
+Why Agoda Engineering Team (ML role)?
+
+Our engineering teams are at the intersection of business analytics, ml engineering, data warehousing and software engineering. Our job involves dealing with distributed systems, stream processing, ml modeling and computation at tens of PB Scale. We focus on software engineering related to data replication, storage, centralized computation, and Data API’s. By providing our users with ML products/tools, shared frameworks, and ML services, we enable our company to validate strategic decisions, make smarter choices, and react to the fast-changing world. We are a small but passionate team with people from different nationalities working together on a single goal.
+
+In this Role, you will get to:
+
+ Lead the team technically in improving scalability, stability, accuracy, speed and efficiency of our existing ML systems and processes.
+ Build, administer and scale ML processing pipelines.
+ Be comfortable navigating the following technology stack: Python3, Pyspark, scripting (Bash/Python), Hadoop, SQL, S3 etc.
+ Should be able to understand internals of ML models such as Random Forest, CNN, Regression models, etc
+ Design, build, test and deploy new libraries, frameworks or full systems for our core systems while keeping to the highest standards of testing and code quality.
+ Work with experienced engineers and product owners to identify and build tools to automate many large-scale data management / analysis tasks.
+ We believe in end-to-end ownership; this role will involve taking ML models to production at a scale.
+
+What You’ll need to Succeed:
+
+ Bachelor’s degree in computer science /information systems/engineering/related field
+ 8+ years of experience in software engineering with a minimum of 4+ years in ML
+ Good experience in Pyspark
+ Expert level understanding of Python with design patterns and object-oriented programming.
+ Experience debugging and reasoning about production issues is desirable.
+ A good understanding of data architecture principles preferred.
+ Any other experience with Big Data technologies / tools
+ SQL experience
+ Analytical problem-solving capabilities & experience.
+ Systems administration skills in Linux
+ A strong engineering driven mindset will be required to succeed in this role.
+
+It’s great if you have:
+
+ Good understanding of Hadoop ecosystems
+ Experience working with Open-source products
+ Experience with Scala development
+ Working in an agile environment using test driven methodologies
+
+#telaviv #jerusalem #IT #ENG #4 #sanfrancisco #sanjose #losangeles #sandiego #oakland #denver #miami #orlando #atlanta #chicago #boston #detroit #newyork #portland #philadelphia #dallas #houston #austin #seattle #sydney #melbourne #perth #toronto #vancouver #montreal #shanghai #beijing #shenzhen #prague #Brno #Ostrava #cairo #alexandria #giza #estonia #paris #berlin #munich #hamburg #stuttgart #cologne #frankfurt #hongkong #budapest #jakarta #bali #dublin #telaviv #milan #rome #venice #florence #naples #turin #palermo #bologna #tokyo #osaka #kualalumpur #malta #amsterdam #oslo #manila #warsaw #krakow #doha #alrayyan #riyadh #jeddah #mecca #medina #singapore #seoul #barcelona #madrid #stockholm #zurich #taipei #tainan #taichung #kaohsiung #bangkok #Phuket #istanbul #london #manchester #edinburgh #hcmc #hanoi #lodz #wroclaw #poznan #katowice #rio #salvador #newdelhi #bangalore #bandung #yokohama #nagoya #okinawa #fukuoka #jerusalem #IT #4
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.","Automation
+Add,Big Data
+Add,Computer Science
+Add,Data Mining
+Add,Machine Learning
+Add,Problem Solving
+Add,PySpark
+Add,Python (Programming Language)
+Add,Scala
+Add,Software Development
+Add,"
+DEVOPS ENGINEER,"Security Bank Corporation · Makati, National Capital Region, Philippines Reposted 1 week ago · 41 applicants",On-site Full-time Entry level,"About the job
+About Security Bank
+
+We're one of the Philippines’ leading universal banks. Over the years, we received various awards and accolades for being one of the most stable in the banking industry.
+
+The Role
+
+As a DevOps Engineer, you are responsible for the environment provisioning, building CI/CD Dev Ops pipeline, deployments into production, and day-to-day application components maintenance tasks.
+
+Minimum of 3 years of relevant experience 
+Systems administrator background
+Good fundamentals in Disaster recovery strategy, Performance Optimization, Cluster solution operation, Application Performance Management (Monitoring)
+Experience with Service Desk / Ticketing software. s.
+Basic knowledge of SQL (primary focus – select queries)","Airline Ticketing
+Add,CI
+Add,Continuous Integration and Continuous Delivery (CI/CD)
+Add,DevOps
+Add,Event Ticketing
+Add,Python (Programming Language)
+Add,SQL
+Add,Service Desk
+Add,Test Automation
+Add,Ticketing Systems
+Add,"
+IT Infrastructure Engineer,"CloudPay · Makati, National Capital Region, Philippines Reposted 1 week ago · 66 applicants",Hybrid Full-time Entry level,"About the job
+Role Pitch  If you’re a self-starter, that likes a challenge and looking for an exciting new Cloud Infrastructure Engineer role where you will have a real influence and impact on Cloud Infrastructure design, this is the role for you. This is a fantastic opportunity to join a highly skilled, high-functioning team, forming an essential part of a rapidly expanding global business within the technology and financial services space.
+
+CloudPay is towards the end of migrating its data centre hosted services to AWS and is in the early stages of formulating its public cloud tech strategy to keep scaling and make best use of the technology now at its disposal. With a company growing at 30% for 5 years straight, we find ourselves at an inflexion point in our technology stacks and IT organizational structure. CloudPay’s engineering teams build very sophisticated software using open-source technologies with the majority being in Java. We now operate in AWS and are closing out our DC usage. Our systems engineers play a crucial role in the design, building and maintenance of all our software and services.
+
+CloudPay builds, deploys and operates half a dozen customer facing services and many more backend services across 1000+ Linux hosts and AWS-managed services. The ideal candidate will have a good working knowledge of Linux Systems is strong with scripting in various languages, working with AWS and is a strong study of new technology.
+
+ Key Responsibilities  Daily Duties and Main Responsibilities will include:
+
+ Provision and maintain secure cloud infrastructure
+ Partner with scrum teams to deliver software releases
+ Build and manage secure automated systems
+ Maintain complete and comprehensive documentation
+ Manage logging, monitoring and alerting systems
+ Support incidents as they occur and work with teams on preventing future incidents
+ Work closely with engineers across all teams in different parts of the world
+
+ Description  Attributes and Experience Required:
+
+ 3+ years in a similar role
+ Good documentation and communications skills
+ Relevant degree or equivalent experience
+ Experience working with agile teams
+ Keen sense of ownership and drive, delivering on what you and your team have agreed on
+ A good understanding of the following concepts and standard practices:
+ GitOps and ITIL
+ IT security; GDPR, encryption at-rest/in-transit, patching, least-privilege
+ Networking; VPNs, Transit Gateways, routing, DNS, firewalls
+ GitOps and ITIL
+ Experience working with complex and, sometimes, tightly coupled systems
+ Strong experience with the following technology:
+ BASH
+ Puppet and Foreman
+ Rundeck
+ Terraform and AWS
+ Containerisation and microservice architecture
+ Desirable Experience:
+ JIRA, Confluence, Bitbucket
+ Bamboo, Jenkins
+ Apache, Nginx, Tomcat
+ MySQL, MongoDB
+ Ruby, PHP, Python
+ Bamboo, Jenkins
+ AWS: AWS Organisations, VPC, Transit Gateway, Gateway Load Balancer, VPN, Application/Network Load Balancer, ACM, EC2, ECS, EKS, Lambda, IAM, Security Groups, CloudTrail, CloudWatch, RDS, Amazon MQ
+
+ Benefits  Package and Benefits:
+
+ Competitive annual salary and benefits package
+ 18 days annual leave plus public holidays
+ Birthday leave
+ Earned Wage Access (via CloudPay Now app)
+ Flexible remote working
+ 10 days sick leave
+ HMO
+ Personal and professional development opportunities
+ Friendly working environment","Communication
+Add,Digital Authentication
+Add,Domain Name System (DNS)
+Add,General Data Protection Regulation (GDPR)
+Add,GitOps
+Add,Microservices
+Add,Networking
+Add,Puppet (Software)
+Add,Technical Support
+Add,Troubleshooting
+Add,"
+System Engineer (VDI),"CXC · Mandaluyong, National Capital Region, Philippines 3 weeks ago · 75 applicants",Hybrid Full-time Mid-Senior level,"About the job
+SYSTEM ENGINEER (VDI)
+
+OVERALL KEY POSITION OBJECTIVES
+This position is part of the Regional End User Services (EUS) IT Infrastructure Team which supports Internal end users using the IT Infrastructure. These include various 3rd party and in-house applications and infrastructure including PCs, Virtual desktops, Macs, Mobile Devices, Servers, and cloud-based services.
+
+Main Duties and Responsibilities include:
+
+ Perform duties in accordance with the IT Service Management Processes 
+Utilise and manage Incident, Change and service Requests using the Global IT Service Management Toolset (ServiceNow)
+Promote user compliance with IT Service Management Processes
+Ensure IT asset registers are updated timely as required.
+Monitor open Incidents, Change, and Service requests to ensure that remediation action is taken timely.
+
+ Share Infrastructure Support
+Performing basic systems and network administration tasks per established processes, procedures, and work schedules.
+Ensure the IT work areas and Computer Room are kept tidy and secure at all times.
+Liaise with vendor, Regional Helpdesk and Local IT Teams on technical issues and problems resolution.
+Perform basic support of local and wide-area network infrastructure (switches, routers, firewall, communications links and security equipment).
+Perform periodic patch maintainance to the Virtual Desktop environment. (VMWare VDI)
+Perform Sofftware Deployment using Microsoft System Centre Configuration Manager.
+
+VIP and End User Support
+Manage user account ID administration. Creation, deletion and update of user profiles for Active Directory, VPN, Single Sign On, AS/400, e-mail and applications access) as per procedure.
+Provide guidance to users on usage of workstation hardware and software.
+Maintain high level of service and user satisfaction.
+Perform installation, configuration, updates and support of user workstation. This includes PCs VDIs, multi-function printers, operating system software (Window 10 / 7), security software (Symantec) for both the Regional Office and APAC Branch offices.
+Ensuring all IT support-related activities and changes implemented on EUS infrastructure (virtual and physical) are carried out in such a way so as to maximize systems and infrastructure availability for users and minimise exposures to system security vulnerabilities.
+User Support for Avaya telephony systems and Cisco WebEx Video Conferencing.
+Provide VIP IT support for key management staff.
+Perform configuration, user support and trouble-shooting functions for applications and IT systems (PCs, servers, printers and the communications network) during business hours and after hours (as rostered)
+Provide mobile device management support for IOS and Android devices in conjunction with MobileIron, AirWatch and Intune.
+Liaise with external suppliers and service providers as may be required for equipment deliveries and service repairs.
+Ensuring an efficient approach to problem resolution is maintained through timely root cause identification. and implementation of a one-time fix for the problem, avoiding the need for repeated “band-aid” fixes.
+Ensuring a positive, pro-active “can do” approach is maintained, and support is provided to users in a courteous and professional manner at all times.
+Workstation Security currency for Win OS Monthly Patches and various Security tools on VDI Master Images.
+
+Application Support
+Install application program patches on VDI Master Images as requested by applications support personnel.
+Perform in-house application installation on VDI Master Images, configuration and troubleshoot per instructions provided.
+Perform installation, configuration, and support of VDI applications including Microsoft Office, Symantec Antivirus, Rightfax, IP Softphones etc.
+
+Project Management Support 
+Perform project management tasks related to assigned projects. This includes managing the full lifecycle of the project, timelines, resources, communication, and reporting.
+Assist with technical aspects required as part of any IT project.
+Adhering to agreed schedules and meeting deadlines.
+Facilitate Periodic Project Reporting as required.
+
+DESIRED QUALIFICATIONS
+
+Education
+Diploma and above, majoring in Information Technology, Computer Science or equivalent.
+Knowledge in IT Infrastructure Library (ITIL) framework will be beneficial.
+
+Years of experience
+· 5 years of experience
+
+Personality 
+Good problem-solving troubleshooting skills
+Fast and willing Learner
+Strong team player, demonstrating excellent team qualities.
+Strong verbal and written communication skills.
+Possess the ability to drive through projects and change based on both skill in project management and through their individual personality.
+Able to work in a highly stressful environment.
+
+Strong technical knowledge in the following areas is required.
+· VMware Horizon Virtual Desktop Infrastructure
+
+Strong technical knowledge in the following areas is desirable. 
+Microsoft Windows 10, Windows 7
+Microsoft Office 365, Office 2016 / 2013 / 2010
+Microsoft Active Directory and Azure Domain Services
+Microsoft System Centre Configuration Manager.
+Windows Server 2016/2012/2008","Active Directory
+Add,Antivirus
+Add,Desktop Virtualization
+Add,Microsoft Office
+Add,Office 365
+Add,Project Management
+Add,Troubleshooting
+Add,Virtual Desktop Infrastructure
+Add,Windows 7
+Add,Windows Server
+Add,"
+DevSecOps Application Security Engineer,"Ciena · Manila, National Capital Region, Philippines Reposted 1 week ago · 99 applicants",Remote Full-time,"About the job
+Ciena is committed to our people-first philosophy. Our teams enjoy a culture focused on prioritizing a personalized and flexible work environment that empowers an individual’s passions, growth, wellbeing and belonging. We’re a technology company that leads with our humanity—driving our business priorities alongside meaningful social, community, and societal impact. 
+
+Job Location
+
+Philippines - Remote
+
+For more than 25 years, Ciena has been a global leader in networking strategy. Our technology is part of the critical infrastructure that enables innovations that wow us - like autonomous driving, and those we take for granted - like mobile-streaming video. These advancements in technology are possible because of the pioneering approach at Ciena. We are at the forefront of cutting-edge technology that makes the internet itself work. We build adaptive networks that grow smarter, more agile, and more responsive every day – much like Ciena itself
+
+The mission of the Security DevOps team is to increase organizational efficiency through technology integrations, and workflow automations, allowing teams to focus on technological innovation and process refinement. A Senior DevSecOps Developer and Engineer is responsible for leading the technical implementation and maintenance of automation infrastructure to improve collaboration and productivity of software development teams. The individual will lead and provide guidance and support to Ciena’s development and software/engineering teams on the current secure SDLC and software development security standards.
+
+Responsibilities
+
+The engineer will be leading initiatives to improve application security posture by implementing security controls, automating solutions, and evangelizing practices that shift security left.
+Supporting, maintaining, and implementing vulnerability scanners to help us detect and respond to new types of threats.
+Collaborate with development teams to drive remediation of identified risks and control deficiencies.
+Supporting our development colleagues with consultation on secure coding best practices.
+Incorporate best practices to increase the quality & velocity of deployments.
+Look for ways to optimize security processes and recommend opportunities and solutions for improvement and automation.
+Support multiple agile teams across various platforms & multi-cloud environments.
+Employ infrastructure as code paradigm to increase automation, scalability, and reliability.
+Provide technical leadership and direction in the DevSecOps domain.
+Perform technology watch related to industry trends, best practices, and competition.
+
+What We're Looking For
+
+Qualified candidates will have a background in IT, computer, security systems analysis and engineering.
+Proven work experience as a system engineer or information security engineer
+Strong knowledge of Linux based operating systems and security fundamentals.
+Display technical excellence in Cloud Native technologies as well as multidisciplinary capabilities in coding, networking, governance, project management, etc.
+Excellent knowledge of Cloud Platforms like Google Cloud, AWS, Azure
+Experience in the implementation of cloud technologies (Microsoft Azure) and an understanding of SAAS, PAAS, and IAAS models 
+Detailed understanding of the latest security principles, techniques, and standards
+Ability to tackle problems independently as well as collaborate as a team to iron out sophisticated problems in support of the team’s mission.
+Knowledge of network based, system level, and application layer attacks and mitigation methods.
+Experience with using SCA, SAST, and DAST application security tools.
+Hands-on experience in gitOps frameworks using tools like AzureDevOps, TeamCity, Atlassian Suite (Confluence, JIRA, BitBucket, etc), Jenkins, GitLab, GitHub, etc; and infrastructure as code such us Terraform or Ansible
+Knowledge of containerization software: Docker, Kubernetes
+Strong programming/scripting knowledge - Go, Python, Bash, etc.
+
+At Ciena, we are committed to building and fostering an environment in which our employees feel respected, valued, and heard. Ciena values the diversity of its workforce and respects its employees as individuals. We do not tolerate any form of discrimination.
+
+Ciena is an Equal Opportunity Employer, including disability and protected veteran status.
+
+If contacted in relation to a job opportunity, please advise Ciena of any accommodation measures you may require.","DevSecOps
+Add,Go (Programming Language)
+Add,Information Security
+Add,Linux
+Add,Python (Programming Language)
+Add,Scripting
+Add,"
+"Senior Software Architect, Trilogy (Remote) - $200,000/year USD","Crossover  · National Capital Region, Philippines Reposted 6 days ago · 9 applicants",Remote Full-time Mid-Senior level,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a seasoned software engineer with a deep interest in AI? Trilogy is on the lookout for exceptional engineers to lead the charge in adopting generative AI tools both in our development process and into our products.
+
+Join us to work on our exciting product portfolio:
+
+TeachTap: Bringing historical figures to life using AI, offering an engaging, TikTok-like learning experience to make learning more relevant and fun.
+Educational Content Generation: Utilizing the latest in generative AI combined with comprehensive learning materials to create captivating content.
+TeachTower: A game-based motivation system inspired by popular games like Roblox and Minecraft, designed to make learning irresistibly fun.
+Coachbot: A learning copilot that integrates with existing apps, guiding learning paths, recommending next steps, and rewarding daily progress.
+Data-driven Sales: A sales platform that leverages AI to provide real-time guidance to agents during calls, create personalized renewal plans, and quality control sales calls.
+Crossover: An AI-powered hiring platform that sifts through millions of applicants annually to find the top 1% of global talent.
+
+Your role will focus on integrating AI into engineering practices, using AI tools to increase efficiency and solve engineering tasks like coding and testing. Based on the obtained results, you will derive recipes and playbooks to be adopted by the broader engineering team. Maintaining high-quality standards in our codebases while ensuring high leverage of AI tools across our engineering teams will be a key part of your work.
+
+You will be an integral part of our existing engineering team, working collaboratively on our suite of products to deeply understand our environment and needs. You will have the freedom to propose and experiment with new tools and then will leverage the insights and experiences obtained to evolve our processes, advocate for new tool adoption, or even spearhead the creation of small tools, bots, and frameworks to enhance our technical setup.
+
+We seek candidates with a strong background in software engineering and a capacity for adapting to new technologies. Moreover, an interest in the latest generative AI developments and a drive for innovation are crucial. While our primary tech stack is AWS Serverless with TypeScript, we're looking for versatile engineers who can excel in a variety of technical environments and challenges.
+
+What You Will Be Doing
+
+Developing fully functional features, using AI tools to expedite delivery and enhance quality.
+Performing experiments with AI to enhance engineering processes, including decomposition, solution design, code generation, and troubleshooting.
+Documenting best practices and techniques in guides that enable others to harness the power of generative AI effectively.
+
+What You Won’t Be Doing
+
+Building new AI models from scratch; instead, your focus will be on leveraging and fine-tuning existing models to maximize efficiency.
+Being confined to outdated technologies; we encourage an environment that thrives on dynamic tech stacks, fostering continuous innovation.
+
+Senior Software Architect Key Responsibilities
+
+Drive transformative change by establishing a framework that seamlessly integrates generative AI, significantly amplifying engineering productivity.
+
+Basic Requirements
+
+Minimum 5 years of experience in professional software development.
+Minimum 3 years either as a lead engineer reviewing the work of other engineers or as an architect making important technical decisions.
+Excited to use and explore new generative AI tools for software engineering tasks on a day-to-day basis
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-5106-PH-NCRNatio-SeniorSoftware","Cascading Style Sheets (CSS)
+Add,Documentation
+Add,Enterprise Solution Design
+Add,Service-Oriented Architecture (SOA)
+Add,Software Architecture
+Add,Software Design
+Add,Software Development
+Add,Technical Solution Design
+Add,Troubleshooting
+Add,Web Services
+Add,"
+Software Engineer,"BDO Unibank · National Capital Region, Philippines Reposted 1 week ago · 124 applicants",On-site Full-time Mid-Senior level,"About the job
+He/She/They will enable BDO Analytics Team and other business units to answer vital business questions by facilitating infrastructure improvement, process flow automation and data source integration in EDP.
+
+Responsibilities
+Understanding and maintenance of the Enterprise Data Platform (EDP)
+Performing tasks related to infrastructure management, automation and api integration in EDP
+Evaluating, implementing and integrating new tools/software for the Data and Analytics team
+
+Qualifications
+Bachelor's degree or equivalent experience in Computer Science or related field
+At least 5 years of relevant experience on big data management and software engineering
+Strong knowledge on Python programming
+Strong knowledge on data architecture, infra management, automation, api integration and data acquisition
+Strong knowledge of enterprise data management and related technologies (ETL Tools, SQL)
+Significant experience using Microsoft Azure Cloud Platform and Azure Databricks","Azure Databricks
+Add,Data Architecture
+Add,Data Management
+Add,Enterprise Data
+Add,Infrastructure Management
+Add,Microsoft Azure
+Add,Process Flow Documentation
+Add,Python (Programming Language)
+Add,Software Engineers
+Add,"
+Remote - Systems Software Senior Engineer,"TTEC · Quezon City, National Capital Region, Philippines Reposted 2 hours ago · 7 applicants",Remote Full-time,"About the job
+Senior Software Engineer
+
+Remote – PHL mid shift / graveyard shift
+
+Bringing smiles is what we do at TTEC… for you and the customer. As a Senior Software Engineer working remotely in the Philippines, you’ll be a part of creating and delivering amazing customer experiences while you also #ExperienceTTEC, an award-winning employment experience and company culture.
+
+Position Summary
+
+Senior Software Engineer provides solutions to technical challenges facing the development of digital products or solutions. They focus on building end-to-end scalable solutions (web applications, automation, and application integration) depending on the client's requirements and specifications.
+
+Responsibilities
+
+Develop well-structured, efficient, and maintainable code for both front-end and back-end components.
+Understand business requirements, check the feasibility of requirements, and give a detailed estimate.
+Plan, manage and execute pilots, evaluations and Proof of Concepts
+Design, develop, and implement web applications, automation solutions, and application integration.
+Troubleshoot production issues and coordinate with the architecture team to streamline deployments.
+Complete and ensure completion of technical documentations (solutions design document, technical design document, testing matrix, user’s manual, troubleshooting guide, etc.)
+Drive continuous improvement of the implemented solutions.
+
+
+Requirements
+
+BS degree in Computer Science or equivalent – advanced degree a plus
+At least 3 years’ experience in web development, automation, and application integration. 
+Exhibit expertise in software development methodologies.
+Advanced level programming, architecture design, and troubleshooting skills of a Web application in C#, Python, Java or GoLang.
+Knowledge of multiple front-end languages and libraries (e.g. , JavaScript, ES6+, React, Typescript)
+Working knowledge of databases and SQL (Structured Query Language)
+High level understanding of cloud (AWS, Azure, GCP) computing architecture and practices.
+Excellent debugging skills; able to debug complex technical issues involving multiple system components.
+Work independently and as part of a team. 
+Excellent communication skills and the ability to clearly communicate technical concepts to non-technical audience.
+A good understanding of version control, branching
+Exposure in GenerativeAI (Azure OpenAI, Google Enterprise Search) is desired.
+
+
+What You Can Expect
+
+Dedication to your career growth and professional development
+Actively diverse and inclusive culture 
+Community-minded organization committed to giving back.
+Global team of curious lifelong learners guided by our company values.
+And yes... all the competitive compensation, performance bonus opportunities, benefits you'd expect and maybe a few that would pleasantly surprise you.
+
+
+Visit https://mybenefits.ttec.com for more information.
+
+About TTEC
+
+Our business is about making customers happy. That's all we do. Since 1982, we've helped companies build engaged, pleased, profitable customer experiences powered by our combination of humanity and technology. On behalf of many of the world's leading iconic and hypergrowth brands, we talk, message, text, and video chat with millions of customers every day. These exceptional customer experiences start with you.
+
+TTEC is proud to be an equal opportunity employer where all qualified applicants will receive consideration for employment without regard to race, color, religion, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. TTEC embraces and is committed to building a diverse and inclusive workforce that respects and empowers the cultures and perspectives within our global teams. We aim to reflect the communities we serve, by not only delivering amazing service and technology, but also humanity. We make it a point to make sure all our employees feel valued, belonging, and comfortable being their authentic selves at work. As a global company, we know diversity is our strength because it enables us to view things from different vantage points and for you to bring value to the table in your own unique way.
+
+Primary Location
+
+PH-National Capital-Mandaluyong, Metro Manila
+
+Other Locations
+
+PH-Western Visayas-Bacolod, PH-Western Visayas-Iloilo, PH-National Capital-Pasay City, Metro Manila, PH-Calabarzon-Santa Rosa, PH-National Capital-Quezon City, Metro Manila, PH-Central Luzon-Pampanga, PH-Calabarzon-Cainta, PH-Calabarzon-Lipa","Business Requirements
+Add,C (Programming Language)
+Add,C#
+Add,Communication
+Add,Databases
+Add,Debugging
+Add,EAI
+Add,Java
+Add,Software Development
+Add,Troubleshooting
+Add,"
+DevSecOps Application Security Engineer,"Ciena · Manila, National Capital Region, Philippines Reposted 1 week ago · 81 applicants",Remote Full-time Mid-Senior level,"About the job
+Ciena is committed to our people-first philosophy. Our teams enjoy a culture focused on prioritizing a personalized and flexible work environment that empowers an individual’s passions, growth, wellbeing and belonging. We’re a technology company that leads with our humanity—driving our business priorities alongside meaningful social, community, and societal impact. 
+
+Job Location
+
+Philippines - Remote
+
+For more than 25 years, Ciena has been a global leader in networking strategy. Our technology is part of the critical infrastructure that enables innovations that wow us - like autonomous driving, and those we take for granted - like mobile-streaming video. These advancements in technology are possible because of the pioneering approach at Ciena. We are at the forefront of cutting-edge technology that makes the internet itself work. We build adaptive networks that grow smarter, more agile, and more responsive every day – much like Ciena itself
+
+The mission of the Security DevOps team is to increase organizational efficiency through technology integrations, and workflow automations, allowing teams to focus on technological innovation and process refinement. A Senior DevSecOps Developer and Engineer is responsible for leading the technical implementation and maintenance of automation infrastructure to improve collaboration and productivity of software development teams. The individual will lead and provide guidance and support to Ciena’s development and software/engineering teams on the current secure SDLC and software development security standards.
+
+Responsibilities
+
+The engineer will be leading initiatives to improve application security posture by implementing security controls, automating solutions, and evangelizing practices that shift security left.
+Supporting, maintaining, and implementing vulnerability scanners to help us detect and respond to new types of threats.
+Collaborate with development teams to drive remediation of identified risks and control deficiencies.
+Supporting our development colleagues with consultation on secure coding best practices.
+Incorporate best practices to increase the quality & velocity of deployments.
+Look for ways to optimize security processes and recommend opportunities and solutions for improvement and automation.
+Support multiple agile teams across various platforms & multi-cloud environments.
+Employ infrastructure as code paradigm to increase automation, scalability, and reliability.
+Provide technical leadership and direction in the DevSecOps domain.
+Perform technology watch related to industry trends, best practices, and competition.
+
+What We're Looking For
+
+Qualified candidates will have a background in IT, computer, security systems analysis and engineering.
+Proven work experience as a system engineer or information security engineer
+Strong knowledge of Linux based operating systems and security fundamentals.
+Display technical excellence in Cloud Native technologies as well as multidisciplinary capabilities in coding, networking, governance, project management, etc.
+Excellent knowledge of Cloud Platforms like Google Cloud, AWS, Azure
+Experience in the implementation of cloud technologies (Microsoft Azure) and an understanding of SAAS, PAAS, and IAAS models 
+Detailed understanding of the latest security principles, techniques, and standards
+Ability to tackle problems independently as well as collaborate as a team to iron out sophisticated problems in support of the team’s mission.
+Knowledge of network based, system level, and application layer attacks and mitigation methods.
+Experience with using SCA, SAST, and DAST application security tools.
+Hands-on experience in gitOps frameworks using tools like AzureDevOps, TeamCity, Atlassian Suite (Confluence, JIRA, BitBucket, etc), Jenkins, GitLab, GitHub, etc; and infrastructure as code such us Terraform or Ansible
+Knowledge of containerization software: Docker, Kubernetes
+Strong programming/scripting knowledge - Go, Python, Bash, etc.
+
+At Ciena, we are committed to building and fostering an environment in which our employees feel respected, valued, and heard. Ciena values the diversity of its workforce and respects its employees as individuals. We do not tolerate any form of discrimination.
+
+Ciena is an Equal Opportunity Employer, including disability and protected veteran status.
+
+If contacted in relation to a job opportunity, please advise Ciena of any accommodation measures you may require.","DevSecOps
+Add,Go (Programming Language)
+Add,Information Security
+Add,Linux
+Add,Python (Programming Language)
+Add,Scripting
+Add,"
+"Principal Software Engineer, Full Stack (Remote)","Agoda · Manila, National Capital Region, Philippines 2 weeks ago · 24 applicants",Remote Full-time Mid-Senior level,"About the job
+About Agoda
+
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 3.6 million accommodations globally. Based in Asia and part of Booking Holdings, our 6,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.
+
+About The Job
+
+Note: Agoda’s hybrid workplace includes a few select remote roles and in-office roles. By applying to this position you will have an opportunity to share your preferred working location from the following:
+
+ In-office locations: Gurugram, India; Bangkok, Thailand. 
+
+ Full Remote location(s): Bangalore, India; Pune, India; Tokyo, Japan; Taipei, Taiwan; Manila, Philippines; Melbourne, Australia. 
+
+Get to Know our Team:
+
+The Full Stack Engineering Department builds the Agoda web and app products. We have several teams in front-end focusing on different aspects of our products including accommodations, flights, payments, marketing, post-booking services, and more. Agoda’s marketplace is the world. We build localized and optimized user experiences at scale on every major internet platform. These include our mobile websites, native apps, and desktop sites. We hire people from around the world who have a passion for using technology to create and implement the best user experiences. Our teams work on the full stack and build end-to-end systems including user interfaces, APIs, backend systems, and database systems. Our products are always evolving and under experimentation. We accomplish this by having an amazing degree of automation, CI/CD systems, and use a modularized approach. As we are data driven and measure our results, we continually innovate and improve our work. We are looking for the next great talent who strives to learn and grow and has a standard of excellence, strong sense of ownership, and great technical skills.
+
+The Opportunity:
+
+Principal Software Engineer plays a pivotal role in our technology organization, collaborating closely with individual contributors and senior leadership. Our Principal engineers are heavily involved in the hiring and mentoring process and the go-to experts who design and implement new systems and components. We are seeking individuals who are passionate about taking on greater responsibilities and driving significant architectural changes at Agoda. It’s expected that our Principal Software Engineers will lead Agoda forward technically by adopting new technologies and setting higher standards.
+
+In this Role, you’ll get to: 
+
+ Maintain ownership and responsibility of mission critical systems 
+Be hands on – build high volume platforms using cutting-edge technologies like React and GraphQL
+Mentor and coach other software engineers
+Be a major contributor to our agile and scrum practices
+Design and lead crucial technical projects and initiatives cross teams and departments
+Stay on the leading edge of technical know-how, industry trends and drive technical innovations
+
+What you’ll Need to Succeed:
+
+ 12+ years of experience building large-scale web applications 
+ Expertise in client-side technologies & frameworks (JavaScript/TypeScript, React) and modern server-side technologies (C#, .NET, Kotline, Java) 
+ Bachelor’s degree with a preference for Computer Science degree; a master’s degree is preferred. Alternatively, a minimum of 10 years of experience in the relevant field is acceptable 
+ Working experience with agile, analytics, A/B testing and/or feature flags, Continuous Delivery, Trunk-based Development 
+You love new technologies and approaches and want to use the best tools available. We want people who can help us continually evolve our stack
+Great communication and coordination skills
+Excellent analytical thinking and problem-solving skills
+You have a good command of the English language
+
+It’s Great if you have:
+
+ Knowledge in physical architecture at scale, building resilient, no single point of failures, highly available solutions 
+ Knowledge in one or more of the following: NoSQL technologies (Cassandra, ScyllaDB, ElasticSearch, Redis, DynamoDB, etc), Queueing system experience (Kafka, RabbitMQ, SQS, Azure Service Bus, etc.) 
+Working Experience with Containers and Dockerization, also K8S is a plus
+Knowledge and hands on experience in CI/CD solutions would be a plus
+Strong experience in all aspects of client-side performance optimization
+Extremely proficient in modern coding and design practices. For example, Clean Code, SOLID principals, and TDD
+Experience in multiple front-end platforms including iOS, Android, Web, and API services
+Have worked on an app or internet company that is at scale with large numbers of users and transactions per second
+Have experience in a data driven company with experience analyzing and working with Big Data
+Lead teams and greenfield projects solving large system problems
+Worked on global projects serving world markets with distributed data centers and localization of the front end and data
+
+#Manila #Philippines
+
+Equal Opportunity Employer 
+
+At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.
+
+We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our privacy policy .
+
+To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.","A/B Testing
+Add,Android
+Add,Clean Coding
+Add,Computer Science
+Add,Coordination Skills
+Add,Front-End Development
+Add,Optimization
+Add,Performance Tuning
+Add,Problem Solving
+Add,iOS
+Add,"
+Solutions Developer - Power Apps (Homebased 2199111742),Outsourced · Philippines 6 days ago · 19 applicants,Remote Full-time Mid-Senior level,"About the job
+Primary Accountabilities: 
+Maintain and improve TypeScript functions to enhance current app capabilities
+Modify and improve functionality of C# plugins that handle internal app operations
+Assist with the creation and modification of solution-packaged PCF Components
+Accountabilities – closer look
+Responsible for our current solutions and expert on our repos.
+Collaboration on a custom web application that will allow for management of deployed Power Apps solutions
+Undertake everything that comes with R&D activities, such as research, experimentation, collaboration, documentation, and knowledge-sharing.
+Work with our team to enhance our core solutions and develop new ones.
+Be a resident expert on the Microsoft Power Platform and related technologies
+Work with our consultants to help make our clients successful, including suggesting best practices and developing custom solutions.
+ Ideal Candidate Attributes/Qualities
+Proactive, self-starter with excellent project management skills
+Strong and confident communicator and presenter
+Process-driven, detail-oriented, and meticulous
+High degree of personal and professional integrity
+Demonstrated history of reliability
+
+Required Experience/Knowledge
+Proficient in TypeScript for client-side scripting and customizing Dynamics 365 applications
+React.js and Node.js knowledge
+Familiarity with Azure DevOps for version control, build automation, and deployment of Power Platform solutions using CI/CD pipelines and YAML
+Power Apps Component Framework (PCF) Development
+Thorough knowledge of the Microsoft Power Platform
+Extensive knowledge of DevOps best practices
+C# and .NET Framework for developing custom plugins, integrations, and web services
+Knowledge of web services and APIs such as REST and OData for integration purposes
+Power Platform ALM/Solutions Development
+
+Desired Experience/Knowledge
+Microsoft certifications in Power Platform Development
+SQL and M (Power Query) a plus
+Strong communication skills to effectively collaborate with cross-functional teams, stakeholders, and end-users
+ Additional Information: 
+Permanent Homebased; equipment is provided
+Tuesday to Saturday,5am to 2pm/ 6:00am to 3pm Manila time/ 
+
+By clicking on the ""I'm Interested"" button I hereby allow Outsourced Quality Assured Services, Inc. (""Outsourced"") to store and collect my personal information for the purposes of employment application. As such, I agree and authorize Outsourced to collect, store, or continue to use my personal information for the above-stated purpose, and to retain my personal information for a period of 1 year, and for these purposes only.","Microsoft Dynamics 365
+Add,Microsoft Power Apps
+Add,Microsoft Power Platform
+Add,"
+"Intermediate Site Reliability Engineer, Operations (APAC)",GitLab · Philippines Reposted 5 days ago · 47 applicants,Remote Full-time Associate,"About the job
+The GitLab DevSecOps platform empowers 100,000+ organizations to deliver software faster and more efficiently. We are one of the world’s largest all-remote companies with 2,000+ team members and values that foster a culture where people embrace the belief that everyone can contribute. Learn more about Life at GitLab .
+
+An Overview Of This Role
+
+Site Reliability Engineers (SREs) are responsible for keeping all user-facing services and other GitLab production systems running smoothly. SREs are a blend of pragmatic operators and software craftspeople that apply sound engineering principles, operational discipline, and mature automation to our environments and the GitLab codebase. We specialize in systems, whether it be networking, the Linux kernel, or some more specific interest in scaling, algorithms, or distributed systems.
+
+GitLab.com is one of the biggest GitLab instances in existence. In fact, it’s one of the largest multi-tenancy open-core SaaS sites on the internet.
+
+The experience of our team feeds back into other engineering groups within the company, as well as to GitLab customers running self-managed installations.
+
+Some Examples Of The Projects You Could Work On
+
+Coding infrastructure automation with Terraform.
+Implement configuration changes across various internal systems.
+Improving our Prometheus Monitoring or building new Metrics. 
+Ensure that corrective actions are implemented.
+Make monitoring and alerting alert on symptoms and not on outages.
+
+What you’ll do:
+
+Be on a PagerDuty rotation to respond to GitLab.com availability incidents and provide support for service engineers with customer incidents.
+Analyze existing and maintain new GitLab.com Service Level Objectives. 
+Troubleshoot, evaluate and resolve operational challenges contributing to defined SLO's.
+Contribute tooling to automate operational tasks and increase team efficiency. 
+Maintain supporting infrastructure and tooling to meet the demands of GitLab.com.
+Collaborate with cross functional teams to remove work blockers. 
+Create and update documentation, refining the existing and adding new operational runbooks.
+Collaborate with development and security teams to align with SRE best practices.
+
+What You’ll Bring
+
+Bachelor’s degree in Computer Sciences, or equivalent practical experience.
+Experience as an SRE or a Platform engineer.
+Drive for automation of every operational task, a core requirement for this role. For example: package updates, configuration changes across all environments, creating tools for automatic provisioning of user facing services, etc.
+Focus and agility to respond to platform emergencies, alerts, and escalations from Customer Support.
+Team focus by helping the team plan for new service roll-outs, expansion and capacity management of existing services, and work to optimize resource consumption.
+Influence on architectural decisions that improve service reliability.
+Experience in driving root cause analysis, and implementing preventative measures to prevent recurrence of the problem.
+Basic understanding of system administration and networking.
+Familiarity with scripting languages, and understanding of basic concepts of either Ruby or Go.
+Knowledge of containerization and orchestration technologies (e.g. Kubernetes).
+Clear and concise written and verbal communication.
+Drive to learn and urge to learn from the feedback provided by peers.
+Ability to leverage GitLab as your day-to-day go-to tool.
+An urge to document all the things so you don't need to learn the same thing twice.
+
+Country Hiring Guidelines: GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.
+
+Privacy Policy: Please review our Recruitment Privacy Policy. Your privacy is important to us.
+
+GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also GitLab’s EEO Policy and EEO is the Law . If you have a disability or special need that requires accommodation , please let us know during the recruiting process .","Audio Engineering
+Add,Automation
+Add,Communication
+Add,Linux Kernel
+Add,Reliability
+Add,Root Cause
+Add,Root Cause Analysis
+Add,Ruby
+Add,Site Reliability Engineering
+Add,System Administration
+Add,"
+Platform Reliability Engineer,"Manulife · Makati, National Capital Region, Philippines Reposted 2 days ago · 14 applicants",Full-time Entry level,"About the job
+We are a leading financial services provider committed to making decisions easier and lives better for our customers and colleagues around the world. From our environmental initiatives to our community investments, we lead with values throughout our business. To help us stand out, we help you step up, because when colleagues are healthy, respected and meaningfully challenged, we all thrive. Discover how you can grow your career, make impact and drive real change with our Winning Team today.
+
+Working Arrangement
+
+Hybrid
+
+Job Description
+
+The opportunity
+
+Technology Overview
+
+New Relic Suite, Broadcom APM, Dynatrace Synthetics, and PRTG, and others in use by teams across Manulife
+
+AIOps technologies such as Moogsoft 
+
+Devo
+Azure, Pivotal Cloud Foundry (PCF), Docker, Kubernetes and other components supporting a highly automated global engineering platform
+ITIL tools such as ServiceNow
+xMatters notification software
+Virtual infrastructure running Red Hat Enterprise Linux and Windows operating systems
+Languages such as Java, JavaScript, .NET, .NET Core, Node.JS, React and Angular
+Markup languages such as HTML, CSS, Swift and/or similar technologies
+Scripting languages such as PowerShell and Python
+Open source! 
+
+As a GTSM Platform Reliability Engineer, You Will
+
+Support our Product Line Engineering (PLE) organizations to develop resilient and highly scalable applications, working closely with our operations staff to support these applications while maintaining a strong focus on application reliability
+Champion, promote, and deploy the effective use of innovative application monitoring and AIOps-based machine learning tools
+Facilitate monitoring and custom instrumentation across our business-critical applications, including the consultation and management of agent-based, agentless, synthetic and scripted monitoring technologies
+Address incidents and problems within the platforms, with rotational accountability for on-call support
+Collaborate with platform and software engineers, site reliability engineers, product managers and engineering leadership to uncover difficulties and opportunities to accelerate the delivery of new value through software
+Prototype and build new capabilities to increase the leverage of platform operations and security
+Deliver an outstanding user experience to our engineers with a focus on reliability
+
+You will bring and continuously build upon the following skills: 
+
+An entrepreneurial spirit and comfort working within a constantly evolving environment; you love the challenge of working on a small team and being part of a larger movement to change the reliability engineering culture of an enterprise
+Advance knowledge abilities and divisional adoption of monitoring platform and machine learning stacks, promoting their effective use and enable data-driven decision making
+Understanding of distributed cloud platforms through configuration, deployment, and lifecycle management automation tools
+Familiarity with agile and DevOps principles, test-driven development, continuous integration, and other approaches to accelerate the delivery of new features
+Experimenting with emerging technologies and understanding how they will impact what comes next. Ensuring that the end-to-end pipeline is effectively instrumented for reliability
+A capacity for constant learning from both success and failure, remaining open to change and continuous improvement
+Excellent organizational and problem-solving abilities 
+Strong verbal and written communication with the ability to effectively articulate and communicate technical vision, possibilities, and outcomes across all levels in the organization
+
+What can we offer you?
+
+A competitive salary and benefits packages.
+A growth trajectory that extends upward and outward, encouraging you to follow your passions and learn new skills.
+A focus on growing your career path with us.
+Flexible work policies and strong work-life balance.
+Professional development and leadership opportunities.
+
+Our commitment to you
+
+Values-first culture We lead with our Values every day and bring them to life together.
+Boundless opportunity We create opportunities to learn and grow at every stage of your career.
+Continuous innovation We invite you to help redefine the future of financial services.
+Delivering the promise of Diversity, Equity and Inclusion We foster an inclusive workplace where everyone thrives.
+Championing Corporate Citizenship We build a business that benefits all stakeholders and has a positive social and environmental impact.
+
+About Manulife And John Hancock
+
+Manulife Financial Corporation is a leading international financial services group that helps people make their decisions easier and lives better. With our global headquarters in Toronto, Canada, we operate as Manulife across our offices in Asia, Canada, and Europe, and primarily as John Hancock in the United States. We provide financial advice, insurance, and wealth and asset management solutions for individuals, groups and institutions. At the end of 2022, we had more than 40,000 employees, over 116,000 agents, and thousands of distribution partners, serving over 34 million customers. At the end of 2022, we had $1.3 trillion (US$1.0 trillion) in assets under management and administration, including total invested assets of $0.4 trillion (US $0.3 trillion), and segregated funds net assets of $0.3 trillion (US$0.3 trillion). We trade as ‘MFC’ on the Toronto, New York, and the Philippine stock exchanges, and under ‘945’ in Hong Kong.
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com.","Communication
+Add,Mechanical Engineering
+Add,Preventive Maintenance
+Add,Problem Solving
+Add,Reliability
+Add,Reliability Engineering
+Add,Written Communication
+Add,"
+Senior Web Developer,InDebted · Philippines 2 weeks ago · 77 applicants,Remote Full-time Mid-Senior level,"About the job
+About Us
+
+InDebted is changing the world of consumer debt recovery for good by providing businesses with a better way for their consumers to get back on track.
+
+Nobody can change the fact that debt happens. But we can change the experience of being in debt, by creating a better way for credit providers to support consumers through it. Our Collect product delivers up to 40% increased collections performance, while providing the world’s highest rated customer experience with over 2000 5-star Google reviews.
+
+We’re fully remote, with a team of over 200 people living and working to fulfil our purpose all around the world. Founded and headquartered in Australia in 2016, we’ve since expanded into the United States, United Kingdom, Canada and New Zealand. We’ve completed four funding rounds totalling $70+ million AUD, with a growth trajectory forecasting profitability in 2024.
+
+About The Role
+
+We are looking for a Senior Web Developer. This role sits in InDebted’s Marketing team, reporting into our Marketing Operations Lead. You’ll be working collaboratively to build a high performing website by applying best practices in delivering code of the very highest standard, fully tested and debugged.
+
+Role Responsibilities
+
+You’ll take full ownership for web development for our custom-built website built with Hugo Framework
+You will take full accountability of the security, availability and quality of our website. It includes monitoring uptime, SLA, and other key metrics and being able to respond to critical issues at any time. 
+Debug errors, troubleshoot issues, and perform routine performance and security optimisation
+Managing and reporting on tasks using Trello
+Continuously experimenting and carrying out A/B tests to improve user experience. 
+
+
+Must Have
+
+Strong experience with static site generations, particularly Hugo 
+Proficiency in Markdown and Go templating language 
+Proficiency in using Git as version control
+Demonstrable experience in deploying static sites using services like Netlify
+Strong experience in Front End engineering and using modern JavaScript, HTML, CSS
+Experience building on Content Management Systems (we use CloudCannon)
+Demonstrated ability to write clear, maintainable, and scalable code
+Strong communication skills and the ability to work both in a team and independently
+Keen attention to detail and commitment to meeting deadlines
+
+
+Nice To Have
+
+We’re looking for someone who is passionate about quality code, and ready to hit the ground running!
+
+
+To apply
+
+Please submit your Github url and CV, along with any relevant work.
+
+
+Our Benefits
+
+Work wherever - We’re a global team working in flexible locations - choose to work from home, in a co-working space, or a bit of both
+
+Employee equity - Access to share options in something big
+
+Flexible paid leave  - We offer a trust-based leave model - choose when you take leave, how much you take, and what you take it for
+
+Uprise - Our EAP Provider supports your physical, social & psychological wellbeing
+
+Remote work set-up  - Once-off budget of $AUD 750 or local equivalent to help you create a working environment that supports your success and productivity.
+
+ We respect and celebrate the unique attributes, characteristics, and perspectives that make each person who they are. We also believe that bringing diverse individuals together allows us to build better products and a better overall company. InDebted is an Equal Opportunity Employer.","Cascading Style Sheets (CSS)
+Add,Front-End Development
+Add,HTML
+Add,JavaScript
+Add,Key Metrics
+Add,Netlify
+Add,Service-Level Agreements (SLA)
+Add,Templating
+Add,Version Control
+Add,Web Development
+Add,"

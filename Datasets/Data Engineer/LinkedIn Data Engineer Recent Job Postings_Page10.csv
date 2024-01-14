@@ -1,0 +1,1414 @@
+Title,CompanyDetails,JobDetails,JobDescription,JobSkills
+Salesforce Data Developer,Cloudbeds · Philippines Reposted 1 week ago · 14 applicants,Remote Full-time Entry level,"About the job
+Cloudbeds provides the platform that powers hospitality, driving streamlined operations, increasing reservations and revenue, and enabling memorable guest experiences for lodging businesses of all sizes and types. Named the No. 1 PMS and No. 1 Hotel Management System by Hotel Tech Report in 2022, Cloudbeds is trusted by properties across the globe for its award-winning front desk, revenue, distribution, guest acquisition and guest engagement solutions seamlessly combined in a single unified system.
+
+Behind the Cloudbeds platform is a growing team of 700+ employees distributed across 40+ countries speaking 30+ languages. From data architects to UX designers, integrations managers to payments experts, former hotel managers to former OTA executives, our team comprises the brightest minds in technology and hospitality working to solve the industry’s biggest challenges.
+
+From The Beginning, We've Believed That Our People Are Our Greatest Asset, So We Founded The Company As #RemoteFirst, #RemoteAlways With Shared Core Values That Allow Our Team To Thrive. This Means We
+
+Hire the best people around the world;
+Emphasize the value of results over hours put in;
+Provide flexibility in working hours and locations;
+Foster an inclusive environment that celebrates bold thinking and diverse perspectives;
+Offer open vacation policies, free LinkedIn Learning, and other benefits that promote well-being and professional development.
+
+We are looking for a highly skilled individual who is adept in both Salesforce APEX development and Data Pipeline ETL processes (our tool is Matillion). The ideal candidate will have a strong background in two domains: salesforce administration/ APEX development, and also data analysis, data management, and data transformation. The right individual will have a proven track record of enabling complex salesforce workflows, and implementing data transformations in an ETL tool. This person has the opportunity to grow into a leader on our Data and/or Salesforce teams.
+
+Location: Remote - Philippines
+
+What You’ll Do
+
+Design, develop, test, and deploy custom APEX code and Lightning Web Components using the REST API to meet business requirements.
+Develop ETL processes and data pipelines using Matillion to extract, transform, and load data into and out of Salesforce.
+Ensure high performance of data integrations and transformations, optimizing as necessary for scale and business intelligence requirements.
+Work closely with stakeholders to understand their needs and translate those into technical requirements.
+Implement best practices for platform security scalability and reliability, ensuring data quality and integrity with a focus on transaction speed and governor limits.
+
+You’ll Succeed With
+
+3+ Years of professional company experience
+2+ years of experience with APEX development, API usage, governor limits, test coverage; a solid understanding of the Salesforce platform overall is a must
+Strong knowledge of SQL 
+Strong knowledge of salesforce data objects and integration patterns
+Excellent problem-solving and analytical skills, with a detail-oriented mindset.
+Excellent written and conversational English
+Salesforce Administration certification
+
+Nice to Have
+
+BS Degree in Computer Science, Data Science, or related field
+1+ years of experience with Business Intelligence ETL tools to manage data transformations and workflows
+Working knowledge of Python
+Advanced Salesforce administration certification
+Salesforce developer certification
+
+Our company culture supports flexible working schedules with an open Paid Time Away policy and gives all team members the opportunity to travel and work remotely with great people. If you think you have the skills and passion, we’ll give you the support and opportunity to thrive in your career. If you would like to be considered for the role, we would love to hear from you!
+
+Company Awards to Check Out! 
+
+Best Places to Work | HotelTechReport (2018-2023)
+Best PMS | HotelTechReport (2021-2023)
+Technology Fast 500 | Deloitte (2023)
+Fastest Growing Companies | Inc. 5000 (2022)
+Best Startup Employers | Forbes (2022)
+Best Remote Companies to Work | BuiltIn (2022)
+
+Cloudbeds is proud to be an Equal Opportunity Employer that celebrates the diversity in our global team! We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+Cloudbeds is committed to the full inclusion of all qualified individuals. As part of this commitment, Cloudbeds will ensure that persons with disabilities are provided reasonable accommodations in the hiring process. We encourage deaf, hard of hearing, deaf-blind, and deaf-disabled individuals to apply. If reasonable accommodation is needed to participate in the job application or interview process or to perform essential job functions, please contact our HR team by phone at 858-201-7832 or via email at accommodations@cloudbeds.com. Cloudbeds will provide an American Sign Language (ASL) interpreter where needed as a reasonable accommodation for the hiring processes.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Cloudbeds. Staffing, recruiting agencies, and individuals being represented by an agency are not authorized to use this site or to submit applications, and any such submissions will be considered unsolicited. Cloudbeds does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Cloudbeds employees, or any other company location. Cloudbeds is not responsible for any fees related to unsolicited resumes/applications.","Business Requirements
+Add,Data Science
+Add,ETL Tools
+Add,Extract, Transform, Load (ETL)
+Add,Lightning Web Components
+Add,Oracle Application Express
+Add,Salesforce.com Administration
+Add,Technical Requirements
+Add,Test Coverage
+Add,Web Components
+Add,"
+Salesforce Data Developer,Cloudbeds · Philippines Reposted 1 week ago · 21 applicants,Remote Full-time Entry level,"About the job
+Cloudbeds provides the platform that powers hospitality, driving streamlined operations, increasing reservations and revenue, and enabling memorable guest experiences for lodging businesses of all sizes and types. Named the No. 1 PMS and No. 1 Hotel Management System by Hotel Tech Report in 2022, Cloudbeds is trusted by properties across the globe for its award-winning front desk, revenue, distribution, guest acquisition and guest engagement solutions seamlessly combined in a single unified system.
+
+Behind the Cloudbeds platform is a growing team of 700+ employees distributed across 40+ countries speaking 30+ languages. From data architects to UX designers, integrations managers to payments experts, former hotel managers to former OTA executives, our team comprises the brightest minds in technology and hospitality working to solve the industry’s biggest challenges.
+
+From The Beginning, We've Believed That Our People Are Our Greatest Asset, So We Founded The Company As #RemoteFirst, #RemoteAlways With Shared Core Values That Allow Our Team To Thrive. This Means We
+
+Hire the best people around the world;
+Emphasize the value of results over hours put in;
+Provide flexibility in working hours and locations;
+Foster an inclusive environment that celebrates bold thinking and diverse perspectives;
+Offer open vacation policies, free LinkedIn Learning, and other benefits that promote well-being and professional development.
+
+We are looking for a highly skilled individual who is adept in both Salesforce APEX development and Data Pipeline ETL processes (our tool is Matillion). The ideal candidate will have a strong background in two domains: salesforce administration/ APEX development, and also data analysis, data management, and data transformation. The right individual will have a proven track record of enabling complex salesforce workflows, and implementing data transformations in an ETL tool. This person has the opportunity to grow into a leader on our Data and/or Salesforce teams.
+
+Location: Remote - Philippines
+
+What You’ll Do
+
+Design, develop, test, and deploy custom APEX code and Lightning Web Components using the REST API to meet business requirements.
+Develop ETL processes and data pipelines using Matillion to extract, transform, and load data into and out of Salesforce.
+Ensure high performance of data integrations and transformations, optimizing as necessary for scale and business intelligence requirements.
+Work closely with stakeholders to understand their needs and translate those into technical requirements.
+Implement best practices for platform security scalability and reliability, ensuring data quality and integrity with a focus on transaction speed and governor limits.
+
+You’ll Succeed With
+
+3+ Years of professional company experience
+2+ years of experience with APEX development, API usage, governor limits, test coverage; a solid understanding of the Salesforce platform overall is a must
+Strong knowledge of SQL 
+Strong knowledge of salesforce data objects and integration patterns
+Excellent problem-solving and analytical skills, with a detail-oriented mindset.
+Excellent written and conversational English
+Salesforce Administration certification
+
+Nice to Have
+
+BS Degree in Computer Science, Data Science, or related field
+1+ years of experience with Business Intelligence ETL tools to manage data transformations and workflows
+Working knowledge of Python
+Advanced Salesforce administration certification
+Salesforce developer certification
+
+Our company culture supports flexible working schedules with an open Paid Time Away policy and gives all team members the opportunity to travel and work remotely with great people. If you think you have the skills and passion, we’ll give you the support and opportunity to thrive in your career. If you would like to be considered for the role, we would love to hear from you!
+
+Company Awards to Check Out! 
+
+Best Places to Work | HotelTechReport (2018-2023)
+Best PMS | HotelTechReport (2021-2023)
+Technology Fast 500 | Deloitte (2023)
+Fastest Growing Companies | Inc. 5000 (2022)
+Best Startup Employers | Forbes (2022)
+Best Remote Companies to Work | BuiltIn (2022)
+
+Cloudbeds is proud to be an Equal Opportunity Employer that celebrates the diversity in our global team! We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+Cloudbeds is committed to the full inclusion of all qualified individuals. As part of this commitment, Cloudbeds will ensure that persons with disabilities are provided reasonable accommodations in the hiring process. We encourage deaf, hard of hearing, deaf-blind, and deaf-disabled individuals to apply. If reasonable accommodation is needed to participate in the job application or interview process or to perform essential job functions, please contact our HR team by phone at 858-201-7832 or via email at accommodations@cloudbeds.com. Cloudbeds will provide an American Sign Language (ASL) interpreter where needed as a reasonable accommodation for the hiring processes.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Cloudbeds. Staffing, recruiting agencies, and individuals being represented by an agency are not authorized to use this site or to submit applications, and any such submissions will be considered unsolicited. Cloudbeds does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Cloudbeds employees, or any other company location. Cloudbeds is not responsible for any fees related to unsolicited resumes/applications.","Business Requirements
+Add,Data Science
+Add,ETL Tools
+Add,Extract, Transform, Load (ETL)
+Add,Lightning Web Components
+Add,Oracle Application Express
+Add,Salesforce.com Administration
+Add,Technical Requirements
+Add,Test Coverage
+Add,Web Components
+Add,"
+Lead Full Stack Developer,Staffing Ninja · Philippines 6 days ago · 20 applicants,Remote Full-time Mid-Senior level,"About the job
+Roles & Responsibilities:
+Creating front-end website architecture.
+Crafting user interactions on web pages.
+Building back-end website applications.
+Establishing servers and databases for functionality.
+Ensuring cross-platform optimization for mobile devices.
+Guaranteeing the responsiveness of applications.
+Collaborating with graphic designers for web design elements.
+Overseeing a project from inception to completion.
+Designing and developing APIs.
+Addressing both technical and consumer requirements.
+Keeping up to date with advancements in web applications and programming languages.
+
+Skills & Requirements:
+2+ years of experience as a Full Stack Developer.
+Bachelor's degree in computer science.
+Strong organizational and project management abilities.
+Proficiency in core front-end languages like HTML, CSS, and JavaScript.
+Knowledge of Web3 technologies is advantageous.
+Familiarity with JavaScript frameworks such as AngularJS, React, and Amber.
+Proficiency in server-side languages such as Python, Ruby, Java, PHP, and .Net.
+Understanding of database technology including MySQL, Oracle, and MongoDB.
+Experience in developing CI/CD pipelines and deploying applications using cloud services such as AWS.
+Strong problem-solving skills and attention to detail.
+
+Good to have:
+Familiarity with Web 3 is advantageous.
+Proficiency in English is required.
+Basic proficiency in both spoken and written Chinese (Cantonese and Mandarin) or Japanese is beneficial.
+
+Benefits:
+It is a Full-Time Remote Opportunity.","Cascading Style Sheets (CSS)
+Add,Doctrine (PHP)
+Add,Front-End Development
+Add,Full-Stack Development
+Add,HTML
+Add,JavaScript
+Add,JavaScript Frameworks
+Add,Server Side
+Add,Stack
+Add,Web Architecture
+Add,"
+Salesforce Data Developer,Cloudbeds · Philippines Reposted 1 week ago · 14 applicants,Remote Full-time Entry level,"About the job
+Cloudbeds provides the platform that powers hospitality, driving streamlined operations, increasing reservations and revenue, and enabling memorable guest experiences for lodging businesses of all sizes and types. Named the No. 1 PMS and No. 1 Hotel Management System by Hotel Tech Report in 2022, Cloudbeds is trusted by properties across the globe for its award-winning front desk, revenue, distribution, guest acquisition and guest engagement solutions seamlessly combined in a single unified system.
+
+Behind the Cloudbeds platform is a growing team of 700+ employees distributed across 40+ countries speaking 30+ languages. From data architects to UX designers, integrations managers to payments experts, former hotel managers to former OTA executives, our team comprises the brightest minds in technology and hospitality working to solve the industry’s biggest challenges.
+
+From The Beginning, We've Believed That Our People Are Our Greatest Asset, So We Founded The Company As #RemoteFirst, #RemoteAlways With Shared Core Values That Allow Our Team To Thrive. This Means We
+
+Hire the best people around the world;
+Emphasize the value of results over hours put in;
+Provide flexibility in working hours and locations;
+Foster an inclusive environment that celebrates bold thinking and diverse perspectives;
+Offer open vacation policies, free LinkedIn Learning, and other benefits that promote well-being and professional development.
+
+We are looking for a highly skilled individual who is adept in both Salesforce APEX development and Data Pipeline ETL processes (our tool is Matillion). The ideal candidate will have a strong background in two domains: salesforce administration/ APEX development, and also data analysis, data management, and data transformation. The right individual will have a proven track record of enabling complex salesforce workflows, and implementing data transformations in an ETL tool. This person has the opportunity to grow into a leader on our Data and/or Salesforce teams.
+
+Location: Remote - Philippines
+
+What You’ll Do
+
+Design, develop, test, and deploy custom APEX code and Lightning Web Components using the REST API to meet business requirements.
+Develop ETL processes and data pipelines using Matillion to extract, transform, and load data into and out of Salesforce.
+Ensure high performance of data integrations and transformations, optimizing as necessary for scale and business intelligence requirements.
+Work closely with stakeholders to understand their needs and translate those into technical requirements.
+Implement best practices for platform security scalability and reliability, ensuring data quality and integrity with a focus on transaction speed and governor limits.
+
+You’ll Succeed With
+
+3+ Years of professional company experience
+2+ years of experience with APEX development, API usage, governor limits, test coverage; a solid understanding of the Salesforce platform overall is a must
+Strong knowledge of SQL 
+Strong knowledge of salesforce data objects and integration patterns
+Excellent problem-solving and analytical skills, with a detail-oriented mindset.
+Excellent written and conversational English
+Salesforce Administration certification
+
+Nice to Have
+
+BS Degree in Computer Science, Data Science, or related field
+1+ years of experience with Business Intelligence ETL tools to manage data transformations and workflows
+Working knowledge of Python
+Advanced Salesforce administration certification
+Salesforce developer certification
+
+Our company culture supports flexible working schedules with an open Paid Time Away policy and gives all team members the opportunity to travel and work remotely with great people. If you think you have the skills and passion, we’ll give you the support and opportunity to thrive in your career. If you would like to be considered for the role, we would love to hear from you!
+
+Company Awards to Check Out! 
+
+Best Places to Work | HotelTechReport (2018-2023)
+Best PMS | HotelTechReport (2021-2023)
+Technology Fast 500 | Deloitte (2023)
+Fastest Growing Companies | Inc. 5000 (2022)
+Best Startup Employers | Forbes (2022)
+Best Remote Companies to Work | BuiltIn (2022)
+
+Cloudbeds is proud to be an Equal Opportunity Employer that celebrates the diversity in our global team! We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+
+Cloudbeds is committed to the full inclusion of all qualified individuals. As part of this commitment, Cloudbeds will ensure that persons with disabilities are provided reasonable accommodations in the hiring process. We encourage deaf, hard of hearing, deaf-blind, and deaf-disabled individuals to apply. If reasonable accommodation is needed to participate in the job application or interview process or to perform essential job functions, please contact our HR team by phone at 858-201-7832 or via email at accommodations@cloudbeds.com. Cloudbeds will provide an American Sign Language (ASL) interpreter where needed as a reasonable accommodation for the hiring processes.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Cloudbeds. Staffing, recruiting agencies, and individuals being represented by an agency are not authorized to use this site or to submit applications, and any such submissions will be considered unsolicited. Cloudbeds does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Cloudbeds employees, or any other company location. Cloudbeds is not responsible for any fees related to unsolicited resumes/applications.","Business Requirements
+Add,Data Science
+Add,ETL Tools
+Add,Extract, Transform, Load (ETL)
+Add,Lightning Web Components
+Add,Oracle Application Express
+Add,Salesforce.com Administration
+Add,Technical Requirements
+Add,Test Coverage
+Add,Web Components
+Add,"
+Azure DevOps Engineer,"SGV & Co. · Makati, National Capital Region, Philippines 5 days ago · 10 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Duties and responsibilities:
+You will be customer-facing (when we are able) and will entail liaising with customers to enhance current systems, plan and deliver projects.
+The role is varied in scope, technology and can entail the development of innovative solutions in the cloud, delivering cloud migration projects, and supporting development teams with DevOps technologies (CI/CD pipelines, config management, etc.)
+Documentation of solutions (e.g. configuration and setup).
+Working within a project management/agile delivery methodology in a leading role as part of a wider team.
+Provide effective knowledge transfer and upskilling to relevant customer personnel to ensure an appropriate level of future self-sufficiency.
+Assist in the transition and deployment of projects to multiple instances.
+
+Qualifications and requirements:
+Experience is needed in Kubernetes(AKS), Ansible, Terraform, Docker, Linux Sys Admin, Azure Networking, Azure Application Gateway, Azure DevOps, CI/CD and Jenkins
+Demonstrable experience with the following technologies:
+Microsoft Azure Platform As A Service ( PaaS ) products such as Azure SQL, AppServices, Logic Apps, Functions and other Serverless services
+Understanding of Microsoft Identity and Access Management products such including Azure AD or AD B2C
+Microsoft Azure Operational and Monitoring tools, including Azure Monitor, App Insights and Log Analytics
+Knowledge of PowerShell, Git, ARM templates and deployment automation","Ansible
+Add,Cloud Computing
+Add,Continuous Integration and Continuous Delivery (CI/CD)
+Add,DevOps
+Add,Docker Products
+Add,Jenkins
+Add,Linux
+Add,Microsoft Azure
+Add,Software Development
+Add,Terraform
+Add,"
+Blockchain Development Engineer,Staffing Ninja · Philippines 2 weeks ago · 15 applicants,Remote Full-time Mid-Senior level,"About the job
+Role & Responsibilities:
+
+Smart Contract Development:
+Design, develop, and deploy secure and efficient smart contracts using blockchain platforms like Ethereum or Hyperledger.
+Ensure smart contracts align with business requirements and adhere to best practices.
+
+Blockchain Network Architecture:
+Design and implement blockchain network architectures, including nodes, consensus algorithms, and network security.
+Optimize network performance and scalability.
+
+Cryptocurrency Integration:
+Integrate cryptocurrencies or tokens into blockchain applications for seamless transactions and payments.
+Implement secure and reliable cryptocurrency wallet solutions.
+
+Decentralized Application (DApp) Development:
+Build decentralized applications (DApps) leveraging blockchain technology.
+Collaborate with front-end developers to integrate DApps with user interfaces.
+
+Security and Compliance:
+Implement security best practices to safeguard blockchain systems against vulnerabilities and attacks.
+Ensure compliance with regulatory requirements and industry standards.
+
+Collaboration and Documentation:
+Collaborate with cross-functional teams, including software developers and business analysts.
+Maintain comprehensive documentation of blockchain solutions, including code, architecture, and deployment processes.
+
+Job Requirements:
+
+Programming Skills:
+Node.js, Go language, Solidity, ReactJS (added advantage).
+Experience with Ethereum Cryptography in Blockchain Management.
+Best practices in EVM-based blockchain management and data protection.
+
+Tech Requirements:
+B.Tech/B.E. in Information Technology.
+3+ years of professional experience in backend languages such as Node, Go, or Rust.
+Experience with IaC (aws CDK) / CloudFormation.
+Strong understanding of cryptography
+
+Desired Skills:
+Experience with Mainnet and Testnet.
+Previous experience working with blockchains and smart contracts, particularly EVM-based blockchains.
+BE CS from IITs or Grade 1 Institutes preferred.","AWS CloudFormation
+Add,Amazon Web Services (AWS)
+Add,Blockchain
+Add,Cryptography
+Add,Ethereum
+Add,Go (Programming Language)
+Add,JavaScript
+Add,Node.js
+Add,Smart Contracts
+Add,Solidity
+Add,"
+Azure Integration Developer - Consultant - Cloud & Engineering - PH Delivery Center 1,"Deloitte · Manila, National Capital Region, Philippines 1 week ago · 4 applicants",On-site Full-time Entry level,"About the job
+Date: 18 Dec 2023
+
+Service Line / Portfolios: Enterprise Technology & Performance
+
+Location:
+
+Manila, PH
+
+Title: Cloud Engineering Senior Consultant based in Deloitte Consulting Philippines Delivery Center
+
+ Are you ready to unleash your potential? 
+
+At Deloitte, our purpose is to make an impact that matters for our clients, our people, and the communities we serve.
+
+We believe we have a responsibility to be a force for good, and WorldImpact is our portfolio of initiatives focused on making a tangible impact on society’s biggest challenges and creating a better future. We strive to advise clients on how to deliver purpose-led growth and embed more equitable, inclusive as well as sustainable business practices.
+
+Hence, we seek talented individuals driven to excel and innovate, working together to achieve our shared goals.
+
+We are committed to creating positive work experiences that foster a culture of respect and inclusion, where diverse perspectives are celebrated, and everyone is recognised for their contributions.
+
+ Ready to unleash your potential with us? Join the winning team now! 
+
+ Work you will do 
+
+As a crucial member of our team, you will be working on the challenges of moving clients’ applications and data centers to the Cloud, automating as much as possible, and simultaneously fulfilling our clients' expectations that applications are always available, flawlessly, and seamlessly working. You’re qualified and experienced in all things Cloud offers and want to stay at the forefront of distributed computing. You will share your expertise with about 100+ other colleagues in the Cloud Engineering team that is part of Deloitte Consulting. Our team focuses on building our multi-capability engineering team.
+
+We Are Cloud Engineers Who Meet The Needs Of Our Clients Today And Design Their Needs For The Future. We Support Our Clients In Their (cloud) Strategy, And The Solution To Their Dreams And We Build The Future Together With Them. This Requires People With Engineering Ingenuity In Very Different Ways. To Support Our Team, We Created Three Pillars
+
+ Strategy & Architecture 
+ Assets & Industry Solutions 
+ Engineering & Integration 
+
+Within the Cloud Engineering team, we believe collaboration and diversity are fundamental to success. We work together with our clients, not for them. We place great emphasis on learning, are very involved in your development, and support you in achieving your goals.
+
+ Your role as a leader 
+
+At Deloitte, We Believe In Empowering Our People To Be Leaders At All Levels. We Expect Our People To Embrace And Live Our Purpose And Shared Values, Challenging Themselves Every Day To Identify Issues That Are Most Important To Our Clients, Our People, And The Communities, And To Make An Impact That Matters. In Addition To Living Our Purpose, Consultants Across Our Firm Are Expected To
+
+ Understand the expectations set and demonstrate personal accountability for keeping own performance on the track. 
+ Understand how our daily work contributes to the priorities of the team and the business. 
+ Demonstrate a strong commitment to personal learning and development. 
+ Actively focus on developing effective communication and relationship-building skills, with stakeholders, clients, and team. 
+ Work effectively in diverse teams within a highly inclusive team culture where everyone is supported, respected, and recognized for their contribution. 
+
+About
+
+ Enough about us, let’s talk about you 
+
+If you are someone with:
+
+ At least 7-10 years of software development experience, ideally gained in a consulting / agency environment with tier one clients. 
+ Expertise in Azure Cloud and Azure Integration Services 
+ Experience with DevOps 
+ Demonstrated strong problem-solving and critical thinking 
+ Ability to manage and prioritize multiple tasks 
+ Exceptional communication and collaboration skills 
+ Experience presenting or talking to groups of varied sizes and skill levels 
+ Enthusiasm, commitment, and self-direction 
+ Outstanding interpersonal and communication skills 
+
+ To be successful in this role, you should have the following key experience and capabilities: 
+
+ Experience with Microsoft Azure – App Service, Azure Functions, Service Bus, API Management, Logic Apps, Event Grid, Application Insights, Event Hubs, Azure Kubernetes Service, Cosmos DB, Application Gateway, Azure networking, Azure Monitor 
+ Prior experience with Azure DevOps, GitHub, or similar code repositories and automated build and release pipelines 
+ Prior experience with ARM Templates, PowerShell, Azure CLI, Bicep, Terraform 
+ Previous consulting or client-facing experience 
+ Microsoft certifications in relevant technologies 
+
+ What is in store for you? 
+
+ Flexible work arrangements. 
+ Rewards platform - your hard work won't go unnoticed at Deloitte 
+ Training and development - at Deloitte we believe in investing in our best assets, the people! You will access world-class training and funding for industry and other professional certifications. 
+ Receive support and mentoring to progress your career. You will have access to mentors and coaches who will help you pave a path for career progression 
+ Benefits effective upon hiring include paid time off and holidays, health, and life insurance! 
+
+ Next Steps 
+
+Sound like the sort of role for you? Apply now.
+
+Due to volume of applications, we regret only shortlisted candidates will be notified.
+
+Candidates will only be contacted by authorized Deloitte Recruiters via firm’s business contact number or business email address.
+
+ © 2023 DCPDC Inc 
+
+Requisition ID: 101705
+
+In Philippines, the services are provided by Navarro Amper & Co and other related entities in Philippines (""Deloitte in Philippines""), which are affiliates of Deloitte Southeast Asia Ltd. Deloitte Southeast Asia Ltd is a member firm of Deloitte Touche Tohmatsu Limited. Deloitte in Philippines, which is within the Deloitte Network, is the entity that is providing this Website.","API Management
+Add,AWS Command Line Interface (CLI)
+Add,Angular CLI
+Add,Azure CLI
+Add,Azure Kubernetes Service (AKS)
+Add,CLI
+Add,Enterprise Service Bus (ESB) Architecture
+Add,Integration Development
+Add,Microsoft Azure
+Add,Software Development
+Add,"
+Platform Engineer,"Globe Group · Taguig, National Capital Region, Philippines Reposted 2 weeks ago · 172 applicants",Hybrid Full-time Entry level,"About the job
+At Globe, our goal is to create a wonderful world for our people, business, and nation. By uniting people of passion who believe they can make a difference, we are confident that we can achieve this goal.
+
+Job Description
+
+TOP 3-5 DELIVERABLES
+
+Diagnose, operate, administer, configure and maintain identified system and integrations .
+
+Working across teams to ensure the highest level of platform performance, availability and disaster recovery .
+
+Analysis, documentation, and management of toolset requirements according to standardized methods.
+
+Core Competencies (Must-Have)
+
+Knowledgeable in Service Management Tools or any workflow related tools (e.g. ServiceNow, BMC Remedy, JIRA, etc.)
+Knowledgeable in Object Oriented Programming
+Knowledgeable in JavaScript
+
+
+Secondary Competencies (Nice-to-Have)
+
+Tools Foundation Certifications
+ITIL Foundation v3 or v4
+Knowledgeable in Agile Methodology
+
+
+Hiring Requirements
+
+Minimum 0 - 2 years work experience in IT
+Experience in using Service Management or Workflow Related Tools (e.g. ServiceNow, BMC Remedy, JIRA, Cherwell ITSM, etc.) is a plus
+Experience in IT Service Management (ITIL v3 or v4) is a plus
+Must be a graduate of any IT related course
+Knowledgeable in Object Oriented Programming
+Knowledgeable in Software Development Lifecycle
+Application Design: Ability to design and create applications based on business requirements, ensuring scalability, performance, and adherence to best practices.
+
+
+Make Your Passion Part of Your Profession. Attracting the best and brightest Talents is pivotal to our success. If you are ready to share our purpose of Creating a Globe of Good, explore opportunities with us.",
+"Lead Software Engineer, Trilogy (Remote) - $200,000/year USD","Crossover  · National Capital Region, Philippines Reposted 6 days ago · 11 applicants",Remote Full-time Mid-Senior level,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a seasoned software engineer with a deep interest in AI? Trilogy is on the lookout for exceptional engineers to lead the charge in adopting generative AI tools both in our development process and into our products.
+
+Join us to work on our exciting product portfolio:
+
+TeachTap: Bringing historical figures to life using AI, offering an engaging, TikTok-like learning experience to make learning more relevant and fun.
+Educational Content Generation: Utilizing the latest in generative AI combined with comprehensive learning materials to create captivating content.
+TeachTower: A game-based motivation system inspired by popular games like Roblox and Minecraft, designed to make learning irresistibly fun.
+Coachbot: A learning copilot that integrates with existing apps, guiding learning paths, recommending next steps, and rewarding daily progress.
+Data-driven Sales: A sales platform that leverages AI to provide real-time guidance to agents during calls, create personalized renewal plans, and quality control sales calls.
+Crossover: An AI-powered hiring platform that sifts through millions of applicants annually to find the top 1% of global talent.
+
+Your role will focus on integrating AI into engineering practices, using AI tools to increase efficiency and solve engineering tasks like coding and testing. Based on the obtained results, you will derive recipes and playbooks to be adopted by the broader engineering team. Maintaining high-quality standards in our codebases while ensuring high leverage of AI tools across our engineering teams will be a key part of your work.
+
+You will be an integral part of our existing engineering team, working collaboratively on our suite of products to deeply understand our environment and needs. You will have the freedom to propose and experiment with new tools and then will leverage the insights and experiences obtained to evolve our processes, advocate for new tool adoption, or even spearhead the creation of small tools, bots, and frameworks to enhance our technical setup.
+
+We seek candidates with a strong background in software engineering and a capacity for adapting to new technologies. Moreover, an interest in the latest generative AI developments and a drive for innovation are crucial. While our primary tech stack is AWS Serverless with TypeScript, we're looking for versatile engineers who can excel in a variety of technical environments and challenges.
+
+What You Will Be Doing
+
+Developing fully functional features, using AI tools to expedite delivery and enhance quality.
+Performing experiments with AI to enhance engineering processes, including decomposition, solution design, code generation, and troubleshooting.
+Documenting best practices and techniques in guides that enable others to harness the power of generative AI effectively.
+
+What You Won’t Be Doing
+
+Building new AI models from scratch; instead, your focus will be on leveraging and fine-tuning existing models to maximize efficiency.
+Being confined to outdated technologies; we encourage an environment that thrives on dynamic tech stacks, fostering continuous innovation.
+
+Lead Software Engineer Key Responsibilities
+
+Drive transformative change by establishing a framework that seamlessly integrates generative AI, significantly amplifying engineering productivity.
+
+Basic Requirements
+
+Minimum 5 years of experience in professional software development.
+Minimum 3 years either as a lead engineer reviewing the work of other engineers or as an architect making important technical decisions.
+Excited to use and explore new generative AI tools for software engineering tasks on a day-to-day basis
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-5106-PH-NCRNatio-LeadSoftwareEn.003","Agile Methodologies
+Add,Documentation
+Add,Enterprise Solution Design
+Add,Generative AI
+Add,Software Development
+Add,Technical Solution Design
+Add,Troubleshooting
+Add,"
+DevOps Engineer,"Etrading Software Ltd · Makati, National Capital Region, Philippines Reposted 6 days ago · 26 applicants",Hybrid Full-time Mid-Senior level,"About the job
+About Us
+
+At Etrading Software, we pride ourselves on being a diverse, inclusive, and collaborative workplace where everyone feels valued, respected, and supported. We're committed to providing a safe yet challenging environment where our employees can thrive and grow, both personally and professionally.
+
+Our team is made up of talented and passionate individuals from all walks of life, and we believe that our differences are what make us stronger. We encourage everyone to bring their unique perspectives and ideas to the table, and we work together to create innovative solutions and deliver exceptional results for our clients.
+
+We're also committed to providing ongoing training and development opportunities to help our employees achieve their full potential. Whether you're just starting out in your career or you're an experienced professional looking to take the next step, we'll help you get there.
+
+If you're looking for a dynamic, challenging, and rewarding work environment where you can make a real difference, Etrading Software is the place for you. Join our team today and discover why we're one of the best places to work in the industry!
+
+The DevOps engineer combines both software and systems engineering and takes charge of the automation, performance, stability, reliability, and scalability of IT infrastructure and services for critical investment banking applications. The mission is to KEEP THE LIGHTS ON. The DevOps engineer should have a strong desire to improve systems that are used at a large scale.
+
+Responsibilities 
+
+Design and build infrastructure that will support an ever-growing set of records to be used by financial institutions worldwide.
+Design and deploy systems to streamline the deployment of new software and ease the burden of supporting said new software.
+Automate server provisioning processes to reduce human intervention.
+Maintain system uptime and availability.
+Maintain production systems by measuring and monitoring availability, latency, and overall system health.
+Requisitioning new infrastructure to anticipate and address growing volumes.
+Test the resiliency of IT operations.
+Communicate with third-party vendors to handle infrastructure inquiries, issues, or requests.
+Problem and incident management and root-causes analysis on high severity outages.
+Deploy changes and upgrades to the platform on weekends for major releases.
+
+Qualifications 
+
+DevOps experience of at least 2 years.
+Overall professional experience of 5+ years in the industry (mixture of development and system engineering/administration).
+Experience in cloud services, particularly in infrastructure as code (Terraform, CloudFormation, etc.) is highly desired.
+Strong system architecture and design knowledge and experience.
+Having experience in one or more of the following: Shell script, Python, Ruby, Java, or JavaScript is advantageous.
+A software development background with practical experience in managing builds, deployment, and operation as a continuous automated process is nice to have.
+Security-minded with a high-level understanding of cryptographic algorithms, secure communication protocols, and secrets management systems.
+Familiar with various CI/CD and defining build/test/deploy pipelines in code.
+Capable of learning our coding languages and interpreting the business logic of our production codebase.
+Strong working knowledge of networking.
+Strong administration knowledge/skills (particularly Linux).
+Working knowledge of MongoDB, and configuration management.
+Candidates must bring their own skills and expertise to sometimes create unusual solutions.
+Banking/financial industry experience is desired but not required.
+Availability for on-call support to address production issues or incidents.
+
+Why Join Us?
+
+We are a people-first company who takes care of our own!
+We advocate mental well-being offering Psych consultation benefits throughout the year to fully support each of our team member’s needs.
+Positive work culture is our number 1 priority.
+We celebrate diversity and promote individual uniqueness!
+We have the most flexible work environment, which lets all of us balance family and other interests with work.
+We value and reward contributions and hard work offering competitive salaries, benefits, and bonus programs to make sure you’re well supported as you help their business grow.
+We offer 15 paid holidays and 12 medical leaves annually.
+HMO provided on day 1 with up to 4 free dependents.
+Internal promotions, individual and group training programs plus certifications, and more to help everyone level up both their personal and technical skills.
+Hybrid (2x onsite report)","AWS CloudFormation
+Add,DevOps
+Add,Linux
+Add,MongoDB
+Add,Python (Programming Language)
+Add,Shell Scripting
+Add,Software Development
+Add,Terraform
+Add,Test Automation
+Add,Unix
+Add,"
+"Senior Principal Software Engineer, Trilogy (Remote) - $200,000/year USD","Crossover  · National Capital Region, Philippines Reposted 6 days ago · 5 applicants",Remote Full-time Mid-Senior level,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a seasoned software engineer with a deep interest in AI? Trilogy is on the lookout for exceptional engineers to lead the charge in adopting generative AI tools both in our development process and into our products.
+
+Join us to work on our exciting product portfolio:
+
+TeachTap: Bringing historical figures to life using AI, offering an engaging, TikTok-like learning experience to make learning more relevant and fun.
+Educational Content Generation: Utilizing the latest in generative AI combined with comprehensive learning materials to create captivating content.
+TeachTower: A game-based motivation system inspired by popular games like Roblox and Minecraft, designed to make learning irresistibly fun.
+Coachbot: A learning copilot that integrates with existing apps, guiding learning paths, recommending next steps, and rewarding daily progress.
+Data-driven Sales: A sales platform that leverages AI to provide real-time guidance to agents during calls, create personalized renewal plans, and quality control sales calls.
+Crossover: An AI-powered hiring platform that sifts through millions of applicants annually to find the top 1% of global talent.
+
+Your role will focus on integrating AI into engineering practices, using AI tools to increase efficiency and solve engineering tasks like coding and testing. Based on the obtained results, you will derive recipes and playbooks to be adopted by the broader engineering team. Maintaining high-quality standards in our codebases while ensuring high leverage of AI tools across our engineering teams will be a key part of your work.
+
+You will be an integral part of our existing engineering team, working collaboratively on our suite of products to deeply understand our environment and needs. You will have the freedom to propose and experiment with new tools and then will leverage the insights and experiences obtained to evolve our processes, advocate for new tool adoption, or even spearhead the creation of small tools, bots, and frameworks to enhance our technical setup.
+
+We seek candidates with a strong background in software engineering and a capacity for adapting to new technologies. Moreover, an interest in the latest generative AI developments and a drive for innovation are crucial. While our primary tech stack is AWS Serverless with TypeScript, we're looking for versatile engineers who can excel in a variety of technical environments and challenges.
+
+What You Will Be Doing
+
+Developing fully functional features, using AI tools to expedite delivery and enhance quality.
+Performing experiments with AI to enhance engineering processes, including decomposition, solution design, code generation, and troubleshooting.
+Documenting best practices and techniques in guides that enable others to harness the power of generative AI effectively.
+
+What You Won’t Be Doing
+
+Building new AI models from scratch; instead, your focus will be on leveraging and fine-tuning existing models to maximize efficiency.
+Being confined to outdated technologies; we encourage an environment that thrives on dynamic tech stacks, fostering continuous innovation.
+
+Senior Principal Software Engineer Key Responsibilities
+
+Drive transformative change by establishing a framework that seamlessly integrates generative AI, significantly amplifying engineering productivity.
+
+Basic Requirements
+
+Minimum 5 years of experience in professional software development.
+Minimum 3 years either as a lead engineer reviewing the work of other engineers or as an architect making important technical decisions.
+Excited to use and explore new generative AI tools for software engineering tasks on a day-to-day basis
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-5106-PH-NCRNatio-SeniorPrincipa.002","Agile Methodologies
+Add,Debugging
+Add,Distributed Systems
+Add,Documentation
+Add,Enterprise Solution Design
+Add,Software Design
+Add,Software Development
+Add,System Architecture
+Add,Technical Solution Design
+Add,Troubleshooting
+Add,"
+"Software Architect, Trilogy (Remote) - $100,000/year USD","Crossover  · Parañaque, National Capital Region, Philippines Reposted 6 days ago · 7 applicants",Remote Full-time Mid-Senior level,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a full-stack engineer who thrives on complex challenges and is eager to make a real impact? Join our team to contribute to innovative products that deeply leverage AI and that are reshaping industries and changing the way we work and learn.
+
+Our strategic product line includes:
+
+Crossover: An AI-powered hiring platform that sifts through millions of applicants per year to find the top 1% of global remote talent, making high-paying jobs accessible to professionals worldwide, regardless of their location.
+gt.school: An online education platform that uses advanced data collection, algorithms, and AI-generated content to empower students learn at their own pace. Our adaptive learning system fills knowledge gaps, accelerates learning, and helps students quickly master a whole grade level on a subject within weeks.
+Data-driven Sales: This initiative leverages data and AI algorithms to streamline the sales process across a portfolio of over 100 software products. We're transitioning these products to a unified platform based on Salesforce and NetSuite, all while handling complex data imports, modeling divergences and data synchronization.
+
+What we offer:
+
+The opportunity to work with cutting-edge technologies, including the latest in Angular, AWS serverless and no-code/low-code patterns.
+The opportunity to learn and experiment with using generative AI to boost your productivity.
+A team of exceptionally talented engineers from around the world as your peers.
+The chance to work on products that are making a real difference in people's lives.
+
+We're not just using AI as a buzzword. We're at the start of a thrilling journey with generative AI, experimenting and learning to fully leverage its potential and free our engineers from mundane tasks, allowing them to focus on what truly matters: design, decision-making, and understanding the far-reaching implications of different implementation strategies.
+
+Showcase your skills, not just your resume. Take on our challenges: 15-min Cognitive, 90-min Coding, 180-min Technical Decision-Making. Excel and you'll face a decisive interview with our Hiring Manager. More than half walk away with an offer. Ready to unleash your potential? Apply today!
+
+What You Will Be Doing
+
+Building modern web apps using Angular accompanied by top-notch libraries and tools.
+Enhancing cloud-native backends using the latest serverless cloud patterns, including AWS.
+Reviewing code to ensure adherence to best practices, team standards, and customer requirements.
+
+What You Won’t Be Doing
+
+Spending time on minor bug fixes or features in outdated codebases.
+Dealing with tedious infrastructure to keep poorly written products running.
+Getting stuck in endless meetings discussing roadmaps and priorities or chasing people around.
+
+Basic Requirements
+
+Software Architect key responsibilities
+
+At least 3 years of experience writing frontend code (any framework)
+At least 1 year of experience writing frontend code in Angular.
+At least 3 years of experience writing backend code (any framework).
+An openness to learn to use generative AI in your day-to-day development work.
+
+Nice-to-have Requirements
+
+Experience in using generative AI in your day-to-day development work.
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4774-PH-Parañaqu-SoftwareArchit.008","Angular
+Add,Artificial Intelligence (AI)
+Add,Back-End Web Development
+Add,Customer Requirements
+Add,Data Synchronization
+Add,Development Work
+Add,Generative AI
+Add,Software Architecture
+Add,Web Applications
+Add,Web Services
+Add,"
+"Software Architect, Trilogy (Remote) - $100,000/year USD","Crossover  · National Capital Region, Philippines Reposted 6 days ago · 7 applicants",Remote Full-time Mid-Senior level,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a full-stack engineer who thrives on complex challenges and is eager to make a real impact? Join our team to contribute to innovative products that deeply leverage AI and that are reshaping industries and changing the way we work and learn.
+
+Our strategic product line includes:
+
+Crossover: An AI-powered hiring platform that sifts through millions of applicants per year to find the top 1% of global remote talent, making high-paying jobs accessible to professionals worldwide, regardless of their location.
+gt.school: An online education platform that uses advanced data collection, algorithms, and AI-generated content to empower students learn at their own pace. Our adaptive learning system fills knowledge gaps, accelerates learning, and helps students quickly master a whole grade level on a subject within weeks.
+Data-driven Sales: This initiative leverages data and AI algorithms to streamline the sales process across a portfolio of over 100 software products. We're transitioning these products to a unified platform based on Salesforce and NetSuite, all while handling complex data imports, modeling divergences and data synchronization.
+
+What we offer:
+
+The opportunity to work with cutting-edge technologies, including the latest in Angular, AWS serverless and no-code/low-code patterns.
+The opportunity to learn and experiment with using generative AI to boost your productivity.
+A team of exceptionally talented engineers from around the world as your peers.
+The chance to work on products that are making a real difference in people's lives.
+
+We're not just using AI as a buzzword. We're at the start of a thrilling journey with generative AI, experimenting and learning to fully leverage its potential and free our engineers from mundane tasks, allowing them to focus on what truly matters: design, decision-making, and understanding the far-reaching implications of different implementation strategies.
+
+Showcase your skills, not just your resume. Take on our challenges: 15-min Cognitive, 90-min Coding, 180-min Technical Decision-Making. Excel and you'll face a decisive interview with our Hiring Manager. More than half walk away with an offer. Ready to unleash your potential? Apply today!
+
+What You Will Be Doing
+
+Building modern web apps using Angular accompanied by top-notch libraries and tools.
+Enhancing cloud-native backends using the latest serverless cloud patterns, including AWS.
+Reviewing code to ensure adherence to best practices, team standards, and customer requirements.
+
+What You Won’t Be Doing
+
+Spending time on minor bug fixes or features in outdated codebases.
+Dealing with tedious infrastructure to keep poorly written products running.
+Getting stuck in endless meetings discussing roadmaps and priorities or chasing people around.
+
+Basic Requirements
+
+Software Architect key responsibilities
+
+At least 3 years of experience writing frontend code (any framework)
+At least 1 year of experience writing frontend code in Angular.
+At least 3 years of experience writing backend code (any framework).
+An openness to learn to use generative AI in your day-to-day development work.
+
+Nice-to-have Requirements
+
+Experience in using generative AI in your day-to-day development work.
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4774-PH-NCRNatio-SoftwareArchit.005","Angular
+Add,Artificial Intelligence (AI)
+Add,Back-End Web Development
+Add,Customer Requirements
+Add,Data Synchronization
+Add,Development Work
+Add,Generative AI
+Add,Software Architecture
+Add,Web Applications
+Add,Web Services
+Add,"
+Database Developer,BillingPlatform · Philippines 6 days ago · 43 applicants,Remote Full-time Mid-Senior level,"About the job
+Database Developer (remote)
+
+BillingPlatform is an industry-leading, fast-growing SaaS company in the Denver Tech Hub. Our decision to build the industry-leading revenue management platform was driven by the belief that all industries are facing disruption—digital and physical goods are being sold on a subscription and consumption basis, and in a variety of other formats. Leveraging successful years of product development and customer feedback, aided by leading venture funding (Columbia Capital), we built the industry's most powerful, cloud-based revenue management platform able to automate the entire workflow from quote to cash (CPQ, mediation, billing, invoicing, revenue recognition, payment, and collections), providing enterprises a flexible and scalable platform to monetize the customer relationship using virtually any variable.
+Three years in a row, we have placed on the Deloitte Tech Fast 500 as one of the fastest-growing companies. We are also members of the Inc. 5000 and Colorado's ""Companies to Watch"". We are recognized as a leader by industry analysts and Fortune 500 enterprises. Our values-based culture centers around collaboration, innovation, and transparency. Whether working from our company HQ in the Denver Tech Center, or virtually, we seek bright, enthusiastic, and creative professionals looking to displace antiquated technology and processes and re-imagine an industry.
+
+POSITION OVERVIEW
+
+We are looking for talented Oracle Developer who enjoys hands-on coding opportunities and can assist in the growth and success of our high-volume cloud billing platform.
+
+Responsibilities
+Development in PL\SQL (functions, procedures, packages, triggers, types, pipelined and object functions), code support
+Algorithm Analysis
+Participation in the design of the database structure
+Performance tuning
+Investigate problems in the existing codebase
+Work as part of the team on global initiatives
+Accurately implement and document solutions
+
+Requirements 
+Bachelor’s degree in computer science or a related field
+4+ years of Oracle database experience
+4+ years of experience with Oracle PL/SQL
+Experience with processing large data volumes and optimizations for efficient high load processing
+Skills and experience in solving complex technical problems
+Code versioning systems (svn, git)
+Experience in automated PL/SQL testing methodologies
+
+Benefits
+Join one of the fastest-growing companies in the United States
+Discretionary and charitable time off program
+Ability to work fully remote day shifts
+BillingPlatform provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law.","Analytical Skills
+Add,Computer Science
+Add,Databases
+Add,Defining Requirements
+Add,Git
+Add,Oracle Database
+Add,Oracle Developer Suite
+Add,PL/SQL
+Add,Programming Languages
+Add,SQL
+Add,"
+Cyber Transformation Junior Lead Engineer (IAM),"KPMG Philippines · Makati, National Capital Region, Philippines 1 week ago · 14 applicants",Remote Full-time Mid-Senior level,"About the job
+Responsibilities:
+Design, plan, develop, and implement IAM solutions based on the organization's security and compliance requirements. Develop custom applications, connectors, and integrations to support IAM workflows and functionalities.
+Configure and maintain identity and access management systems, such as IAM platforms, Single Sign-On (SSO) solutions, and Multi-Factor Authentication (MFA) systems.
+Manage the entire user lifecycle, including provisioning, deprovisioning, and role changes, ensuring that access permissions are appropriate and timely. Implement automation to streamline user onboarding and offboarding processes.
+Define and enforce access control policies, including role-based access control (RBAC) and attribute-based access control (ABAC). Regularly review and update access policies to align with changing business needs and security requirements.
+Implement and maintain authentication mechanisms, such as LDAP, OAuth, SAML, and Kerberos. Ensure that authorization mechanisms are robust, accurate, and compliant with industry regulations.
+Monitor IAM systems for security vulnerabilities and promptly address any identified issues. Maintain compliance with relevant data protection regulations, industry standards, and internal policies.
+Actively participate in incident response activities related to identity and access management breaches or incidents.
+Maintain comprehensive documentation of IAM processes, configurations, and policies. Generate regular reports and metrics related to user access, compliance, and system performance.
+Collaborate with cross-functional teams, including IT, security, and compliance teams, to align IAM strategies with organizational goals. Work with vendors and third-party providers to evaluate and integrate IAM solutions.
+Stay up-to-date with emerging IAM technologies, best practices, and industry trends. Continuously improve IAM processes and systems to enhance security and efficiency.
+Facilitate knowledge transfer on IAM solution and/or IAM security best practices
+
+Qualifications:
+Bachelor’s degree in Computer Science, Information Technology, or a related field.
+Minimum of 4 years of experience in IAM and IT security, including experience with IAM technologies such as Saviynt (REQUIRED), ForgeRock (preferred), SailPoint and Ping.
+Strong understanding of IAM best practices, security and compliance requirements, and experience with other IAM technologies such as Azure, Active Directory, Single Sign-On, PAM, and Multi-Factor authentication (MFA)
+Experience with implementing and maintaining IAM/IGA solutions and infrastructure.
+Experience with administration/management of IAM/IGA solutions for provisioning/deprovisioning of accounts, integration of applications and creation of workflows
+Strong Analytical and problem-solving skills, with the ability to identify and mitigate security risks.
+Excellent communication and project management skills, with the ability to work closely with cross-functional teams.
+Specific 1 year ‘experience in consulting/advisory engagements and pre-sales of IAM/IGA solutions (preferred)
+Understanding of Cloud Compute, Storage, Security and Virtualization best practice
+Strong time management skills which allow for multi-tasking while managing shifting priorities
+Experience in programming languages such as Java, HTML, SQL, Python, JavaScript, JSON and XML
+Preferably has at least one of the following certifications:
+Certified Identity and Access Manager (CIAM)
+Certifications on SailPoint solutions/products
+Certifications on Saviynt solutions/products
+Certifications on CyberArk solutions/products","Active Directory
+Add,Identity and Access Management (IAM)
+Add,Java
+Add,JavaScript
+Add,Multi-factor Authentication
+Add,Network Security
+Add,Python (Programming Language)
+Add,SQL
+Add,Virtualization
+Add,XML
+Add,"
+Infrastructure Reliability Engineer,"Manulife · Makati, National Capital Region, Philippines Reposted 7 hours ago · 64 applicants",Full-time Entry level,"About the job
+We are a leading financial services provider committed to making decisions easier and lives better for our customers and colleagues around the world. From our environmental initiatives to our community investments, we lead with values throughout our business. To help us stand out, we help you step up, because when colleagues are healthy, respected and meaningfully challenged, we all thrive. Discover how you can grow your career, make impact and drive real change with our Winning Team today.
+
+Working Arrangement
+
+Hybrid
+
+Job Description
+
+The Job:
+
+As a Wintel Infrastructure Reliability Engineer, you will be part of the cloud server engineering team. You will be working with some of the latest infrastructure technologies and methodologies to design, implement, migrate, and maintain the cloud server infrastructure as well as being involved in our key project work.
+
+What We’re Looking For
+
+8+ years of overall infrastructure experience and current expertise with windows server management in an Azure cloud infrastructure production environment
+Azure infrastructure management experience with a focus on both VM and PaaS environments
+Expertise in infra services, security concepts and best practices, virtualization, storage, and database technologies
+Windows server administration and related services (Active Directory, DNS, RDS, DHCP, etc.)
+Server builds, server configuration, server deployments plus patching and hardening
+Perform server security hardening plus managing and supporting on-going patch management processes
+Knowledge of software deployment technologies, configuration management and patch management procedures
+Experience with compliance and audit activities for enforcement of policies, standards, and procedures
+Familiarity with scripting and programming (batch, PowerShell, shell script and VB)
+Experience with IT transformation, data center consolidations and migrations
+Understanding of and experience with ITIL processes
+Strong adherence to change management Process
+A solid understanding of risk, security, and compliance requirements and best practices
+Good understanding of networking infrastructure and network troubleshooting (TCP/IP, DNS, routing, switching, firewalls, LAN/WAN, DHCP, Load balancing, Replication, SSH)
+Able to support enterprise infrastructure and assist in the day-to-day operation of the team
+Strong and reliable team player with the ability to manage change and work independently
+Solid understanding of project scheduling and task driven project work
+
+Good to Have: 
+
+A dedication to customer satisfaction and getting it right the first time 
+Strong troubleshooting skills across a broad technology environment 
+Ability to self-manage work time engagements and prioritize multiple tasks and problems 
+Windows and Cloud certifications
+An in-depth understanding of PaaS architecture
+Competency in scripting (PowerShell)
+Strong communication and technical skills, prior experience with mentoring teams and working in a process driven environment
+
+Basic Responsibilities
+
+Responsible for coordinating, testing, deploying and validating security patches
+Support the operation and maintenance of the virtual infrastructure including, but not limited to VM, PaaS and AKS infrastructure
+Provide logging reports for performance, troubleshooting and capacity planning
+Provide technical support for incidents and problem resolution from an infrastructure services perspective
+Create, maintain and review operational and technical documentation
+Plan and perform change activities following ML in-house change management policy and procedures
+Perform technology upgrades, migrate and applying patches or firmware updates to the virtual infrastructure software or hardware
+Support the design and configuration of complex system landscapes
+Provide guidance to less experienced personnel
+Provide on-call support by responding to calls both during and after business hours/weekends/holidays/shutdowns
+Participate in DR drills
+Demonstrate a high level of technical expertise and service orientation
+Ability to follow up on project processes, be results-oriented and self-motivated
+A tertiary education in, and/or in-depth hands-on working experience within the technology infrastructure mentioned above
+
+About Manulife And John Hancock
+
+Manulife Financial Corporation is a leading international financial services group that helps people make their decisions easier and lives better. With our global headquarters in Toronto, Canada, we operate as Manulife across our offices in Asia, Canada, and Europe, and primarily as John Hancock in the United States. We provide financial advice, insurance, and wealth and asset management solutions for individuals, groups and institutions. At the end of 2022, we had more than 40,000 employees, over 116,000 agents, and thousands of distribution partners, serving over 34 million customers. At the end of 2022, we had $1.3 trillion (US$1.0 trillion) in assets under management and administration, including total invested assets of $0.4 trillion (US $0.3 trillion), and segregated funds net assets of $0.3 trillion (US$0.3 trillion). We trade as ‘MFC’ on the Toronto, New York, and the Philippine stock exchanges, and under ‘945’ in Hong Kong.
+
+Manulife is an Equal Opportunity Employer
+
+At Manulife/John Hancock, we embrace our diversity. We strive to attract, develop and retain a workforce that is as diverse as the customers we serve and to foster an inclusive work environment that embraces the strength of cultures and individuals. We are committed to fair recruitment, retention, advancement and compensation, and we administer all of our practices and programs without discrimination on the basis of race, ancestry, place of origin, colour, ethnic origin, citizenship, religion or religious beliefs, creed, sex (including pregnancy and pregnancy-related conditions), sexual orientation, genetic characteristics, veteran status, gender identity, gender expression, age, marital status, family status, disability, or any other ground protected by applicable law.
+
+It is our priority to remove barriers to provide equal access to employment. A Human Resources representative will work with applicants who request a reasonable accommodation during the application process. All information shared during the accommodation request process will be stored and used in a manner that is consistent with applicable laws and Manulife/John Hancock policies. To request a reasonable accommodation in the application process, contact recruitment@manulife.com.","Communication
+Add,Preventive Maintenance
+Add,Problem Solving
+Add,Reliability
+Add,Reliability Engineering
+Add,Secure Shell (SSH)
+Add,Task Driven
+Add,Troubleshooting
+Add,"
+"Software Development Engineer, Trilogy (Remote) - $100,000/year USD","Crossover  · National Capital Region, Philippines Reposted 6 days ago · 25 applicants",Remote Full-time Mid-Senior level,"About the job
+Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+Are you a software engineer that thrives on complex challenges and is eager to make a real impact? Join our team where you'll be contributing to our strategic product line, that’s looking to reshape industries and change the way people work and learn.
+
+Our strategic product line includes:
+
+Crossover: An AI-powered hiring platform that sifts through millions of applicants per year to find the top 1% of global remote talent. We're breaking down geographical barriers and making high-paying jobs accessible to professionals worldwide, regardless of their location.
+gt.school: An online education platform that uses advanced data collection, algorithms, and AI-generated content to empower students to learn at their own pace. Our adaptive learning system fills knowledge gaps, accelerates learning, and helps students master a whole grade level on a subject within weeks.
+Data-driven Sales: This initiative leverages data and AI algorithms to streamline the sales process across a portfolio of over 100 software products. We're transitioning these products to a unified platform based on Salesforce and NetSuite, all while handling complex data imports, synchronization, modeling divergences and data inconsistencies.
+
+What we offer:
+
+The opportunity to work with cutting-edge technologies, including the latest in AWS serverless and no-code/low-code patterns.
+The opportunity to learn and experiment with using generative AI to boost your productivity.
+A team of exceptionally talented engineers from around the world as your peers.
+The chance to work on products that are reshaping industries and making a difference in people's lives.
+
+We're not just using AI as a buzzword. We're at the start of a thrilling journey with generative AI, experimenting and learning to fully leverage its potential and free our engineers from mundane tasks, allowing them to focus on what truly matters: design, decision-making, and understanding the far-reaching implications of different implementation strategies.
+
+Showcase your skills, not just your resume. Take on our challenges: 15-min Cognitive, 90-min Coding, 120-min Technical Decision-Making. Excel and you'll face a decisive interview with our Hiring Manager. More than half walk away with an offer. Ready to unleash your potential? Apply today!
+
+What You Will Be Doing
+
+Developing cloud-native backends and implementing data processing algorithms using the latest serverless cloud patterns, including AWS.
+Review code to ensure adherence to best practices, team standards, and customer requirements.
+
+What You Won’t Be Doing
+
+Spending time on minor bug fixes or features in outdated codebases.
+Dealing with tedious infrastructure to keep poorly written products running.
+Getting stuck in endless meetings discussing roadmaps and priorities or chasing people around.
+
+Basic Requirements
+
+Software Development Engineer key responsibilities
+
+At least 4 years of experience writing production code for the server side of web applications.
+At least 2 years of experience being the primary technical contributor for a development team OR software product.
+At least 1 year of hands-on experience developing using cloud patterns (any cloud vendor).
+An openness to learn to use generative AI in your day-to-day development work.
+
+Nice-to-have Requirements
+
+Experience in using generative AI in your day-to-day development work.
+
+About Trilogy
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+Working with Crossover
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $50 USD/hour, which equates to $100,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+What to expect next:
+
+You will receive an email with a link to start your self-paced, online job application.
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+Important! If you do not receive an email from us:
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/password-recovery if you already applied using LinkedIn EasyApply.
+
+Crossover Job Code: LJ-4358-PH-NCRNatio-SoftwareDevelo.025","Agile Methodologies
+Add,Amazon Web Services (AWS)
+Add,C#
+Add,Java
+Add,SQL
+Add,Software Development
+Add,Web Services
+Add,XML
+Add,"
+Software Engineer - Philippines,"Zywave · Davao, Davao Region, Philippines Reposted 6 days ago · 138 applicants",Remote Full-time Entry level,"About the job
+Brief Description
+
+Position Overview
+
+The ClarionDoor team at Zywave provides a best-in-class, cloud-based, SaaS platform for distributing property & casualty insurance, including a range of products from pricing management, forms management, web service management, reporting/analytics, and more.
+
+Work with us as we implement new customers and support customers already live.
+
+ Implement user interfaces & write backend logic for our customers
+ Connect to and implement web services
+ Resolve customer reported issues
+ Work US hours and interacting directly with implementation and product support teams
+
+Role Responsibilities
+
+ Learn a product inside and out and help the team drive it forward
+ Work with team members to size, prioritize, design, and implement new custom features or resolve production issues
+ Participate in sprint planning for the respective team.
+ Incorporate feedback from internal users and customers
+ Consistently deliver production-grade code
+ Interact with the development team to encourage exchange of ideas and build awareness of the various approaches that have been taken and functionality that exists
+ Learn new things and bring new ideas to the team
+ Foster an innovative, inclusive and diverse team environment, promoting positive team culture, encouraging collaboration, continuous improvement and self-organization.
+
+Position Requirements
+
+ Great attitude & strong desire to learn
+ College degree or equivalent experience in computer science or similar field, including a solid understanding of programming fundamentals
+ 2+ Years of Prior experience and/or examples of prior development work required
+ Ability to interact in a collaborative development environment
+ Experience in agile methodologies is desired (Scrum, Safe, XP)
+ Ability to professionally interact with corporate customers a plus, but not required
+Required skills: Go or PHP, HTML, CSS, JavaScript / TypeScript, VueJS, REST / Web Services
+Preferred skills: Git, AWS (Lambda, EC2, SAM, CDK, etc.), Bootstrap, Symfony, XML/XPATH/XSLT, JSON, MySQL, NoSQL, Linux, Excel
+
+Why work at Zywave?
+
+Zywave is a cutting-edge SaaS company that has led the digital revolution of the insurance industry over the last 25 years. We continue to make waves by launching new product functionality and integrations to deliver a world-class customer experience. Since 2020, Zywave has acquired seven insurtech companies representing over 900 employees globally. With our remote-first environment and core values that encourage employees to grow, belong and transform professionally there are endless opportunities to build new skills and relationships. Why wait to hop aboard the rocket ship? Get onboard now!","Back-End Web Development
+Add,Bootstrap (Framework)
+Add,Computer Science
+Add,Defining Requirements
+Add,Development Work
+Add,Programming
+Add,Service Work
+Add,Skill Development
+Add,TypeScript
+Add,XSLT
+Add,"
+Software Engineer (Config),"Eclaro · Quezon City, National Capital Region, Philippines Reposted 1 week ago · 1 applicant",On-site Full-time Entry level,"About the job
+Data Engineer
+
+Job Description
+
+The team develops innovative predictive models and analytical tools to improve profitability and growth. This position will help support the data engineering needs across a growing portfolio of high-profile analytics projects by developing complex data structures and pipelines leveraging a diverse set of tools and languages. This includes the following cloud-based technologies: Databricks, Snowflake, Spark, Python and Azure Data Factory. As a key member of the Strategic Analytics team, you will advance our data engineering capabilities helping the team analyze data faster.
+
+Job Tasks/ Responsibilities
+
+ Work closely with predictive modelers to assemble large, complex data sets that help solve business problems and increase profitability
+ Perform data manipulation and transformation using SQL and Python
+ Identify, design, and implement internal process improvements: automating manual processes and optimizing data pipelines
+ Client and explore new sources of data with curiosity and creativity
+ Create and maintain optimal data pipeline architecture
+ Author detailed and comprehensible documentation of data pipelines and technical solutions
+ Ensure data quality and completeness
+
+Desired Skills/ Experience
+
+ Advanced working SQL knowledge and experience working with relational databases, query authoring
+ A successful history of manipulating, processing and extracting value from large, disconnected datasets
+ Ideally, 3+ years of experience in a Data Engineer role or equivalent using SQL and/or Python
+ Good organizational skills and attention to detail
+ Excellent critical thinking skills to flag complex data challenges
+ Experience with cloud technologies and Python is a plus
+ Comfortable working in fast paced, highly collaborative environment
+ Ability to effectively communicate to different target audiences
+
+Education
+
+BS in Computer Science, Information Technology degree, Data Analytics or equivalent","Computer Science
+Add,Critical Thinking
+Add,Data Analytics
+Add,Data Manipulation
+Add,Databases
+Add,Organization Skills
+Add,Python (Programming Language)
+Add,Relational Databases
+Add,SQL
+Add,Thinking Skills
+Add,"
+Golang Software Developer (Work from Home) + Signing Bonus!*,Quantrics Enterprises Inc. · Philippines Reposted 1 week ago · 117 applicants,Remote Full-time Entry level,"About the job
+Overview
+Join our award-winning IT team as we lead the way in digital, cloud, and security technology services. You will be playing a critical role in delivering innovative solutions for our biggest client, Canada’s leading telecommunications, tech, and media corporation.
+We’re looking for passionate and creative tech leaders who want to take their career to the next level and make a real impact. Our success is fueled by our people and our passion for innovation, so we empower our Qmunity and provide a workplace where they can flourish and grow.
+ We offer premium benefits, including: 
+Flexible work setup: home-based or hybrid available (reporting to sites in Taytay, San Mateo, Naga, or upcoming Makati or Ortigas Center)
+Salary based on experience, and miscellaneous allowances.
+Performance bonus and yearly increase
+HMO from day 1 for you + 2 free dependents
+6 months paid maternity/paternity leave
+Company-sponsored training and upskilling, and career growth opportunities!
+Signing Bonus worth one month's salary! (Terms and conditions apply)* 
+
+Responsibilities
+ You will have an opportunity to… 
+Develop and support the modernization and next evolution of our Household Ordering systems
+Participate in the analysis, design, and development of middleware and Back End systems to evolve our microservice architecture
+Collaborate in research and development activities to continuously improve our ordering systems.
+Collaborate closely with your colleagues following Agile principles on cross-functional initiatives and cross business unit projects. 
+
+Qualifications
+ Minimum Required Skills & Experience: 
+At least 5 years of experience working on a software development developing complex applications with Go and/or Java
+3+ years of experience in DevOps and software engineering principles including: TDD/BDD, Peer Program m ing, CI/CD
+Demonstrated understanding of Web API development standards: gRPC , GraphQL , REST, SOAP XML
+3+ years of experience in Cloud Technologies (AWS, GCP) and containerized application development with technologies including: OpenShift , Docker, Kubernetes
+Strong communicator and team player 
+
+ You will thrive in this role if you have... 
+Working experience in Product Catalogs and Configure, Price, Quote (CPQ) rules engines
+Fluency with systems and technology concepts (TM forum standards, Telco BSS/OSS architecture, order management/billing/CRM systems)
+Navigating complexity and creative problem solving
+Experience with Agile methodologies (Scrum, Kanban, SAFe )
+CI/CD Tooling: GitLab, Jenkins, Git
+SQL and Non-SQL databases: PostgreSQL, MariaDB, MongoDB, Redis, Cassandra, Oracle, SQL Server
+Caching Tools: Redis, Red Hat DataGrid, SOSS 
+If this role sounds exciting to you, click  APPLY NOW!","Back-End Web Development
+Add,Behavior-Driven Development (BDD)
+Add,Configure Price Quote (CPQ) Software
+Add,Continuous Integration and Continuous Delivery (CI/CD)
+Add,Creative Problem Solving
+Add,GraphQL
+Add,Microservices
+Add,OpenShift
+Add,Rules Engines
+Add,Software Development
+Add,"
+.NET CMS Developer – Work from Home – Day Shift,Filta. · Philippines Reposted 1 day ago · 112 applicants,Remote Full-time Mid-Senior level,"About the job
+Join our vibrant and rapidly expanding advertising agency, where we offer essential support and training to our team members!
+The offer is inclusive of internet allowance + laptop + HMO for you and your dependent within the first month (with Covid insurance coverage).
+The ideal candidate's workstation should be set up in a safe and secure location at home with stable and reliable internet not less than 25 Mbps.
+PHP 130,000 - 150,000 per month
+7:00 am to 4:00 pm, Manila Time, Monday to Friday
+
+Benefits
+HMO healthcare for you and one dependent (with COVID insurance)
+20 combined SL/VLs per year accrued from day one (you will have 10 accrued once you pass regularisation).
+Government Mandated Benefits
+Paid Philippines Public Holidays
+
+Perks
+Potential Access to Over 50 Locations Throughout the Philippines for Work-From-Home or Work-On-Site Options.
+Monthly Social & Wellness Activities
+Member Wellness Program
+Milestone Gifts
+Birthday Cake
+Paid Birthday Leave
+Welcome Gift Packs
+Work Anniversary Gifts
+13th Month Bonus
+Year-End Party
+Christmas Hamper
+Laptop and Internet Allowance
+
+About the Role
+You'll be responsible for integrating HTML templates and developing .NET components & services for bespoke and CMS-driven web applications. You'll have experience in implementing content management, application functionality, and integration requirements while working within an agile development process.
+Working closely with the delivery team and applying industry best practices, you will produce code that is well-architected, clean, consistent, and accurate ensuring that implementation meets the definition of done.
+
+Key Responsibilities
+Contribute to the whole software development lifecycle - from initial architecting, through the development of features and automated tests, to the configuration of deployment pipelines and hosting environments.
+Continuous Integration and automated deployment, using build scripts, preferably using Bamboo.
+Developing a wide range of solutions and working with a team of developers during implementation.
+Help others within the team and take an active part in ensuring the project's success.
+Work with others across disciplines, collaborating with designers, other engineers, QA, and project managers so that we can deliver to the highest standards.
+
+Position Prerequisites
+
+Must-Have
+3+ years of design and development of building public-facing commercial .NET applications.
+Development of CMS-driven web applications based on Optimisely/EPiServer, Umbraco, Sitecore, or Kentico.
+Solid ASP.NET C# MVC5
+Structured and secure REST APIs based on WebAPI
+Azure SQL or MS SQL Server
+Entity Framework and IoC such as Autofac or StructureMap
+Solid understanding of web standards and technologies (HTTP, Request/Response, SSL, Browser caching, cookies, domains, JSON/XML, HTML, DOM, etc)
+Git workflow
+
+Nice-to-Have
+Experience with frontend technologies including HTML5, CSS3, LESS/SASS, and Javascript frameworks such as Vue or React.
+Experience with Atlassian suite including JIRA, Confluence, BitBucket, and Bamboo.
+Digital marketing agency experience
+Experience in e-commerce application development.
+
+About the Company
+They are one of Australia’s largest digital businesses that works with leading client brands across the consumer and healthcare industries. They provide different services such as product experience design, brand communication, marketing platforms, and technology and data analytics to their clients. Creativity and technology are two little words that define their big approach. They are a humble bunch of creatives, technologists, strategists, and tinkerers who invent better outcomes that make a difference for brands, businesses, and people.
+
+Shift Time
+7:00 am to 4:00 pm, Manila Time, Monday to Friday
+
+What’s Next?
+Click the Apply button, attach your CV, and complete the questionnaire!
+
+As this is an urgent requirement, if you want to fast-track your application, complete your application online and connect with Gerlie Condino at https://www.linkedin.com/in/gerlie-condino-79043726/",".NET Framework
+Add,ASP.NET
+Add,ASP.NET MVC
+Add,C#
+Add,Content Management Systems (CMS)
+Add,Git
+Add,HTML5
+Add,JavaScript
+Add,Microsoft SQL Server
+Add,REST APIs
+Add,SQL
+Add,XML
+Add,"
+Application Development Lead,"BDO Unibank · National Capital Region, Philippines Reposted 9 hours ago · 54 applicants",On-site Full-time Mid-Senior level,"About the job
+The Application Development Lead will manage a team in delivering solutions aligned to the outline provided by architects and detailed by the system analysts including, but are not limited to construction of codes, building integration between systems and configuration setup of applications. He/She will work closely with other managers to identify and prioritize resource needs as well as simultaneously directing and motivating the team.
+
+Duties and responsibilities:
+Direct the Development Team in design, development, coding, testing and debugging of applications.
+Work closely with the Delivery Managers, Systems Analysts, Solutions Architects, Vendor and Business Analysts/SME in understanding business and technical requirements and translate these into a low-level technical design/specification.
+Identify and manage resource requirements and work with the Application Team Lead and Delivery Managers to prioritize and ensure timely delivery of the Development Team's output.
+Reports progress and issues in a timely manner and assess and manages risk related to the team's deliverables.
+
+Qualifications:
+Bachelor's Degree in Information Technology, Computer Science, or any related field.
+At least 5 years of experience in IT development.
+At least 2 successful project implementations as a hands-on Technical Team Leader in application development.
+Conversant with programming languages like .Net, C, C#, Java, Javascript, Python, Ruby, PHP, SQL, RPG ILE; development tools like IDE; Configuration Management; Code Review, etc.
+Worked with Agile and Waterfall delivery methods.
+Must be willing to report onsite and be assigned in Makati/Ortigas.",".NET Framework
+Add,C#
+Add,Configuration Management
+Add,IT Development
+Add,Java
+Add,JavaScript
+Add,PHP
+Add,Python (Programming Language)
+Add,RPG
+Add,Ruby
+Add,SQL
+Add,"
+Software Engineer,"CHAMP Cargosystems · Taguig, National Capital Region, Philippines 1 week ago · 30 applicants",Hybrid Full-time Mid-Senior level,"About the job
+Who we are
+Champ Cargosystems is building systems that power the business of cargo airlines all over the world providing solutions for the whole cargo management chain including reservation and booking management, revenue, handling & customs declaration and balancing the weight of the cargo inside the plane.
+ 
+What we do
+We are currently in the process of building the next generation of cargo management applications using modern and widely use technologies and we are looking for motivated people to join our team of interdisciplinary developers.
+ 
+What we currently use
+We build backend services with Java, Spring Boot, Web Services and Oracle / SQL Server / Mongo DB
+We integrate with existing core Java Cargo applications via REST APIs
+We build frontends with Angular and Ionic framework for mobile apps
+We deploy to Linux servers, Windows servers, and AWS with ansible/ANT
+We do continuous integration with Gitlab/Bamboo
+We use Scrum to organize ourselves
+ 
+
+What we expect from you
+Perform several roles such as program coder, tester and technical support
+Collaborate with other software engineers in the performance of assigned tasks.
+Translate design specifications into program codes; enforce the Company’s software engineering methodology and standards.
+Champion good code quality practices towards reliable, performant and maintainable solutions
+Participate in the technical discussions on project updates/ in resolving technical issues.
+Produce clean, efficient code based on specifications.
+Troubleshoot, debug and upgrade existing software.
+Participate in the unit tests and to provide support during system implementation/ migration activities.
+Assist in the preparation of project documentation.
+
+
+What we require from you
+Bachelor’s Degree in Information Technology, Computer Science, Computer Engineering or Equivalent
+Must have 3 years’ experience in Java & object-oriented programming with SQL skills 
+Experience in the following framework or technology is a plus Spring Boot, JPA, REST API, XML, Swing, RMI, Hibernate, EJB, Angular, Ionic, IBM MQ, Kafka 
+Experienced in using the following tools: SVN, Tortoise, Eclipse, Maven or Ant or similar
+With good SQL skills on databases (Oracle, SQL Server)
+Experience in SCRUM and DevOps practices is a plus
+Knowledgeable in design pattern is a plus
+Excellent analytical and problem-solving skills
+Strong interpersonal skills
+Good command of English language is a must
+ 
+What you can expect from us
+Working environment, learning tools and opportunities to grow your technical and professional career
+The possibility to have an impact on the direction to take
+Technical challenges to solve
+The opportunity to work within an interesting industry
+To work with people from many different countries
+
+
+
+CHAMP Cargosystems is an equal opportunity employer and prohibits discrimination and harassment of any kind. We are committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions are based on business needs, job requirements and individual qualifications, without regard to race, ethnic background, religion or belief, family or parental status, or any other status protected by the laws or regulations in the locations where we operate.
+
+Please note that any personal data that you submit along with your application will be processed by CHAMP and may be processed by any of its global entities as necessary. These data will be treated in strict compliance with the applicable data protection legislation (i.e. the Law of 2 August 2002 on the protection of individuals with regard to the processing of personal data, as amended, and Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016, - the GDPR -, which entered into force on 25 May 2018, as well as any other subsequent regulation).
+
+Further details on what is considered personal data, how it is processed by CHAMP as well as your rights in this regard can be found here (https://tinyurl.com/y856wcy5). Any questions relating to this should be addressed to
+
+CHAMP’s Data Protection Officer:
+Gertrud Huberty
+2, rue Edmond Reuter
+Zone d'Activités ""Weiergewan""
+L-5326 Contern
+Luxembourg
+Email: dpo@champ.aero
+Phone: +352 2681 6205”","Computer Engineering
+Add,Computer Science
+Add,Databases
+Add,Java
+Add,Object-Oriented Programming (OOP)
+Add,Problem Solving
+Add,Programming
+Add,Project Documentation
+Add,SQL
+Add,Technical Discussions
+Add,"
+Test Development Operations Process Engineer,"Analog Devices · Cavite, Calabarzon, Philippines 2 weeks ago · 13 applicants",On-site Full-time Entry level,"About the job
+Come join Analog Devices (ADI) – a place where Innovation meets Impact. For more than 55 years, Analog Devices has been inventing new breakthrough technologies that transform lives. At ADI you will work alongside the brightest minds to collaborate on solving complex problems that matter from autonomous vehicles, drones and factories to augmented reality and remote healthcare.
+
+ADI fosters a culture that focuses on employees through beneficial programs, aligned goals, continuous learning opportunities, and practices that create a more sustainable future.
+
+ADI At A Glance
+
+Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $12 billion in FY22 and approximately 25,000 people globally working alongside 125,000 global customers, ADI ensures today’s innovators stay Ahead of What’s Possible.
+
+Enable service expansion and optimization of Test Development Operations (TDO) He/She will create, lead and execute equipment and process optimization initiatives to enable TDO to manage and maximize test development capacity covering manpower and equipment. He/She will be working closely with ADI Test and Measurement customers to gather their requirement to device initiative in meeting their demands. He/She should accomplish this by collaborating and driving ADI factory stakeholders and internal TDO resources.
+
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+
+Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.
+
+Job Req Type: Graduate Job
+
+Required Travel: Yes, 10% of the time","Linux System Administration
+Add,Software Development
+Add,"
